@@ -19,12 +19,12 @@ const router = createRouter({
       }
     },
     {
-      path: '/other',
-      name: 'other',
+      path: '/question',
+      name: 'question',
       // route level code-splitting
       // this generates a separate chunk (About.[hash].js) for this route
       // which is lazy-loaded when the route is visited.
-      component: () => import('../views/OtherView.vue'),
+      component: () => import('../views/QuestionView.vue'),
       meta: {
         title: "???"
       }

@@ -4,17 +4,17 @@ import DataTablesCore from 'datatables.net';
 DataTable.use(DataTablesCore);
 
 const columns = [
-  { data: 'level' },
-  { data: 'title', render: (data, type, row, meta) => `<a target="_blank" href="http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=${row.md5}">${data}</a>` },
-  { data: 'artist', render: (data, type, row, meta) => `<a target="_blank" href="${row.url}">${data}</a>` },
-  { data: 'chart', render: (data, type, row, meta) => row.url_diff ? `<a target="_blank" href="${row.url_diff}">DL</a>` : `` },
-  { data: 'comment' }
+  { data: 'level', "width": "5%"},
+  { data: 'title', "width": "35%", render: (data, type, row, meta) => `<a target="_blank" href="http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=${row.md5}">${data}</a>` },
+  { data: 'artist', "width": "20%", render: (data, type, row, meta) => `<a target="_blank" href="${row.url}">${data}</a>` },
+  { data: 'chart', "width": "5%", render: (data, type, row, meta) => row.url_diff ? `<a target="_blank" href="${row.url_diff}">DL</a>` : `` },
+  { data: 'comment', "width": "35%" }
 ];
 </script>
 
 <template>
   <div class="table">
-    <DataTable :ajax="{url:'/lr2-mypage/double_time.json','dataSrc':''}" :columns="columns" class="display">
+    <DataTable :ajax="{url:'/double_time.json','dataSrc':''}" :columns="columns" class="display">
       <thead>
         <tr>
           <th>Level</th>

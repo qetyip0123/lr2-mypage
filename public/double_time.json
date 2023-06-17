@@ -49,7 +49,7 @@
         "title": "Central DELAY [BEGINNER]",
         "md5": "3b48a96876e3c65f9598a7ae9d95e6ba",
         "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=23&event=60",
-        "url_diff": "http://absolute.pv.land.to/uploader/src/up2698.zip",
+        "url_diff": "http://web.archive.org/http://absolute.pv.land.to/uploader/src/up2698.zip",
         "artist": "P.E / SGR / obj:月門",
         "comment": ""
     },
@@ -60,7 +60,7 @@
         "url": "http://web.archive.org/web/20090918191807/http://www.planetoid.biz/?page_id=8",
         "url_diff": "https://dl.dropboxusercontent.com/s/g3ig60n2oi3nc9g/airsabun.zip",
         "artist": "syatten / air",
-        "comment": "NORMAL判定"
+        "comment": "normal judge"
     },
     {
         "level": "3",
@@ -69,7 +69,7 @@
         "url": "http://web.archive.org/web/20090918191807/http://www.planetoid.biz/?page_id=8",
         "url_diff": "https://dl.dropboxusercontent.com/s/g3ig60n2oi3nc9g/airsabun.zip",
         "artist": "syatten / air",
-        "comment": "NORMAL判定"
+        "comment": "normal judge"
     },
     {
         "level": "6",
@@ -78,24 +78,240 @@
         "url": "http://web.archive.org/web/20090918191807/http://www.planetoid.biz/?page_id=8",
         "url_diff": "https://dl.dropboxusercontent.com/s/g3ig60n2oi3nc9g/airsabun.zip",
         "artist": "syatten / air",
-        "comment": "NORMAL判定"
+        "comment": "normal judge"
     },
     {
         "level": "3",
         "title": "Jade Star [alterative]",
         "md5": "faac4cbd630b2a01b8da4f3f40ba89b4",
-        "url": "http://shiki2.sakura.ne.jp/",
+        "url": "http://web.archive.org/web/20210728184302/http://shiki2.sakura.ne.jp/",
         "url_diff": "http://dl.dropbox.com/u/31329797/sabun/jadestar_altBGA%2B.zip",
         "artist": "SHIKI/ 壱air/obj:lobsak",
-        "comment": "TOTAL 200, NORMAL判定"
+        "comment": "low total, normal judge"
     },
     {
         "level": "5",
         "title": "Jade Star [Dimlight]",
         "md5": "765d908b35d56f9b2bb97d0fbd37d1ff",
-        "url": "http://shiki2.sakura.ne.jp/",
+        "url": "http://web.archive.org/web/20210728184302/http://shiki2.sakura.ne.jp/",
         "url_diff": "https://stellabms.xyz/upload/853",
         "artist": "SHIKI / 壱air obj: qtp13",
-        "comment": "TOTAL 280"
+        "comment": "low total"
+    },
+    {
+        "level": "4",
+        "title": "Pure Ruby -JUNK7-",
+        "md5": "d1877ad5dc0134b27eb0238da5721eed",
+        "url": "http://web.archive.org/web/20210728184302/http://shiki2.sakura.ne.jp/",
+        "url_diff": "http://srdbms.otodo.net",
+        "artist": "SHIKI / obj:sok",
+        "comment": "kickjacks"
+    },
+    {
+        "level": "9",
+        "title": "Pure Ruby [Another+]",
+        "md5": "db91d03800a7a171fe8d33300fefbe2e",
+        "url": "http://web.archive.org/web/20210728184302/http://shiki2.sakura.ne.jp/",
+        "url_diff": "https://dl.dropboxusercontent.com/s/g3ig60n2oi3nc9g/airsabun.zip",
+        "artist": "SHIKI / air",
+        "comment": "only last"
+    },
+    {
+        "level": "8",
+        "title": "Angelic Layer -Heavenly7-",
+        "md5": "17102eac11c4f695d5c926142aaf1b64",
+        "url": "http://web.archive.org/web/20210728184302/http://shiki2.sakura.ne.jp/",
+        "url_diff": "http://xki.is.land.to/bms/sabun.html",
+        "artist": "SHIKI/http://d.hatena.ne.jp/xki/",
+        "comment": ""
+    },
+    {
+        "level": "5",
+        "title": "Angelic Layer ～Reincarnation～",
+        "md5": "a1a91080d47424493ee301726ef3aaeb",
+        "url": "http://web.archive.org/web/20210728184302/http://shiki2.sakura.ne.jp/",
+        "url_diff": "http://sabunbun.yukihotaru.com/sabunokiba.html",
+        "artist": "SHIKI / obj BUN×BUN",
+        "comment": "normal judge"
+    },
+    {
+        "level": "1",
+        "title": "Evangelize (Radio Edit) [PLANET]",
+        "md5": "ba976b164c8d9e397f54191860b3622a",
+        "url": "http://www.dropbox.com/sh/xrr3fvlhagzsmm2/AAC0HdK_kps6UCKtDFTCkpJea/bms/Evangelize%20(Radio%20Edit).rar?dl=0",
+        "url_diff": "http://web.archive.org/http://absolute.pv.land.to/uploader/src/up0507.zip",
+        "artist": "syatten + 140 obj : 霜深",
+        "comment": ""
+    },
+    {
+        "level": "6",
+        "title": "Evangelize (Radio Edit) (SP ミラクル)",
+        "md5": "7b00be2a087de2c29f5527fc439ac157",
+        "url": "http://www.dropbox.com/sh/xrr3fvlhagzsmm2/AAC0HdK_kps6UCKtDFTCkpJea/bms/Evangelize%20(Radio%20Edit).rar?dl=0",
+        "url_diff": "http://onedrive.live.com/?id=CE1DD07774D515B4%21241&cid=CE1DD07774D515B4&group=0",
+        "artist": "syatten + 140 : obj:JEYSON",
+        "comment": "low total"
+    },
+    {
+        "level": "8",
+        "title": "Lapis [World Extend]",
+        "md5": "010d5e5f5225616215c1b365f68a604b",
+        "url": "http://web.archive.org/web/20210728184302/http://shiki2.sakura.ne.jp/",
+        "url_diff": "https://1drv.ms/u/s!ApwaJAUHJdpymi6V8Ih_rYoKDJAj?e=2tRG9K",
+        "artist": "SHIKI obj.nozomi",
+        "comment": ""
+    },
+    {
+        "level": "2",
+        "title": "Lapis [Another+]",
+        "md5": "5c27f600d79853e8196677b0cc637019",
+        "url": "http://web.archive.org/web/20210728184302/http://shiki2.sakura.ne.jp/",
+        "url_diff": "https://dl.dropboxusercontent.com/s/g3ig60n2oi3nc9g/airsabun.zip",
+        "artist": "SHIKI / air",
+        "comment": ""
+    },
+    {
+        "level": "7",
+        "title": "Lapis [FRIDAY]",
+        "md5": "f378874acfd34e09e2c1be0a1b7fdb9b",
+        "url": "http://web.archive.org/web/20210728184302/http://shiki2.sakura.ne.jp/",
+        "url_diff": "http://web.archive.org/http://absolute.pv.land.to/uploader/src/up0198.rar",
+        "artist": "SHIKI / obj: JEYSON",
+        "comment": ""
+    },
+    {
+        "level": "2",
+        "title": "G e n g a o z o _ A",
+        "md5": "8d55301a933cce2ed95ad14647ad8cb3",
+        "url": "http://malie.noor.jp/",
+        "url_diff": "",
+        "artist": "455 / rio",
+        "comment": "unknown difficulty; normal judge fast double streams feels at least st3~ ish"
+    },
+    {
+        "level": "5",
+        "title": "G e n g a o z o _ E X",
+        "md5": "aeb2dd0707f26b1a61f6874bfd99e804",
+        "url": "http://malie.noor.jp/",
+        "url_diff": "http://nekokan.dyndns.info/~lobsak/bms/repair_pack.zip",
+        "artist": "455 / rio / arufis",
+        "comment": "st5~6? total too low"
+    },
+    {
+        "level": "5",
+        "title": "G e n g a o z o _ A F O",
+        "md5": "ec83546f7399d6230807a7bc66d0ac66",
+        "url": "http://malie.noor.jp/",
+        "url_diff": "http://web.archive.org/http://absolute.pv.land.to/",
+        "artist": "455 / rio / black train",
+        "comment": "more lenient recovery than EX (the base chart of)"
+    },
+    {
+        "level": "10",
+        "title": "G e n g a o z o _ G O D",
+        "md5": "5110b92d997eabc3d2322556617632ad",
+        "url": "http://malie.noor.jp/",
+        "url_diff": "http://web.archive.org/http://absolute.pv.land.to/",
+        "artist": "455 / rio / black train",
+        "comment": "not ★12"
+    },
+    {
+        "level": "3",
+        "title": "A c i - L - A",
+        "md5": "8fd0614318cb81d988de5c7f613abe27",
+        "url": "http://malie.noor.jp/",
+        "url_diff": "",
+        "artist": "裏 吉 川",
+        "comment": "very lenient recovery, hard clear is st5+"
+    },
+    {
+        "level": "4",
+        "title": "A c i - L - A",
+        "md5": "88fa1f2205bccce696cf78bbe15f5917",
+        "url": "http://malie.noor.jp/",
+        "url_diff": "https://web.archive.org/web/20130608043755/http://page.freett.com:80/lobsak",
+        "artist": "裏 吉 川",
+        "comment": "harder ending, recovery is still very lenient"
+    },
+    {
+        "level": "9",
+        "title": "A c i - L - G O D",
+        "md5": "dd99972264eeab7e4cd22d9a64ccb569",
+        "url": "http://malie.noor.jp/",
+        "url_diff": "http://web.archive.org/http://absolute.pv.land.to/",
+        "artist": "裏 吉 川 / obj: black train",
+        "comment": "surprisingly easier than Gengaozo_GOD"
+    },
+    {
+        "level": "10",
+        "title": "A c i - L - An...um...",
+        "md5": "87f1756867d68fad094b777fc24c1bef",
+        "url": "http://malie.noor.jp/",
+        "url_diff": "http://web.archive.org/web/20130909065851/http://page.freett.com/ppppxy/bmsabun.zip",
+        "artist": "裏 吉 川 / obj:arufis",
+        "comment": "very low total + normal judge (very random dependant)"
+    },
+    {
+        "level": "3",
+        "title": "Air ANOTHER",
+        "md5": "de7652bd9c80b8830265336a725f7a98",
+        "url": "http://web.archive.org/web/20210728184302/http://shiki2.sakura.ne.jp/",
+        "url_diff": "http://nekokan.dyndns.info/~lobsak/hokan/",
+        "artist": "SHIKI / rio",
+        "comment": "double stair ending ala Qualia? (with anchoring no less)"
+    },
+    {
+        "level": "4",
+        "title": "Air ANOTHER+",
+        "md5": "5cf55487a3cb0dce8d0a40a791955e13",
+        "url": "http://web.archive.org/web/20210728184302/http://shiki2.sakura.ne.jp/",
+        "url_diff": "http://web.archive.org/http://absolute.pv.land.to/",
+        "artist": "SHIKI / black train",
+        "comment": "opening is converted to streams, otherwise the same chart"
+    },
+    {
+        "level": "9",
+        "title": "Air -EXTREME-",
+        "md5": "cb32378ba605aa6439840a222f83688f",
+        "url": "http://web.archive.org/web/20210728184302/http://shiki2.sakura.ne.jp/",
+        "url_diff": "http://web.archive.org/http://absolute.pv.land.to/",
+        "artist": "SHIKI / black train",
+        "comment": "st9~10?"
+    },
+    {
+        "level": "6",
+        "title": "Air -AFOTHER-",
+        "md5": "eb025ebb0c8a8ff5f39e1ebce1c2d08b",
+        "url": "http://web.archive.org/web/20210728184302/http://shiki2.sakura.ne.jp/",
+        "url_diff": "http://web.archive.org/http://absolute.pv.land.to/",
+        "artist": "SHIKI / black train",
+        "comment": "trivial with the correct random (I don't even know what is this chart supposed to be...)"
+    },
+    {
+        "level": "6",
+        "title": "Air -MANIAQ-",
+        "md5": "1e69627c0ca4628b67f731bc36423875",
+        "url": "http://web.archive.org/web/20210728184302/http://shiki2.sakura.ne.jp/",
+        "url_diff": "http://web.archive.org/http://absolute.pv.land.to/",
+        "artist": "SHIKI / black train",
+        "comment": ""
+    },
+    {
+        "level": "1",
+        "title": "before... [7key/虎の穴]",
+        "md5": "2fe5d85b530637ef0093c954fec91378",
+        "url": "https://sound.jp/brilliantharmony/",
+        "url_diff": "http://web.archive.org/http://absolute.pv.land.to/",
+        "artist": "やっす～ / obj:black train",
+        "comment": ""
+    },
+    {
+        "level": "6",
+        "title": "before... [7key/AFOTHER]",
+        "md5": "6f5191238a207f05643a84d50adcc030",
+        "url": "https://sound.jp/brilliantharmony/",
+        "url_diff": "http://web.archive.org/http://absolute.pv.land.to/",
+        "artist": "やっす～ / obj:black train",
+        "comment": "st6~7?"
     }
 ]
