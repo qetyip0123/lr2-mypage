@@ -7,13 +7,17 @@
     "build": "vite build",
     "preview": "vite preview",
     "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs --fix --ignore-path .gitignore",
-    "format": "prettier --write src/"
+    "format": "prettier --write src/",
+    "gh-pages-deploy": "node scripts/gh-pages-deploy.mjs"
   },
   "dependencies": {
+    "datatables.net-dt": "^1.13.4",
+    "datatables.net-vue3": "^2.1.1",
     "vue": "^3.3.2",
     "vue-router": "^4.2.0"
   },
   "devDependencies": {
+    "execa": "latest",
     "@rushstack/eslint-patch": "^1.2.0",
     "@vitejs/plugin-vue": "^4.2.3",
     "@vue/eslint-config-prettier": "^7.1.0",

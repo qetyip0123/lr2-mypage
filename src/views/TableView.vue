@@ -1,0 +1,49 @@
+<script setup>
+import DataTable from 'datatables.net-vue3';
+import DataTablesCore from 'datatables.net';
+DataTable.use(DataTablesCore);
+
+const columns = [
+  { data: 'level' },
+  { data: 'title', render: (data, type, row, meta) => `<a target="_blank" href="http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=${row.md5}">${data}</a>` },
+  { data: 'artist', render: (data, type, row, meta) => `<a target="_blank" href="${row.url}">${data}</a>` },
+  { data: 'chart', render: (data, type, row, meta) => row.url_diff ? `<a target="_blank" href="${row.url_diff}">DL</a>` : `` },
+  { data: 'comment' }
+];
+</script>
+
+<template>
+  <div class="table">
+    <DataTable :ajax="{url:'/double_time.json','dataSrc':''}" :columns="columns" class="display">
+      <thead>
+        <tr>
+          <th>Level</th>
+          <th>Title</th>
+          <th>Artist</th>
+          <th>Chart</th>
+          <th>Notes</th>
+        </tr>
+      </thead>
+      <tfoot>
+        <tr>
+          <th>Level</th>
+          <th>Title</th>
+          <th>Artist</th>
+          <th>Chart</th>
+          <th>Notes</th>
+        </tr>
+      </tfoot>
+    </DataTable>
+  </div>
+</template>
+<style>
+@import 'datatables.net-dt';
+
+.dataTables_wrapper .dataTables_length select {
+  background-color: white;
+}
+
+.dataTables_wrapper .dataTables_filter input {
+  background-color: white;
+}
+</style>
