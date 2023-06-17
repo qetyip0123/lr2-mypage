@@ -13,7 +13,7 @@ const router = createRouter({
         metaTags: [
           {
             name: "bmstable",
-            content: "/header.json"
+            content: "/lr2-mypage/header.json"
           }
         ]
       }

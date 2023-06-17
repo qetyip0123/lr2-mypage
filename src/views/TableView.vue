@@ -14,7 +14,7 @@ const columns = [
 
 <template>
   <div class="table">
-    <DataTable :ajax="{url:'/double_time.json','dataSrc':''}" :columns="columns" class="display">
+    <DataTable :ajax="{url:'/lr2-mypage/double_time.json','dataSrc':''}" :columns="columns" class="display">
       <thead>
         <tr>
           <th>Level</th>
