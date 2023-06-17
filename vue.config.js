@@ -1,2 +1,5 @@
-module.exports={
-public.path:"/lr2-mypage"}
+module.exports = {
+    publicPath: process.env.NODE_ENV === 'production'
+        ? '/lr2-mypage/'
+        : '/'
+}
