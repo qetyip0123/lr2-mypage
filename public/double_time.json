@@ -2,6 +2,7 @@
     {
         "level": "10",
         "title": "ひつぎとふたご [7KEY/LUNATIC]",
+        "lr2_bmsid": "1125",
         "md5": "79dc444b48299814462ff23a2bf3ab79",
         "url_diff": "https://web.archive.org/web/20190329105351/http://www.geocities.jp/minomusiwokokoronisoete/bmssabun.html",
         "url": "http://web.archive.org/web/20110717154114/http://placase.bms.ms/music.htm",
@@ -11,6 +12,7 @@
     {
         "level": "6",
         "title": "ひつぎとふたご [7KEY/AFOTHER]",
+        "lr2_bmsid": "91060",
         "md5": "80584225c6e81575ff8646e94b97c169",
         "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up1672.zip",
         "url": "http://web.archive.org/web/20110717154114/http://placase.bms.ms/music.htm",
@@ -20,6 +22,7 @@
     {
         "level": "4",
         "title": "ひつぎとふたご ～狂気ノ宴～",
+        "lr2_bmsid": "666",
         "md5": "50b6f903b6cbeb0487414003f486c7a4",
         "url": "http://web.archive.org/web/20110717154114/http://placase.bms.ms/music.htm",
         "url_diff": "http://sabunbun.yukihotaru.com/sabunokiba.html",
@@ -29,6 +32,7 @@
     {
         "level": "9",
         "title": "ひつぎとふたご [逝]",
+        "lr2_bmsid": "180987",
         "md5": "748b1b7d1244c6b977cdbf7fb3722703",
         "url": "http://web.archive.org/web/20110717154114/http://placase.bms.ms/music.htm",
         "url_diff": "http://srdbms.otodo.net/sabun/futago_srdX.zip",
@@ -38,6 +42,7 @@
     {
         "level": "10",
         "title": "Central DELAY",
+        "lr2_bmsid": "76551",
         "md5": "f3b5befffd5b4bb1177ba91091e72307",
         "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=23&event=60",
         "url_diff": "http://hakkanbms.web.fc2.com/sabun.html",
@@ -47,6 +52,7 @@
     {
         "level": "1",
         "title": "Central DELAY [BEGINNER]",
+        "lr2_bmsid": "130323",
         "md5": "3b48a96876e3c65f9598a7ae9d95e6ba",
         "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=23&event=60",
         "url_diff": "http://web.archive.org/http://absolute.pv.land.to/uploader/src/up2698.zip",
@@ -56,6 +62,7 @@
     {
         "level": "1",
         "title": "aliceblue (Radio Edit) (SP EX)",
+        "lr2_bmsid": "25",
         "md5": "dbe5b5890e751aefbbee6187797b6e66",
         "url": "http://web.archive.org/web/20090918191807/http://www.planetoid.biz/?page_id=8",
         "url_diff": "https://dl.dropboxusercontent.com/s/g3ig60n2oi3nc9g/airsabun.zip",
@@ -65,6 +72,7 @@
     {
         "level": "3",
         "title": "aliceblue (Radio Edit) (SP EX+)",
+        "lr2_bmsid": "1223",
         "md5": "5a9eede846c0a2d13e27c86326b164f8",
         "url": "http://web.archive.org/web/20090918191807/http://www.planetoid.biz/?page_id=8",
         "url_diff": "https://dl.dropboxusercontent.com/s/g3ig60n2oi3nc9g/airsabun.zip",
@@ -74,6 +82,7 @@
     {
         "level": "6",
         "title": "aliceblue (Radio Edit) (SP EX++)",
+        "lr2_bmsid": "194",
         "md5": "10e32182c81f2c4fafbe18946c75b04f",
         "url": "http://web.archive.org/web/20090918191807/http://www.planetoid.biz/?page_id=8",
         "url_diff": "https://dl.dropboxusercontent.com/s/g3ig60n2oi3nc9g/airsabun.zip",
@@ -82,7 +91,8 @@
     },
     {
         "level": "3",
-        "title": "Jade Star [alterative]",
+        "title": "Jade Star [alternative]",
+        "lr2_bmsid": "359",
         "md5": "faac4cbd630b2a01b8da4f3f40ba89b4",
         "url": "http://web.archive.org/web/20210728184302/http://shiki2.sakura.ne.jp/",
         "url_diff": "http://dl.dropbox.com/u/31329797/sabun/jadestar_altBGA%2B.zip",
@@ -92,6 +102,7 @@
     {
         "level": "5",
         "title": "Jade Star [Dimlight]",
+        "lr2_bmsid": "298934",
         "md5": "765d908b35d56f9b2bb97d0fbd37d1ff",
         "url": "http://web.archive.org/web/20210728184302/http://shiki2.sakura.ne.jp/",
         "url_diff": "https://stellabms.xyz/upload/853",
@@ -101,6 +112,7 @@
     {
         "level": "4",
         "title": "Pure Ruby -JUNK7-",
+        "lr2_bmsid": "49164",
         "md5": "d1877ad5dc0134b27eb0238da5721eed",
         "url": "http://web.archive.org/web/20210728184302/http://shiki2.sakura.ne.jp/",
         "url_diff": "http://srdbms.otodo.net",
@@ -110,6 +122,7 @@
     {
         "level": "9",
         "title": "Pure Ruby [Another+]",
+        "lr2_bmsid": "646",
         "md5": "db91d03800a7a171fe8d33300fefbe2e",
         "url": "http://web.archive.org/web/20210728184302/http://shiki2.sakura.ne.jp/",
         "url_diff": "https://dl.dropboxusercontent.com/s/g3ig60n2oi3nc9g/airsabun.zip",
@@ -119,6 +132,7 @@
     {
         "level": "8",
         "title": "Angelic Layer -Heavenly7-",
+        "lr2_bmsid": "533",
         "md5": "17102eac11c4f695d5c926142aaf1b64",
         "url": "http://web.archive.org/web/20210728184302/http://shiki2.sakura.ne.jp/",
         "url_diff": "http://xki.is.land.to/bms/sabun.html",
@@ -128,6 +142,7 @@
     {
         "level": "5",
         "title": "Angelic Layer ～Reincarnation～",
+        "lr2_bmsid": "1217",
         "md5": "a1a91080d47424493ee301726ef3aaeb",
         "url": "http://web.archive.org/web/20210728184302/http://shiki2.sakura.ne.jp/",
         "url_diff": "http://sabunbun.yukihotaru.com/sabunokiba.html",
@@ -137,6 +152,7 @@
     {
         "level": "1",
         "title": "Evangelize (Radio Edit) [PLANET]",
+        "lr2_bmsid": "42103",
         "md5": "ba976b164c8d9e397f54191860b3622a",
         "url": "http://www.dropbox.com/sh/xrr3fvlhagzsmm2/AAC0HdK_kps6UCKtDFTCkpJea/bms/Evangelize%20(Radio%20Edit).rar?dl=0",
         "url_diff": "http://web.archive.org/http://absolute.pv.land.to/uploader/src/up0507.zip",
@@ -146,6 +162,7 @@
     {
         "level": "6",
         "title": "Evangelize (Radio Edit) (SP ミラクル)",
+        "lr2_bmsid": "28",
         "md5": "7b00be2a087de2c29f5527fc439ac157",
         "url": "http://www.dropbox.com/sh/xrr3fvlhagzsmm2/AAC0HdK_kps6UCKtDFTCkpJea/bms/Evangelize%20(Radio%20Edit).rar?dl=0",
         "url_diff": "http://onedrive.live.com/?id=CE1DD07774D515B4%21241&cid=CE1DD07774D515B4&group=0",
@@ -153,8 +170,29 @@
         "comment": "low total"
     },
     {
+        "level": "10",
+        "title": "Evangelize (Radio Edit) (SP FRIDAY)",
+        "lr2_bmsid": "1510",
+        "md5": "eb961de5b7703657a08fe2dce340e5d6",
+        "url": "http://www.dropbox.com/sh/xrr3fvlhagzsmm2/AAC0HdK_kps6UCKtDFTCkpJea/bms/Evangelize%20(Radio%20Edit).rar?dl=0",
+        "url_diff": "http://onedrive.live.com/?id=CE1DD07774D515B4%21241&cid=CE1DD07774D515B4&group=0",
+        "artist": "syatten + 140 : obj:JEYSON",
+        "comment": "low total"
+    },
+    {
+        "level": "7",
+        "title": "Evangelize (Radio Edit) [Oracle]",
+        "lr2_bmsid": "329382",
+        "md5": "3e4ff8c96296a73d4d61c9696eb529b2",
+        "url": "http://www.dropbox.com/sh/xrr3fvlhagzsmm2/AAC0HdK_kps6UCKtDFTCkpJea/bms/Evangelize%20(Radio%20Edit).rar?dl=0",
+        "url_diff": "https://stellabms.xyz/upload/3579",
+        "artist": "syatten + 140 Obj: Qualle",
+        "comment": "sl10"
+    },
+    {
         "level": "8",
         "title": "Lapis [World Extend]",
+        "lr2_bmsid": "300750",
         "md5": "010d5e5f5225616215c1b365f68a604b",
         "url": "http://web.archive.org/web/20210728184302/http://shiki2.sakura.ne.jp/",
         "url_diff": "https://1drv.ms/u/s!ApwaJAUHJdpymi6V8Ih_rYoKDJAj?e=2tRG9K",
@@ -164,6 +202,7 @@
     {
         "level": "2",
         "title": "Lapis [Another+]",
+        "lr2_bmsid": "439",
         "md5": "5c27f600d79853e8196677b0cc637019",
         "url": "http://web.archive.org/web/20210728184302/http://shiki2.sakura.ne.jp/",
         "url_diff": "https://dl.dropboxusercontent.com/s/g3ig60n2oi3nc9g/airsabun.zip",
@@ -173,6 +212,7 @@
     {
         "level": "7",
         "title": "Lapis [FRIDAY]",
+        "lr2_bmsid": "1311",
         "md5": "f378874acfd34e09e2c1be0a1b7fdb9b",
         "url": "http://web.archive.org/web/20210728184302/http://shiki2.sakura.ne.jp/",
         "url_diff": "http://web.archive.org/http://absolute.pv.land.to/uploader/src/up0198.rar",
@@ -182,6 +222,7 @@
     {
         "level": "2",
         "title": "G e n g a o z o _ A",
+        "lr2_bmsid": "2493",
         "md5": "8d55301a933cce2ed95ad14647ad8cb3",
         "url": "http://malie.noor.jp/",
         "url_diff": "",
@@ -191,6 +232,7 @@
     {
         "level": "5",
         "title": "G e n g a o z o _ E X",
+        "lr2_bmsid": "127",
         "md5": "aeb2dd0707f26b1a61f6874bfd99e804",
         "url": "http://malie.noor.jp/",
         "url_diff": "http://nekokan.dyndns.info/~lobsak/bms/repair_pack.zip",
@@ -200,6 +242,7 @@
     {
         "level": "5",
         "title": "G e n g a o z o _ A F O",
+        "lr2_bmsid": "117",
         "md5": "ec83546f7399d6230807a7bc66d0ac66",
         "url": "http://malie.noor.jp/",
         "url_diff": "http://web.archive.org/http://absolute.pv.land.to/",
@@ -209,6 +252,7 @@
     {
         "level": "10",
         "title": "G e n g a o z o _ G O D",
+        "lr2_bmsid": "131877",
         "md5": "5110b92d997eabc3d2322556617632ad",
         "url": "http://malie.noor.jp/",
         "url_diff": "http://web.archive.org/http://absolute.pv.land.to/",
@@ -218,6 +262,7 @@
     {
         "level": "3",
         "title": "A c i - L - A",
+        "lr2_bmsid": "1196",
         "md5": "8fd0614318cb81d988de5c7f613abe27",
         "url": "http://malie.noor.jp/",
         "url_diff": "",
@@ -227,6 +272,7 @@
     {
         "level": "4",
         "title": "A c i - L - A",
+        "lr2_bmsid": "493",
         "md5": "88fa1f2205bccce696cf78bbe15f5917",
         "url": "http://malie.noor.jp/",
         "url_diff": "https://web.archive.org/web/20130608043755/http://page.freett.com:80/lobsak",
@@ -236,6 +282,7 @@
     {
         "level": "9",
         "title": "A c i - L - G O D",
+        "lr2_bmsid": "354",
         "md5": "dd99972264eeab7e4cd22d9a64ccb569",
         "url": "http://malie.noor.jp/",
         "url_diff": "http://web.archive.org/http://absolute.pv.land.to/",
@@ -245,6 +292,7 @@
     {
         "level": "10",
         "title": "A c i - L - An...um...",
+        "lr2_bmsid": "1398",
         "md5": "87f1756867d68fad094b777fc24c1bef",
         "url": "http://malie.noor.jp/",
         "url_diff": "http://web.archive.org/web/20130909065851/http://page.freett.com/ppppxy/bmsabun.zip",
@@ -254,6 +302,7 @@
     {
         "level": "3",
         "title": "Air ANOTHER",
+        "lr2_bmsid": "21",
         "md5": "de7652bd9c80b8830265336a725f7a98",
         "url": "http://web.archive.org/web/20210728184302/http://shiki2.sakura.ne.jp/",
         "url_diff": "http://nekokan.dyndns.info/~lobsak/hokan/",
@@ -263,6 +312,7 @@
     {
         "level": "4",
         "title": "Air ANOTHER+",
+        "lr2_bmsid": "455",
         "md5": "5cf55487a3cb0dce8d0a40a791955e13",
         "url": "http://web.archive.org/web/20210728184302/http://shiki2.sakura.ne.jp/",
         "url_diff": "http://web.archive.org/http://absolute.pv.land.to/",
@@ -272,6 +322,7 @@
     {
         "level": "10",
         "title": "Air -EXTREME-",
+        "lr2_bmsid": "742",
         "md5": "cb32378ba605aa6439840a222f83688f",
         "url": "http://web.archive.org/web/20210728184302/http://shiki2.sakura.ne.jp/",
         "url_diff": "http://web.archive.org/http://absolute.pv.land.to/",
@@ -281,6 +332,7 @@
     {
         "level": "6",
         "title": "Air -AFOTHER-",
+        "lr2_bmsid": "1411",
         "md5": "eb025ebb0c8a8ff5f39e1ebce1c2d08b",
         "url": "http://web.archive.org/web/20210728184302/http://shiki2.sakura.ne.jp/",
         "url_diff": "http://web.archive.org/http://absolute.pv.land.to/",
@@ -290,6 +342,7 @@
     {
         "level": "6",
         "title": "Air -MANIAQ-",
+        "lr2_bmsid": "1234",
         "md5": "1e69627c0ca4628b67f731bc36423875",
         "url": "http://web.archive.org/web/20210728184302/http://shiki2.sakura.ne.jp/",
         "url_diff": "http://web.archive.org/http://absolute.pv.land.to/",
@@ -299,6 +352,7 @@
     {
         "level": "1",
         "title": "before... [7key/虎の穴]",
+        "lr2_bmsid": "2609",
         "md5": "2fe5d85b530637ef0093c954fec91378",
         "url": "https://sound.jp/brilliantharmony/",
         "url_diff": "http://web.archive.org/http://absolute.pv.land.to/",
@@ -308,6 +362,7 @@
     {
         "level": "4",
         "title": "before... [7key/AFOTHER]",
+        "lr2_bmsid": "459",
         "md5": "6f5191238a207f05643a84d50adcc030",
         "url": "https://sound.jp/brilliantharmony/",
         "url_diff": "http://web.archive.org/http://absolute.pv.land.to/",
@@ -317,7 +372,8 @@
     {
         "level": "6",
         "title": "Flesvelka [Resurrection]",
-        "bmsid": "73494",
+        "lr2_bmsid": "73494",
+        "md5": "519cc13562c5148c271cb9b13ed8807b",
         "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=13&event=64",
         "url_diff": "http://yumerusabun.web.fc2.com/nue.html",
         "artist": "Grand Thaw / obj:夢瑠",
@@ -326,7 +382,8 @@
     {
         "level": "6",
         "title": "蒼く爽昧な夢のようで [BlackAnother]",
-        "bmsid": "286590",
+        "lr2_bmsid": "286590",
+        "md5": "3f055cc6d0e7b394b3952b5927235860",
         "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=26&event=131",
         "url_diff": "",
         "artist": "ポロロッカ",
@@ -335,7 +392,8 @@
     {
         "level": "9",
         "title": "RAKUGAKI NOTE",
-        "bmsid": "287108",
+        "lr2_bmsid": "287108",
+        "md5": "9680eaf3beed0ee172bcf772843c381e",
         "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=84&event=131",
         "url_diff": "",
         "artist": "kas_0120",
@@ -344,16 +402,28 @@
     {
         "level": "9",
         "title": "堕楽の園 [EXTASIM]",
-        "bmsid": "222820",
+        "lr2_bmsid": "222820",
+        "md5": "4b347c77f74ff4880673448664d0d1ea",
         "url": "https://extrose.stoicsounds.jp/_data/bms/gmtn/%2331%20%5BILLEGAL%20GOTHIC%20SCHRANZ%5D%20%E5%A0%95%E6%A5%BD%E3%81%AE%E5%9C%92.zip",
         "url_diff": "https://mirror.lovelyrad.io/bof/src/up1051.zip",
         "artist": "witch's slave Graphic by Est / obj:0war1a VS saaa",
         "comment": ""
     },
     {
+        "level": "7",
+        "title": "Q [SAETHER]",
+        "lr2_bmsid": "211865",
+        "md5": "22e753d47b54f78e2cdd1473276f5d4b",
+        "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=7&event=101",
+        "url_diff": "http://absolute.pv.land.to/uploader/src/up5491.zip",
+        "artist": "tanacoro obj:saaa",
+        "comment": "Q"
+    },
+    {
         "level": "5",
         "title": "夢人形 -Extra dream-",
-        "bmsid": "1209",
+        "lr2_bmsid": "1209",
+        "md5": "e31b4a50d7aa493f7746c6a17f2b3069",
         "url": "http://malie.noor.jp/",
         "url_diff": "http://web.archive.org/web/20130909065851/http://page.freett.com/ppppxy/bmsabun.zip",
         "artist": "-45 obj Kz / objectpakuri:arufis",
@@ -362,7 +432,8 @@
     {
         "level": "9",
         "title": "デネブ・コネクション -Despair-",
-        "bmsid": "318414",
+        "lr2_bmsid": "318414",
+        "md5": "1388f3f994d93c25b1d550c8cf05dbbd",
         "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=211&event=140",
         "url_diff": "https://egosa0424.github.io/sabun/deneb_nanami.zip",
         "artist": "Abel & Kamisys mov. D_unknown & KimAutomne, obj. 七海",
@@ -371,7 +442,8 @@
     {
         "level": "9",
         "title": "Regain [True End Stories]",
-        "bmsid": "306234",
+        "lr2_bmsid": "306234",
+        "md5": "419580b963e408ab3eb4bf225ea78af5",
         "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=242&event=137",
         "url_diff": "https://darksabun.github.io/event/bofxvii/",
         "artist": "ProjectG obj.ProjectH",
@@ -380,7 +452,8 @@
     {
         "level": "1",
         "title": "Regain [EGO DEATH]",
-        "bmsid": "303931",
+        "lr2_bmsid": "303931",
+        "md5": "0cbc7b980f664e7e0eb2214c965c2180",
         "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=242&event=137",
         "url_diff": "",
         "artist": "ProjectG obj: Scely",
@@ -389,25 +462,68 @@
     {
         "level": "6",
         "title": "Fleeing Sunlight -逃げ回る太陽-",
-        "bmsid": "316351",
+        "lr2_bmsid": "316351",
+        "md5": "cdbd5dbe2b9b239cc553b03e76dff202",
         "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=103&event=140",
         "url_diff": "https://egosa0424.github.io/sabun/Fleeing_Sunlight_nanami.zip",
         "artist": "おみー obj:七海",
         "comment": "Klee"
     },
     {
+        "level": "2",
+        "title": "Fleeing Sunlight",
+        "lr2_bmsid": "314859",
+        "md5": "cd6d33af495b5b69d68536187c590406",
+        "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=103&event=140",
+        "url_diff": "",
+        "artist": "おみー",
+        "comment": "SP Another"
+    },
+    {
         "level": "9",
         "title": "Black Lair [EXPERT]",
-        "bmsid": "276300",
+        "lr2_bmsid": "276300",
+        "md5": "1abcae664a42b09d1b25dc7696b3769f",
         "url": "http://web.archive.org/web/20131206203702/http://sakuzyo.net/sakuzyo_black_lair_ogg.zip",
         "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/03278.zip",
         "artist": "削除 feat. void / 浪漫映像制作倶楽部 / obj : И",
         "comment": ""
     },
     {
+        "level": "2",
+        "title": "Black Lair [ANOTHER]",
+        "lr2_bmsid": "136171",
+        "md5": "16b3656f142cfe1531e2bd5e4cd9d2c3",
+        "url": "http://web.archive.org/web/20131206203702/http://sakuzyo.net/sakuzyo_black_lair_ogg.zip",
+        "url_diff": "",
+        "artist": "削除 feat. void / 浪漫映像制作倶楽部 / obj : xi",
+        "comment": ""
+    },
+    {
+        "level": "6",
+        "title": "Black Lair [INSANE]",
+        "lr2_bmsid": "135842",
+        "md5": "7300591ce85f888fbefe6984dc4938c3",
+        "url": "http://web.archive.org/web/20131206203702/http://sakuzyo.net/sakuzyo_black_lair_ogg.zip",
+        "url_diff": "",
+        "artist": "削除 feat. void / 浪漫映像制作倶楽部 / obj : xi",
+        "comment": ""
+    },
+    {
+        "level": "7",
+        "title": "Chocomint Mille-feuille [73Another]",
+        "lr2_bmsid": "275462",
+        "md5": "a96d40601a30d25eb1d694ac7d0662e6",
+        "url": "https://venue.bmssearch.net/bmsshuin2/41",
+        "url_diff": "",
+        "artist": "NASA",
+        "comment": "Delay anmitsu"
+    },
+    {
         "level": "9",
         "title": "Chocomint Mille-feuille [Jammed]",
-        "bmsid": "275575",
+        "lr2_bmsid": "275575",
+        "md5": "4c286f9ab3ef84375afd508a5f084115",
         "url": "https://venue.bmssearch.net/bmsshuin2/41",
         "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/03178.zip",
         "artist": "NASA obj:rebel.",
@@ -416,7 +532,8 @@
     {
         "level": "9",
         "title": "Lunatic of the Full-Moon (Lunatic7)",
-        "bmsid": "81417",
+        "lr2_bmsid": "81417",
+        "md5": "39d2d83a18b86d0e0c44df19bae677c8",
         "url": "http://cid-ce1dd07774d515b4.office.live.com/self.aspx/.Public/Lunatic%20of%20the%20Full-Moon.rar",
         "url_diff": "",
         "artist": "sun3 obj:yozuca",
@@ -425,16 +542,18 @@
     {
         "level": "8",
         "title": "Speed of Light [Absolute]",
-        "bmsid": "241665",
+        "lr2_bmsid": "241665",
+        "md5": "929bd6d076aae585c7eef257e7f8b4bc",
         "url": "https://yuinore.net/2017/02/smc-package/",
         "url_diff": "",
         "artist": "Yu^ta",
         "comment": "st8.5; free recovery"
     },
     {
-        "level": "1",
+        "level": "0",
         "title": "Speed of Light [Another]",
-        "bmsid": "241630",
+        "lr2_bmsid": "241630",
+        "md5": "5ca3bf72d4a03fa8823b102762ec98e5",
         "url": "https://yuinore.net/2017/02/smc-package/",
         "url_diff": "",
         "artist": "Yu^ta",
@@ -443,7 +562,8 @@
     {
         "level": "0",
         "title": "あのね、涙は。 [月と星]",
-        "bmsid": "259424",
+        "lr2_bmsid": "259424",
+        "md5": "9dd56ca71a0561a368ee819e719fac9b",
         "url": "https://venue.bmssearch.net/3/7",
         "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/01935.zip",
         "artist": "竜。 feat.結月ゆかり obj:紲星あかり",
@@ -452,7 +572,8 @@
     {
         "level": "11",
         "title": "あのね、涙は。 [凛]",
-        "bmsid": "259442",
+        "lr2_bmsid": "259442",
+        "md5": "c9f44a0d9e15f2f4f72dd99a75d0ee3b",
         "url": "https://venue.bmssearch.net/3/7",
         "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/01935.zip",
         "artist": "竜。 feat.結月ゆかり obj:音ゲーマーゆかり",
@@ -461,7 +582,8 @@
     {
         "level": "9",
         "title": "あい☆こんぷりーと [平凡な女の子の優しい譜面]",
-        "bmsid": "284072",
+        "lr2_bmsid": "284072",
+        "md5": "e7cfa8b0c28317642de91322d1dcfebe",
         "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=34&event=84",
         "url_diff": "https://www.dropbox.com/s/1ounmbyz685k3cu/_aiko_MarySue_yasasii.bme?dl=1",
         "artist": "ねこみりん feat.小宮真央 Movie: 石王マサト / Obj: Mary_Sue",
@@ -470,25 +592,58 @@
     {
         "level": "8",
         "title": "searoad tracks =side blue=",
-        "bmsid": "284701",
+        "lr2_bmsid": "284701",
+        "md5": "1811a0d0f5d12b6a2c06f1bbd58232b9",
         "url": "https://web.archive.org/web/20070727155516/http://sasakure.bms.ms/bms/searoadremix2.zip",
         "url_diff": "https://bms.parksulab.xyz/sabun/7/searoadremix_7.zip",
         "artist": "sasakure.UK",
-        "comment": "freedive tracks ↓side blue↓"
+        "comment": "(Arrange+) freedive tracks ↓side blue↓"
+    },
+    {
+        "level": "3",
+        "title": "searoad tracks =side blue=",
+        "lr2_bmsid": "58",
+        "md5": "6322a76fcbcb7660381b1fc89e8d5f4d",
+        "url": "https://web.archive.org/web/20070727155516/http://sasakure.bms.ms/bms/searoadremix2.zip",
+        "url_diff": "",
+        "artist": "sasakure.UK",
+        "comment": "(AquAStorm)"
+    },
+    {
+        "level": "0",
+        "title": "searoad tracks =side blue= [Middle Blue]",
+        "lr2_bmsid": "330144",
+        "md5": "450d9bc437f48a65642fa629cd3e2789",
+        "url": "https://web.archive.org/web/20070727155516/http://sasakure.bms.ms/bms/searoadremix2.zip",
+        "url_diff": "https://darksabun.github.io/event/1998to2024/",
+        "artist": "sasakure.UK obj. HJY",
+        "comment": ""
     },
     {
         "level": "8",
         "title": "ハートマークとエンドロール [Coeur]",
-        "bmsid": "236253",
+        "lr2_bmsid": "236253",
+        "md5": "ed2ed05899fc1cddc0f3c45a030da778",
         "url": "https://www.dropbox.com/s/q42c7lcoj5mmxbx/haert_and_end.zip?dl=0",
         "url_diff": "",
         "artist": "KA-KU feat.春歌ナナ",
         "comment": "st8~9"
     },
     {
+        "level": "3",
+        "title": "ハートマークとエンドロール [Another+]",
+        "lr2_bmsid": "234607",
+        "md5": "bee8af252f715932adf387d0b0b07f85",
+        "url": "https://www.dropbox.com/s/q42c7lcoj5mmxbx/haert_and_end.zip?dl=0",
+        "url_diff": "",
+        "artist": "KA-KU feat.春歌ナナ",
+        "comment": ""
+    },
+    {
         "level": "10",
         "title": "D3C3MB3R [G0D]",
-        "bmsid": "297553",
+        "lr2_bmsid": "297553",
+        "md5": "e4d3f2907ce7b35a3f9736db024756b8",
         "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=405&event=133",
         "url_diff": "https://stellabms.xyz/upload/742",
         "artist": "eicateve movie:龍花 / object:Restia",
@@ -497,16 +652,28 @@
     {
         "level": "5",
         "title": "eve solstice mix -kuso-",
-        "bmsid": "1682",
+        "lr2_bmsid": "1682",
+        "md5": "799baceaff9186227b4e8a8121d14eb0",
         "url": "http://1drv.ms/1AICGpH",
         "url_diff": "https://dl.dropboxusercontent.com/s/g3ig60n2oi3nc9g/airsabun.zip",
         "artist": "eir / orig: Soushi Mizutani / air",
         "comment": "TOTAL 200"
     },
     {
+        "level": "2",
+        "title": "evondo (sondolstice mix)",
+        "lr2_bmsid": "283125",
+        "md5": "9b26a2c178a5fb10c8224e45c976b7a6",
+        "url": "http://1drv.ms/1AICGpH",
+        "url_diff": "https://1drv.ms/u/s!AvnW9UAQwnyAkUAHyA0b1_a6Z-00?e=IyCzeD",
+        "artist": "eir / orig: Soushi Mizutani / obj:Holy",
+        "comment": ""
+    },
+    {
         "level": "9",
         "title": "Clockwork (Black Another)",
-        "bmsid": "156930",
+        "lr2_bmsid": "156930",
+        "md5": "1146b18b7623c60e8e7dda4fbac1568d",
         "url": "https://mega.nz/folder/FNFDCQaT#wfv-iI4UuSIaGpP0oFZdtQ/file/tNtHhSRb",
         "url_diff": "",
         "artist": "MSI",
@@ -515,16 +682,38 @@
     {
         "level": "8",
         "title": "Betelgeuse -orion7-",
-        "bmsid": "41319",
+        "lr2_bmsid": "41319",
+        "md5": "bd5d6333cf0fa6c86d1274ccc25a89d8",
         "url": "https://mega.nz/folder/FNFDCQaT#wfv-iI4UuSIaGpP0oFZdtQ/file/xB1QjKIS",
         "url_diff": "",
         "artist": "きのこ～ず(G.G with Anne-Ninne)",
         "comment": ""
     },
     {
+        "level": "7",
+        "title": "zodiac -Extra-",
+        "lr2_bmsid": "1764",
+        "md5": "6d7eb2859755cc31f5295296e36e024c",
+        "url": "http://skydrive.live.com/?cid=fc95a680740ca8c9&id=FC95A680740CA8C9%21111",
+        "url_diff": "http://web.archive.org/web/20070109011551/http://page.freett.com/mattun1130/zodiac-EX-.zip",
+        "artist": "G.G obj:mattun",
+        "comment": ""
+    },
+    {
         "level": "9",
         "title": "音弾超人ゴリライザー [ステライザー]",
-        "bmsid": "300669",
+        "lr2_bmsid": "300669",
+        "md5": "0e1e496945f9f1b7b55f46cff48686aa",
+        "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=82&event=104",
+        "url_diff": "https://www.dropbox.com/s/3jaz8xxvfvu10eo/hero_nanami.zip?dl=1",
+        "artist": "ゴリライザー制作委員会 obj:七海",
+        "comment": ""
+    },
+    {
+        "level": "3",
+        "title": "音弾超人ゴリライザー [サトライザー]",
+        "lr2_bmsid": "300631",
+        "md5": "22b1a578c70b9d2668e18c31aaba53e4",
         "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=82&event=104",
         "url_diff": "https://www.dropbox.com/s/3jaz8xxvfvu10eo/hero_nanami.zip?dl=1",
         "artist": "ゴリライザー制作委員会 obj:七海",
@@ -533,7 +722,8 @@
     {
         "level": "8",
         "title": "squartatrice (SP SAYATHER)",
-        "bmsid": "112213",
+        "lr2_bmsid": "112213",
+        "md5": "2cb7ca662fa47655ac21421ed7b8aea3",
         "url": "https://extrose.stoicsounds.jp/_data/bms/gmtn/%2319%20%5BHARD%20RENAISSAYAKA%5D%20squartatrice.zip",
         "url_diff": "",
         "artist": "美樹さやか vs. 美樹さやか (fw. 美樹さやか) BGA ： 美樹さやか",
@@ -542,7 +732,8 @@
     {
         "level": "6",
         "title": "The Formula [Rea'du]",
-        "bmsid": "171066",
+        "lr2_bmsid": "171066",
+        "md5": "3b3ffc9ece8671973cea9d90f93c2e8f",
         "url": "https://dropbox.bms.ms/u/93651732/bms/%5B無課金%5DThe%20Formula.rar",
         "url_diff": "",
         "artist": "Junk / obj:kneas BGA : YARITA",
@@ -551,25 +742,78 @@
     {
         "level": "7",
         "title": "Fly Again (bms edit) [Rea'du]",
-        "bmsid": "140401",
+        "lr2_bmsid": "140401",
+        "md5": "50d06c08b90e30bd168764d3e96ccbd9",
         "url": "https://skydrive.live.com/?cid=61d67cb6f42f52a8&id=61D67CB6F42F52A8%21109",
         "url_diff": "",
         "artist": "Junk feat.Salita obj:kneas",
         "comment": ""
     },
     {
+        "level": "2",
+        "title": "Evoltex [HARD]",
+        "lr2_bmsid": "157238",
+        "md5": "44a1c0c4c2ef9dd04e1c566d5001d08a",
+        "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=28&event=85",
+        "url_diff": "",
+        "artist": "Arch movie:Roaring Flame obj:四葉深雪",
+        "comment": "vibro"
+    },
+    {
+        "level": "7",
+        "title": "Evoltex [Another]",
+        "lr2_bmsid": "157240",
+        "md5": "f593640e59b50bf0f671deff2279faf2",
+        "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=28&event=85",
+        "url_diff": "",
+        "artist": "Arch movie:Roaring Flame",
+        "comment": "vibruh"
+    },
+    {
         "level": "4",
         "title": "SEPIA -EX色-",
-        "bmsid": "185",
+        "lr2_bmsid": "185",
+        "md5": "b252c955763ccc430d7b085977e72cdd",
         "url": "http://shiki2.sakura.ne.jp/",
         "url_diff": "http://web.archive.org/web/20130909065851/http://page.freett.com/ppppxy/bmsabun.zip",
         "artist": "SHIKI/-45 obj:arufis",
-        "comment": ""
+        "comment": "Ladders"
+    },
+    {
+        "level": "2",
+        "title": "SEPIA -虎のANOTHER-",
+        "lr2_bmsid": "1400",
+        "md5": "8e458bd41a1e5811b19df4fb4104f7b7",
+        "url": "http://shiki2.sakura.ne.jp/",
+        "url_diff": "http://web.archive.org/web/20200219070214/http://absolute.pv.land.to/bms4/sepia.rar",
+        "artist": "SHIKI/-45 / black train",
+        "comment": "troll ending"
+    },
+    {
+        "level": "4",
+        "title": "SEPIA -AFOTHER-",
+        "lr2_bmsid": "777",
+        "md5": "ecdc82b1ea1c53ddc38845206a9e703d",
+        "url": "http://shiki2.sakura.ne.jp/",
+        "url_diff": "http://web.archive.org/web/20200219070214/http://absolute.pv.land.to/bms4/sepia.rar",
+        "artist": "SHIKI/-45 / black train",
+        "comment": "even more troll ending"
+    },
+    {
+        "level": "5",
+        "title": "SEPIA -MANIAQ-",
+        "lr2_bmsid": "1738",
+        "md5": "d63175f66ac9233c8de25b60ed8a1b7c",
+        "url": "http://shiki2.sakura.ne.jp/",
+        "url_diff": "http://web.archive.org/web/20200219070214/http://absolute.pv.land.to/bms4/sepia.rar",
+        "artist": "SHIKI/-45 / black train",
+        "comment": "Just play this one instead"
     },
     {
         "level": "8",
         "title": "Y [F]",
-        "bmsid": "198026",
+        "lr2_bmsid": "198026",
+        "md5": "e9fc0fbbde68bfd10f2d289751a1fc6a",
         "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=172&event=96",
         "url_diff": "http://fenderbms.web.fc2.com/",
         "artist": "ヲルバ＝田中・ヴァニラ obj:Fender",
@@ -578,7 +822,8 @@
     {
         "level": "5",
         "title": "Bloody Malie -Ex-",
-        "bmsid": "131839",
+        "lr2_bmsid": "131839",
+        "md5": "5fae30bee9c1eac274eb919d2c94aac0",
         "url": "http://malie.noor.jp/",
         "url_diff": "http://nekokan.dyndns.info/~lobsak/bms/repair_pack.zip",
         "artist": "-45",
@@ -587,7 +832,8 @@
     {
         "level": "8",
         "title": "Booboo Bounce! [Immortal]",
-        "bmsid": "292151",
+        "lr2_bmsid": "292151",
+        "md5": "b3172f3593b9d8685769954821d65e9a",
         "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=137&event=133",
         "url_diff": "https://darksabun.github.io/event/bofxvi/",
         "artist": "isocosa Illust: Dr.Exodium object:Restia",
@@ -596,25 +842,48 @@
     {
         "level": "4",
         "title": "妖々跋扈 (ほやほや)",
-        "bmsid": "324196",
+        "lr2_bmsid": "324196",
+        "md5": "317d10f938b4884335106338d4e64b59",
         "url": "http://yaritaihoudie.free.fr/bms/copy/th/bakko.zip",
         "url_diff": "https://venue.bmssearch.net/sd_gray/7",
         "artist": "ZUN 差分 BMSをしていないミーティ",
         "comment": "st4~5"
     },
     {
+        "level": "1",
+        "title": "Cong＊Chu＊Jelly [SP ANOTHER]",
+        "lr2_bmsid": "295976",
+        "md5": "a556f9145914158ab05356b482937799",
+        "url": "https://venue.bmssearch.net/bmsshuin3/54",
+        "url_diff": "",
+        "artist": "otoshi.b × みゅい × はしたかさん",
+        "comment": ""
+    },
+    {
         "level": "6",
         "title": "Cong＊Chu＊Jelly [strawberry flavor]",
-        "bmsid": "295979",
+        "lr2_bmsid": "295979",
+        "md5": "b4b061a9c39188bf738d381a2e6aab34",
         "url": "https://venue.bmssearch.net/bmsshuin3/54",
         "url_diff": "",
         "artist": "otoshi.b × みゅい × はしたかさん × BAECON",
         "comment": ""
     },
     {
-        "level": "8",
+        "level": "3",
+        "title": "イナリッチ",
+        "lr2_bmsid": "303313",
+        "md5": "feecb86731516c02c97c216d0669a842",
+        "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=141&event=137",
+        "url_diff": "",
+        "artist": "LisicA movie : 自動車原付 / illust : Orphee / obj: Frnter",
+        "comment": "(Another)"
+    },
+    {
+        "level": "9",
         "title": "イナリッチ [MONEY]",
-        "bmsid": "307228",
+        "lr2_bmsid": "307228",
+        "md5": "04358a9776ed6fb81fe30eaa930e6eb7",
         "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=141&event=137",
         "url_diff": "https://stellabms.xyz/upload/1502",
         "artist": "LisicA movie : 自動車原付 / illust : Orphee / obj: Lennon",
@@ -623,7 +892,8 @@
     {
         "level": "8",
         "title": "Tribute [Black Another]",
-        "bmsid": "133451",
+        "lr2_bmsid": "133451",
+        "md5": "4cc2c2ecc2bc384b0e8e4628c8fa208d",
         "url": "https://dropbox.bms.ms/u/84148289/tribute_ogg_.zip",
         "url_diff": "",
         "artist": "imario",
@@ -632,16 +902,18 @@
     {
         "level": "9",
         "title": "神様の恋心 [KANITHER]",
-        "bmsid": "296958",
+        "lr2_bmsid": "296958",
+        "md5": "c2a1e4e5727f42a0222f3553f6839502",
         "url": "https://venue.bmssearch.net/bmsshuin3/57",
         "url_diff": "https://muy4.github.io/muyacharts/index.html",
         "artist": "nmk feat.一花 Illust:りーふぱい/BGA:わっふゑ/obj.かに",
         "comment": ""
     },
     {
-        "level": "4",
+        "level": "3",
         "title": "神様の恋心",
-        "bmsid": "296040",
+        "lr2_bmsid": "296040",
+        "md5": "1f577fbcc3f269b7315c96f8cae0c925",
         "url": "https://venue.bmssearch.net/bmsshuin3/57",
         "url_diff": "",
         "artist": "nmk feat.一花 Illust:りーふぱい/BGA:わっふゑ",
@@ -650,7 +922,8 @@
     {
         "level": "7",
         "title": "AutumnBreeze for Expert",
-        "bmsid": "131873",
+        "lr2_bmsid": "131873",
+        "md5": "755c4087937b7223c31cd17cedfce788",
         "url": "http://www5f.biglobe.ne.jp/~careless/",
         "url_diff": "http://nekokan.dyndns.info/~lobsak/bms/repair_pack.zip",
         "artist": "nmk feat.一花 Illust:りーふぱい/BGA:わっふゑ",
@@ -659,34 +932,58 @@
     {
         "level": "7",
         "title": "Awaking Beat-From the next generation- [W]",
-        "bmsid": "280059",
+        "lr2_bmsid": "280059",
+        "md5": "fe2fbfefcdf57b56bb6aaa89d6ee11cc",
         "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=189&event=127",
         "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/03612.zip",
         "artist": "nmk feat.橘花音 obj. w",
         "comment": ""
     },
     {
-        "level": "7",
-        "title": "EXILE -NEMESIS-",
-        "bmsid": "79035",
+        "level": "3",
+        "title": "EXILE -ANOTHER-",
+        "lr2_bmsid": "78682",
+        "md5": "885ba306621c6be404aa02b9ceb9de0a",
         "url": "http://malie.noor.jp/",
         "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up1339.zip",
         "artist": "-45 / obj;Nemes",
         "comment": ""
     },
     {
+        "level": "7",
+        "title": "EXILE -NEMESIS-",
+        "lr2_bmsid": "79035",
+        "md5": "42b597e0fc9d2ad51909f774275464ae",
+        "url": "http://malie.noor.jp/",
+        "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up1339.zip",
+        "artist": "-45 / obj;Nemes",
+        "comment": ""
+    },
+    {
+        "level": "11",
+        "title": "EXILE -MORTAL-",
+        "lr2_bmsid": "79036",
+        "md5": "5f8a3aa8d06b1f5541f398e92ab8ca4f",
+        "url": "http://malie.noor.jp/",
+        "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up1489.zip",
+        "artist": "-45 / obj;Nemes",
+        "comment": "^^"
+    },
+    {
         "level": "12",
         "title": "EXILE -BLACK HOLE-",
-        "bmsid": "86874",
+        "lr2_bmsid": "86874",
+        "md5": "f2ad59e1c2718001ed7789c6fa9e134e",
         "url": "http://malie.noor.jp/",
         "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up1489.zip",
         "artist": "-45 / obj;Nemes",
         "comment": "^^ (good luck mashing)"
     },
     {
-        "level": "4",
+        "level": "3",
         "title": "Papyrus (Maniac)",
-        "bmsid": "39641",
+        "lr2_bmsid": "39641",
+        "md5": "c07125de4ed7fbe7cb066cc41e50e51e",
         "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=193&event=60",
         "url_diff": "",
         "artist": "papyrus obj: air / Movie: 浪漫映像制作倶楽部",
@@ -695,7 +992,8 @@
     {
         "level": "3",
         "title": "Blooderay Malie [D-Moderate]",
-        "bmsid": "309849",
+        "lr2_bmsid": "309849",
+        "md5": "5c155a219081f61565892b3e9f09aaa9",
         "url": "http://malie.noor.jp/",
         "url_diff": "https://stellabms.xyz/upload/1645",
         "artist": "-45 obj: qtp13",
@@ -704,7 +1002,8 @@
     {
         "level": "8",
         "title": "Blooderay Malie [D-Heavy]",
-        "bmsid": "309848",
+        "lr2_bmsid": "309848",
+        "md5": "96af0b0fd5f9e61ed5078494776a951e",
         "url": "http://malie.noor.jp/",
         "url_diff": "https://stellabms.xyz/upload/1645",
         "artist": "-45 obj: qtp13",
@@ -713,16 +1012,48 @@
     {
         "level": "8",
         "title": "Stray Toy's Adventure!! [HARDEST]",
-        "bmsid": "269138",
+        "lr2_bmsid": "269138",
+        "md5": "ea6d579306a3d2c7ddb36d1922212bc0",
         "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=341&event=123",
         "url_diff": "http://akred.web.fc2.com/bmsfile/_StrayToysAdventure-HARDEST.bms",
         "artist": "梅干茶漬け/obj:赤い人",
         "comment": "THE DIRTY OF LOUDNESS"
     },
     {
+        "level": "6",
+        "title": "Reallicious [Spaghettified]",
+        "lr2_bmsid": "323845",
+        "md5": "8daff6c3d93ca9adb37b9d80052c58e3",
+        "url": "https://9domu46i.com/yuruyuru/phase16.html",
+        "url_diff": "https://venue.bmssearch.net/sd_black/12",
+        "artist": "Zris obj:yui",
+        "comment": "hex"
+    },
+    {
+        "level": "9",
+        "title": "bibital orbital [straying]",
+        "lr2_bmsid": "324345",
+        "md5": "686221db564c91b0ebd67c4b55770f1e",
+        "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=416&event=133",
+        "url_diff": "https://venue.bmssearch.net/sd_gray/17",
+        "artist": "utubo obj:yui",
+        "comment": "hex"
+    },
+    {
         "level": "9",
         "title": "Faurie [ANOTHER]",
-        "bmsid": "289335",
+        "lr2_bmsid": "289335",
+        "md5": "7943a19230bfa5565ed6def1babe7da4",
+        "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=64&event=132",
+        "url_diff": "",
+        "artist": "黒皇帝 Movie: Haight",
+        "comment": ""
+    },
+    {
+        "level": "0",
+        "title": "Faurie [HYPER]",
+        "lr2_bmsid": "289319",
+        "md5": "3a82138a8989ca0b313f44805074bb40",
         "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=64&event=132",
         "url_diff": "",
         "artist": "黒皇帝 Movie: Haight",
@@ -731,7 +1062,8 @@
     {
         "level": "12",
         "title": "Endeavor [ごめんなさい]",
-        "bmsid": "103556",
+        "lr2_bmsid": "103556",
+        "md5": "3095e46effd1e7b2627880d72aeaef61",
         "url": "http://onedrive.live.com/?cid=fc95a680740ca8c9&id=FC95A680740CA8C9%21274&ithint=file,zip&authkey=!AIkV4RYTe2QHyDE",
         "url_diff": "https://www.axfc.net/u/3959775&key=satori",
         "artist": "ZUN(Arr.sun3)",
@@ -740,25 +1072,38 @@
     {
         "level": "9",
         "title": "Hi-Fi-Story [SP EXTRA]",
-        "bmsid": "292378",
+        "lr2_bmsid": "292378",
+        "md5": "daabea71e949e92d5718ae7ba27ca0a5",
         "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=279&event=133",
         "url_diff": "",
         "artist": "打打だいず mov:;3ZUTAMA obj:Yosk!",
         "comment": ""
     },
     {
-        "level": "7",
+        "level": "8",
         "title": "Flashdance [Crazy_Life]",
-        "bmsid": "269613",
+        "lr2_bmsid": "269613",
+        "md5": "861fabc711061a736254b8c140285010",
         "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=16&event=123",
         "url_diff": "https://mega.nz/#F!hbBSkQII!8i6kzQpfZ7oeMj_xws56kA",
         "artist": "music:litmus* / bms: :Poin7less movie:directed by litmus*",
         "comment": "anmitsu rating"
     },
     {
+        "level": "8",
+        "title": "Flashdance [#]",
+        "lr2_bmsid": "268139",
+        "md5": "97bc4321bc1bc37177e40ee592637cb1",
+        "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=16&event=123",
+        "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=02379",
+        "artist": "music:litmus* / bms: :Poin7less movie:directed by litmus* / obj.#",
+        "comment": ""
+    },
+    {
         "level": "6",
         "title": "Engine [SP Insane]",
-        "bmsid": "217365",
+        "lr2_bmsid": "217365",
+        "md5": "5e3711f2f576f3929156c9594b87efac",
         "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=43&event=104",
         "url_diff": "",
         "artist": "Music : eFeL / BGA : 鑓田(Alpha complex)",
@@ -767,16 +1112,18 @@
     {
         "level": "8",
         "title": "Boxel Adventure [7-1]",
-        "bmsid": "284111",
+        "lr2_bmsid": "284111",
+        "md5": "0767b28a8b20a792a185761bee33940d",
         "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=138&event=127",
         "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/04156.zip",
         "artist": "7mai obj: udonfor",
         "comment": "High Total"
     },
     {
-        "level": "1",
+        "level": "0",
         "title": "Bird Sprite -D.K.R. mix- (虎のanother)",
-        "bmsid": "79",
+        "lr2_bmsid": "79",
+        "md5": "12c06f4353bb52bfe9a859d9765f9664",
         "url": "http://web.archive.org/web/20070928164748/http://bof.nothing.sh/bof2005/tsunamayochan_birdsprite_HQ.rar",
         "url_diff": "http://absolute.pv.land.to/Anotherbms.html",
         "artist": "ツナマヨちゃん / obj: black train",
@@ -785,7 +1132,8 @@
     {
         "level": "2",
         "title": "Bird Sprite -D.K.R. mix- (afother)",
-        "bmsid": "452",
+        "lr2_bmsid": "452",
+        "md5": "5fce130519a3e2ba005e5886af9a83d5",
         "url": "http://web.archive.org/web/20070928164748/http://bof.nothing.sh/bof2005/tsunamayochan_birdsprite_HQ.rar",
         "url_diff": "http://absolute.pv.land.to/Anotherbms.html",
         "artist": "ツナマヨちゃん / obj: black train",
@@ -794,16 +1142,18 @@
     {
         "level": "5",
         "title": "Bird Sprite -D.K.R. mix- (maniaq)",
-        "bmsid": "1835",
+        "lr2_bmsid": "1835",
+        "md5": "1d9129225c58c52126e17ca2425f4046",
         "url": "http://web.archive.org/web/20070928164748/http://bof.nothing.sh/bof2005/tsunamayochan_birdsprite_HQ.rar",
         "url_diff": "http://absolute.pv.land.to/Anotherbms.html",
         "artist": "ツナマヨちゃん / obj: black train",
         "comment": ""
     },
     {
-        "level": "9",
+        "level": "10",
         "title": "Imperishable Night 2006 for D",
-        "bmsid": "461",
+        "lr2_bmsid": "461",
+        "md5": "c6599ae9e57756c33d031b4f622324c8",
         "url": "http://web.archive.org/web/20130427145910/http://tsubu.ath.cx/~ssry/music.htm",
         "url_diff": "http://nekokan.dyndns.info/~lobsak/hokan/hokan1.html",
         "artist": "篠螺悠那 feat. 鯛の小骨",
@@ -812,25 +1162,28 @@
     {
         "level": "9",
         "title": "アナログ横丁 [ディレイ六斎市]",
-        "bmsid": "283320",
+        "lr2_bmsid": "283320",
+        "md5": "38d22090860f2d21c184ac70dd2d8dae",
         "url": "https://dropbox.bms.ms/u/64302289/makino_anolog_yokochou.rar",
         "url_diff": "https://stellabms.xyz/upload/2102",
         "artist": "牧野 obj.Guanacoite",
         "comment": "delay confusion"
     },
     {
-        "level": "5",
+        "level": "6",
         "title": "CO5M1C R4ILR0AD [ON3 M0RE 3XTR4]",
-        "bmsid": "235174",
+        "lr2_bmsid": "235174",
+        "md5": "efae90d527a71d753ea7ad2847ec2006",
         "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=220&event=110",
         "url_diff": "http://swamelo.web.fc2.com/_CR_extra.bms",
         "artist": "kanone / obj.swa",
         "comment": "st5~6"
     },
     {
-        "level": "10",
+        "level": "9",
         "title": "Defeat awaken battle ship (SP AWAKEN)",
-        "bmsid": "241788",
+        "lr2_bmsid": "241788",
+        "md5": "c7c5bc4ea5f507bb96aa2d2518efb385",
         "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=1&event=112",
         "url_diff": "",
         "artist": "有賀 澪 BGA:しらたき Illust:Cleome obj:伊佐奈 瑠璃",
@@ -839,25 +1192,48 @@
     {
         "level": "7",
         "title": "風時夏 [晴海歌]",
-        "bmsid": "313879",
+        "lr2_bmsid": "313879",
+        "md5": "8a4355653ba3f0b5c437bf0e67761c13",
         "url": "https://venue.bmssearch.net/bmskanji2/23",
         "url_diff": "",
         "artist": "otoshi.b BGI:鈴木なるひ obj:BAECON",
         "comment": "kazeharuka"
     },
     {
+        "level": "1",
+        "title": "風時夏 [SP INSANE]",
+        "lr2_bmsid": "313879",
+        "md5": "77f6d0521caf22ddc807d28ce09e0997",
+        "url": "https://venue.bmssearch.net/bmskanji2/23",
+        "url_diff": "",
+        "artist": "otoshi.b BGI:鈴木なるひ",
+        "comment": ""
+    },
+    {
         "level": "4",
         "title": "2038 (INSANE7)",
-        "bmsid": "131698",
+        "lr2_bmsid": "131698",
+        "md5": "2b303ae3770d634427283093788340ec",
         "url": "http://www.yamajet.com/music/list.html",
         "url_diff": "http://slash24th.web.fc2.com/nanidosp.htm",
         "artist": "Yamajet / 壱air@Visualizer / obj:slash",
         "comment": ""
     },
     {
+        "level": "5",
+        "title": "サンバランド [MANIAQ]",
+        "lr2_bmsid": "130307",
+        "md5": "16f9bce8ee02a9ba6ccf0b2918c2d876",
+        "url": "http://colosseo.nekokan.dyndns.info/c02_shuffle/detail.php?n=61",
+        "url_diff": "http://slash24th.web.fc2.com/nanidosp.htm",
+        "artist": "SAMBA MASTER 佐藤 -SATOH- / obj:slash",
+        "comment": ""
+    },
+    {
         "level": "7",
         "title": "Tuk Tuk Boshi [7keys Crescent]",
-        "bmsid": "86494",
+        "lr2_bmsid": "86494",
+        "md5": "683340fac1d376bea11c0848531ed6dd",
         "url": "https://mega.nz/folder/FNFDCQaT#wfv-iI4UuSIaGpP0oFZdtQ/file/IMtWiAob",
         "url_diff": "http://cieu.web.fc2.com/",
         "artist": "Shaman Cure-All / obj : cieu",
@@ -866,7 +1242,8 @@
     {
         "level": "5",
         "title": "白き星姫-Принцесса белая звезда- [декабристов]",
-        "bmsid": "218012",
+        "lr2_bmsid": "218012",
+        "md5": "cbd93fbc5c7272714e90bb46f82ee575",
         "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=129&event=104",
         "url_diff": "http://absolute.pv.land.to/uploader/src/up5830.zip",
         "artist": "おみー / obj:椎葉紬",
@@ -875,7 +1252,8 @@
     {
         "level": "0",
         "title": "A D D i c T i O N 4 5 0 0 0 0 0 (H)",
-        "bmsid": "250774",
+        "lr2_bmsid": "250774",
+        "md5": "77f6d0521caf22ddc807d28ce09e0997",
         "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=121&event=116",
         "url_diff": "",
         "artist": "- 4 5",
@@ -884,7 +1262,8 @@
     {
         "level": "3",
         "title": "A D D i c T i O N 4 5 0 0 0 0 0 (A)",
-        "bmsid": "250725",
+        "lr2_bmsid": "250725",
+        "md5": "98da8541159bc70883dffa8d882722fc",
         "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=121&event=116",
         "url_diff": "",
         "artist": "- 4 5",
@@ -893,7 +1272,8 @@
     {
         "level": "10",
         "title": "A D D i c T i O N 4 5 0 0 0 0 0 -L u N A-",
-        "bmsid": "254055",
+        "lr2_bmsid": "254055",
+        "md5": "2f8beb8e0b2472121ec9c5f774f8fcef",
         "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=121&event=116",
         "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/01162.zip",
         "artist": "- 4 5 / s e l e n e .",
@@ -902,10 +1282,251 @@
     {
         "level": "4",
         "title": "Battle TechniX [INSANE]",
-        "bmsid": "304517",
+        "lr2_bmsid": "304517",
+        "md5": "586d33edf48aee832c835a20921f7ab1",
         "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=395&event=137",
         "url_diff": "",
         "artist": "38k",
         "comment": "Gaming"
+    },
+    {
+        "level": "1",
+        "title": "SunnyShinyRing -Another-",
+        "lr2_bmsid": "13",
+        "md5": "621ad2a006a4d39a57749c5f8dcc11b6",
+        "url": "http://necoco.2-d.jp/",
+        "url_diff": "",
+        "artist": "みここ ＆ 虹野ひかり",
+        "comment": "Back forth stairs"
+    },
+    {
+        "level": "1",
+        "title": "duty",
+        "lr2_bmsid": "1831",
+        "md5": "d063d3666b36cc14b176cd4438487dee",
+        "url": "http://uploader.bms.ms/data/duty_mqwav.zip",
+        "url_diff": "",
+        "artist": "Hate BGA : S.P.S.B.",
+        "comment": "★1"
+    },
+    {
+        "level": "0",
+        "title": "Scorpion Dance [INSANE]",
+        "lr2_bmsid": "196718",
+        "md5": "92534ba8547ae6943dc5a99b7ddd0728",
+        "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=15&event=96",
+        "url_diff": "",
+        "artist": "litmus*/obj_jakko mov : litmus* & L.Ferdinant",
+        "comment": ""
+    },
+    {
+        "level": "1",
+        "title": "sensitive (虎のANOTHER)",
+        "lr2_bmsid": "131851",
+        "md5": "8f5c7c585c944c9b98e0baad01e98519",
+        "url": "http://web.archive.org/web/20070218160503/http://sazanka.sakura.ne.jp/~2tdm/bms.htm",
+        "url_diff": "http://nekokan.dyndns.info/~lobsak/bms/repair_pack.zip",
+        "artist": "white crystal / black train",
+        "comment": ""
+    },
+    {
+        "level": "3",
+        "title": "sensitive (AFOTHER)",
+        "lr2_bmsid": "131859",
+        "md5": "78459a4cb7bcbece4722c835621e1bdf",
+        "url": "http://web.archive.org/web/20070218160503/http://sazanka.sakura.ne.jp/~2tdm/bms.htm",
+        "url_diff": "http://nekokan.dyndns.info/~lobsak/bms/repair_pack.zip",
+        "artist": "white crystal / black train",
+        "comment": ""
+    },
+    {
+        "level": "6",
+        "title": "sensitive (MANIAQ)",
+        "lr2_bmsid": "131880",
+        "md5": "5ebddb1371e925549a343ea4d4bf3e30",
+        "url": "http://web.archive.org/web/20070218160503/http://sazanka.sakura.ne.jp/~2tdm/bms.htm",
+        "url_diff": "http://nekokan.dyndns.info/~lobsak/bms/repair_pack.zip",
+        "artist": "white crystal / black train",
+        "comment": ""
+    },
+    {
+        "level": "8",
+        "title": "sensitive -GOD-",
+        "lr2_bmsid": "250233",
+        "md5": "dcf1fce006eae6ec81bf14a31ae1d57f",
+        "url": "http://web.archive.org/web/20070218160503/http://sazanka.sakura.ne.jp/~2tdm/bms.htm",
+        "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=00968",
+        "artist": "white crystal / selene.",
+        "comment": ""
+    },
+    {
+        "level": "8",
+        "title": "cold planet -Blue Marble-",
+        "lr2_bmsid": "70916",
+        "md5": "18a3d4f7f8b1d35277e759e5643a4757",
+        "url": "http://web.archive.org/web/20071210121539/http://www.geocities.jp/panda_bms/sengoku.html",
+        "url_diff": "http://drowsy.hannnari.com/",
+        "artist": "knot / obj:あーさん",
+        "comment": "everybody dance!"
+    },
+    {
+        "level": "7",
+        "title": "Ms.Naive Princess [RAFFLESIA]",
+        "lr2_bmsid": "73053",
+        "md5": "1f5cf9788ce30603c5ffe261f55d6c3d",
+        "url": "http://wayback.archive.org/web/20140803145510/http://roaraddiction.mods.jp/bms/x006_mnp_ogg.rar",
+        "url_diff": "",
+        "artist": "xenothium obj.kei",
+        "comment": "there's love in the air"
+    },
+    {
+        "level": "7",
+        "title": "HAELEQUIN",
+        "lr2_bmsid": "140320",
+        "md5": "3c9e6197ca0dbf5bba3cd1b83603643d",
+        "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=389&event=83",
+        "url_diff": "",
+        "artist": "orangentle / deadblue238",
+        "comment": "YOU ARE PAIN. MY PAIN."
+    },
+    {
+        "level": "11",
+        "title": "HAELEQUIN [monather]",
+        "lr2_bmsid": "183925",
+        "md5": "cf7b23d82b7464c4e9aec5cf94838e86",
+        "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=389&event=83",
+        "url_diff": "https://dl.dropbox.com/s/4fvfdoycv4vmgv4/bb_HAELEQUIN_1st.bme",
+        "artist": "orangentle / deadblue238 [note:MEES_]",
+        "comment": "mash and pray with the very high total"
+    },
+    {
+        "level": "6",
+        "title": "TEN",
+        "lr2_bmsid": "176160",
+        "md5": "426ec16efd28bc5a1cbd6f707a6375f1",
+        "url": "https://dl.dropbox.com/s/esdofbda23knp9w/TEN.zip",
+        "url_diff": "https://docs.google.com/spreadsheets/u/0/d/15uOKGgv3433R8aP2Y9deh7HRaEG-PcymObTR32TIcBQ/pub?output=html",
+        "artist": "2X / obj.XYZ",
+        "comment": ""
+    },
+    {
+        "level": "7",
+        "title": "Lambda Driver [ANOTHER+]",
+        "lr2_bmsid": "166013",
+        "md5": "dbefc24c03e843b88cb1a1436b10638a",
+        "url": "http://3t1a.net/bms/lambda_driver_ogg.zip",
+        "url_diff": "https://www.axfc.net/u/3990030",
+        "artist": "SPELL BREAK/obj_jakko HEART BREAK",
+        "comment": ""
+    },
+    {
+        "level": "8",
+        "title": "水晶世界 ～Fracture～ [Insane]",
+        "lr2_bmsid": "164968",
+        "md5": "cf6b5130b319f148ef4fe63ca993a43b",
+        "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=44&event=65",
+        "url_diff": "https://dl.dropbox.com/s/zfjg13uhonfhhxw/_crystal-world_r_7i.lzh",
+        "artist": "秋山 澪/obj_jakko Notes:平沢 憂",
+        "comment": ""
+    },
+    {
+        "level": "12",
+        "title": "水晶世界 ～Fracture～ [yumether]",
+        "lr2_bmsid": "80699",
+        "md5": "cd24fd54b865c744428da2513643dd8d",
+        "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=44&event=65",
+        "url_diff": "http://yumerusabun.web.fc2.com/nue.html",
+        "artist": "秋山 澪 / obj:夢瑠",
+        "comment": ""
+    },
+    {
+        "level": "9",
+        "title": "先天性エゴサ依存症候群 [Hide]",
+        "lr2_bmsid": "170454",
+        "md5": "40673cc8ea628a9452f6ae9ac74d5817",
+        "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=335&event=88",
+        "url_diff": "http://hiiiii.web.fc2.com/sabun/",
+        "artist": "ねこみりん feat.みゆ / obj:秘密 Illust:わんびぃ",
+        "comment": ""
+    },
+    {
+        "level": "10",
+        "title": "Wizdomiot [ANOTHER]",
+        "lr2_bmsid": "212024",
+        "md5": "871c6aed53c5dd3ac35686d9a92af4f4",
+        "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=76&event=102",
+        "url_diff": "",
+        "artist": "ZUN remixed by LeaF Movie:Optie",
+        "comment": "10~11; may your anmitsu stay true"
+    },
+    {
+        "level": "9",
+        "title": "IKAROS [ODYSSEA]",
+        "lr2_bmsid": "238363",
+        "md5": "f96cf3af3d9356407bff483d27f4aecc",
+        "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=2&event=110",
+        "url_diff": "http://swamelo.web.fc2.com/_ikaros_slslsl.bme",
+        "artist": "ETIA. feat. Jenga Movie: HDLV / obj: swa",
+        "comment": ""
+    },
+    {
+        "level": "8",
+        "title": "幸なる旋律-the solitary melody- -福音-",
+        "lr2_bmsid": "79090",
+        "md5": "440e9ecc35dae241a12310b3c478eba5",
+        "url": "https://web.archive.org/web/20140212164655/http://gmtn.sub.jp/carage_solitary_melody_remix.zip",
+        "url_diff": "http://drowsy.hannnari.com/",
+        "artist": "xenothium remixed by gmtn. obj:あーさん",
+        "comment": ""
+    },
+    {
+        "level": "8",
+        "title": "Quickening 2 the RED -Sephirothic-",
+        "lr2_bmsid": "95567",
+        "md5": "05eda314989c59f315fe8f2ff2d6c7e9",
+        "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=268&event=65",
+        "url_diff": "http://drowsy.hannnari.com/",
+        "artist": "Loki-mitsu + Mentalstock あ",
+        "comment": ""
+    },
+    {
+        "level": "10",
+        "title": "TYR [Quartet]",
+        "lr2_bmsid": "184380",
+        "md5": "94c095ab3e44cf6ce8525dbf87c0a710",
+        "url": "http://k-bms.com/party_pabat/party2014.jsp?board_num=11&num=49&order=reg&odtype=a",
+        "url_diff": "https://dl.dropbox.com/s/pnpebxyv2sgan3c/PABAT%202014%20Season%20Append%20Package.zip",
+        "artist": "Rune Caster / obj.swa BGA : orto",
+        "comment": "check BMS Library for link"
+    },
+    {
+        "level": "9",
+        "title": "Planisphere [ANOTHER+]",
+        "lr2_bmsid": "238448",
+        "md5": "2a45cbc3033ad88509070c8fb036b7ec",
+        "url": "http://yuinore.net/2016/11/bms-present-day1/",
+        "url_diff": "",
+        "artist": "Yu^ta",
+        "comment": ""
+    },
+    {
+        "level": "10",
+        "title": "Inherited World [INSANE]",
+        "lr2_bmsid": "217459",
+        "md5": "a4b59ca055a856b9a200ccfd1bf5c7bc",
+        "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=46&event=104",
+        "url_diff": "",
+        "artist": "sak Movie:猫太郎 / obj:BAECON",
+        "comment": ""
+    },
+    {
+        "level": "5",
+        "title": "ShootingStar",
+        "lr2_bmsid": "140543",
+        "md5": "b9652852b54b4a33a8591afdee111f6b",
+        "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=368&event=83",
+        "url_diff": "",
+        "artist": "Yu^ta",
+        "comment": "[ANOTHER]"
     }
 ]
