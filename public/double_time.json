@@ -140,7 +140,7 @@
         "comment": ""
     },
     {
-        "level": "5",
+        "level": "4",
         "title": "Angelic Layer ～Reincarnation～",
         "lr2_bmsid": "1217",
         "md5": "a1a91080d47424493ee301726ef3aaeb",
@@ -1220,7 +1220,7 @@
         "comment": ""
     },
     {
-        "level": "5",
+        "level": "6",
         "title": "サンバランド [MANIAQ]",
         "lr2_bmsid": "130307",
         "md5": "16f9bce8ee02a9ba6ccf0b2918c2d876",
@@ -1528,5 +1528,385 @@
         "url_diff": "",
         "artist": "Yu^ta",
         "comment": "[ANOTHER]"
+    },
+    {
+        "level": "3",
+        "title": "Ms. Steam [Another]",
+        "lr2_bmsid": "303296",
+        "md5": "325836401cc255f8b521e2b24516a2f1",
+        "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=59&event=137",
+        "url_diff": "",
+        "artist": "MoVIIkA Movie: NaO_AnD",
+        "comment": "High total meets scratch walls"
+    },
+    {
+        "level": "8",
+        "title": "Ms. Steam [Elementary My Dear]",
+        "lr2_bmsid": "324895",
+        "md5": "8be8fccdee2da27016699e541ee11cd3",
+        "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=59&event=137",
+        "url_diff": "https://stellabms.xyz/upload/3124",
+        "artist": "MoVIIkA Movie: NaO_AnD/obj.バリツ",
+        "comment": "High total meets mashing"
+    },
+    {
+        "level": "9",
+        "title": "運命論 [Atropos]",
+        "lr2_bmsid": "225492",
+        "md5": "b9cc5bd4194b74c2b8420a4f5c8d2ea8",
+        "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=205&event=88",
+        "url_diff": "http://lapisbms.xyz/",
+        "artist": "ルゼ ☆ えみゅう。 ☆ 石王マサト obj:LAPIS",
+        "comment": "a lighter ★★5-ish experience"
+    },
+    {
+        "level": "6",
+        "title": "Overjoy ★ OVERDOSE!! [Atharther]",
+        "lr2_bmsid": "328057",
+        "md5": "f6d87b8a9fc3e81607c9e2fff26bf163",
+        "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=494&event=142",
+        "url_diff": "https://atharnal.github.io/diff/table.html",
+        "artist": "Luna Fozer obj. Atharnal / prod. BilliumMoto + 黒皇帝 + Sobrem / lyric assist. AKA / vox. vally.exe / chara. 蟹江 / illust. Shalink / mv. riguruma",
+        "comment": "enough total to recover from 2% by the last 16 measures (which the rating is based on)"
+    },
+    {
+        "level": "3",
+        "title": "Whiteout",
+        "lr2_bmsid": "217387",
+        "md5": "e845df5c6c38add3daf627b35b76a11c",
+        "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=13&event=104",
+        "url_diff": "",
+        "artist": "Re:gats& / BGA:5argon",
+        "comment": "(BlackAnother)"
+    },
+    {
+        "level": "8",
+        "title": "Whiteout [&]",
+        "lr2_bmsid": "217396",
+        "md5": "5ee2810a0e818128c41b9385f09deb64",
+        "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=13&event=104",
+        "url_diff": "",
+        "artist": "Re:gats& / BGA:5argon",
+        "comment": "whiteout r.xxx"
+    },
+    {
+        "level": "5",
+        "title": "Luv 5 Dancer [EXHAUST]",
+        "lr2_bmsid": "165158",
+        "md5": "2941c7e5ef09640b30fb9d3ca6293bb0",
+        "url": "http://uploader.bms.ms/data/luv_5_dancer_the_dear_sexys.zip",
+        "url_diff": "http://web.archive.org/web/20230212194016/http://absolute.pv.land.to/uploader/src/up3837.zip",
+        "artist": "The Dear Sexys/obj.poly",
+        "comment": ""
+    },
+    {
+        "level": "4",
+        "title": "Exit (another7)",
+        "lr2_bmsid": "1315",
+        "md5": "1da468b7747759763183cdc798bc2b2a",
+        "url": "http://skydrive.live.com/?cid=fc95a680740ca8c9&id=FC95A680740CA8C9%21111",
+        "url_diff": "http://www.geocities.jp/azerty1s/",
+        "artist": "Transin /A-zert",
+        "comment": ""
+    },
+    {
+        "level": "6",
+        "title": "Rosario -another story- (very busy)",
+        "lr2_bmsid": "140288",
+        "md5": "471357cb816d1649486c1959d3ee0e9d",
+        "url": "https://web.archive.org/web/20130508191238/http://homepage3.nifty.com/karihamo/ys_Rosario.zip",
+        "url_diff": "http://absolute.pv.land.to/uploader/src/up2960.zip",
+        "artist": "SB YUNE obj:ACE",
+        "comment": "st7 density, quite high total"
+    },
+    {
+        "level": "3",
+        "title": "Rosario -another story- (busy)",
+        "lr2_bmsid": "150",
+        "md5": "cda748c5f9c545bce00eff8673cc12ea",
+        "url": "https://web.archive.org/web/20130508191238/http://homepage3.nifty.com/karihamo/ys_Rosario.zip",
+        "url_diff": "http://absolute.pv.land.to/uploader/src/up0166.rar",
+        "artist": "SB YUNE obj:YUJI",
+        "comment": "beware of the ending"
+    },
+    {
+        "level": "3",
+        "title": "Rosario -another story- (busy)",
+        "lr2_bmsid": "150",
+        "md5": "cda748c5f9c545bce00eff8673cc12ea",
+        "url": "https://web.archive.org/web/20130508191238/http://homepage3.nifty.com/karihamo/ys_Rosario.zip",
+        "url_diff": "http://absolute.pv.land.to/uploader/src/up0166.rar",
+        "artist": "SB YUNE obj:YUJI",
+        "comment": "beware of the ending"
+    },
+    {
+        "level": "5",
+        "title": "Rosario -輪廻幻想譚- (SABOTHER)",
+        "lr2_bmsid": "185229",
+        "md5": "62e17e79a83361523d31f0a484cd2970",
+        "url": "https://web.archive.org/web/20130508191238/http://homepage3.nifty.com/karihamo/ys_Rosa.zip",
+        "url_diff": "https://web.archive.org/web/20190101181258/http://sabosabun.tank.jp/sabun/rosario%20sabun.zip",
+        "artist": "SB_YUNE feat. 初音ミク/さ",
+        "comment": "stamina draining"
+    },
+    {
+        "level": "8",
+        "title": "Rosario -輪廻幻想譚- (EX)",
+        "lr2_bmsid": "185228",
+        "md5": "bc5c6de58b37834a97681dac127fc94a",
+        "url": "https://web.archive.org/web/20130508191238/http://homepage3.nifty.com/karihamo/ys_Rosa.zip",
+        "url_diff": "https://web.archive.org/web/20190101181258/http://sabosabun.tank.jp/sabun/rosario%20sabun.zip",
+        "artist": "SB_YUNE feat. 初音ミク/さ",
+        "comment": "(even more) stamina draining"
+    },
+    {
+        "level": "9",
+        "title": "Forty-Four [INSANE]",
+        "lr2_bmsid": "261653",
+        "md5": "98a5fc8d05858c7342d03420858b8663",
+        "url": "https://dropbox.bms.ms/u/59626843/xrv_44.rar",
+        "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=01766",
+        "artist": "xarva / obj:LeaF",
+        "comment": "stamina + hard ending"
+    },
+    {
+        "level": "8",
+        "title": "island dream [lunatic]",
+        "lr2_bmsid": "265470",
+        "md5": "5a83440834244c025689dc463a08437f",
+        "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=123&event=116",
+        "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=02246",
+        "artist": "canonball mukai obj:1008",
+        "comment": "island diving"
+    },
+    {
+        "level": "1",
+        "title": "island dream [maniac]",
+        "lr2_bmsid": "265469",
+        "md5": "45c3c25bed84bc61d06cf6ec6d03e81a",
+        "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=123&event=116",
+        "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=02246",
+        "artist": "canonball mukai obj:1008",
+        "comment": ""
+    },
+    {
+        "level": "1",
+        "title": "Alitatrieb [Madness]",
+        "lr2_bmsid": "283422",
+        "md5": "37f5309c50a7cbc2d43243ace22c91ac",
+        "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=57&event=121",
+        "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=04060",
+        "artist": "R*uLuru / obj:C4 + monaka BGA:自動車 原付",
+        "comment": ""
+    },
+    {
+        "level": "6",
+        "title": "Alitatrieb [Insanity]",
+        "lr2_bmsid": "283424",
+        "md5": "ceedcf9712b3018c1fd7e7bf87454139",
+        "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=57&event=121",
+        "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=04060",
+        "artist": "R*uLuru / obj:C4 + monaka BGA:自動車 原付",
+        "comment": ""
+    },
+    {
+        "level": "5",
+        "title": "Alitatrieb [LUNATIC]",
+        "lr2_bmsid": "262628",
+        "md5": "2db772c5c934cc466030a6ceb8da1175",
+        "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=57&event=121",
+        "url_diff": "",
+        "artist": "R*uLuru / BGA:自動車 原付",
+        "comment": ""
+    },
+    {
+        "level": "5",
+        "title": "Amethyst Moon -Pure White Crystal-",
+        "lr2_bmsid": "263904",
+        "md5": "1950f0e6809f704ac5ec63969ae24f9f",
+        "url": "http://starkey.ivory.ne.jp/mf/mf2/detail/view/9/",
+        "url_diff": "https://ux.getuploader.com/monaka_sabun_2/download/164",
+        "artist": "Rethisly BGA:るっかるか / obj:monaka",
+        "comment": "slappy patterns"
+    },
+    {
+        "level": "7",
+        "title": "Amethyst Moon [SP Insane]",
+        "lr2_bmsid": "264470",
+        "md5": "adebe810c5a1528c04454fa88ff71a04",
+        "url": "http://starkey.ivory.ne.jp/mf/mf2/detail/view/9/",
+        "url_diff": "",
+        "artist": "Rethisly BGA:るっかるか",
+        "comment": "Refischly (no pls)"
+    },
+    {
+        "level": "6",
+        "title": "春夏秋冬少女 [All Season]",
+        "lr2_bmsid": "279506",
+        "md5": "0bf31b7065975f58a983142a3146da1d",
+        "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=169&event=127",
+        "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=03518",
+        "artist": "Gazan obj:monaka",
+        "comment": "slappy fast patterns"
+    },
+    {
+        "level": "1",
+        "title": "End Time [another]",
+        "lr2_bmsid": "709",
+        "md5": "38c8e7e7b08eb872e9ab1ce04b83c07d",
+        "url": "http://nekokan.dyndns.info/~lobsak/genoside/",
+        "url_diff": "",
+        "artist": "Cres",
+        "comment": "stairway to the end"
+    },
+    {
+        "level": "6",
+        "title": "End Time -Extra-",
+        "lr2_bmsid": "143343",
+        "md5": "076514c9ea2f3338667b6629e482bce0",
+        "url": "http://nekokan.dyndns.info/~lobsak/genoside/",
+        "url_diff": "http://nekokan.dyndns.info/~lobsak/bms/repair_pack.zip",
+        "artist": "Cres obj: mattun",
+        "comment": "wtf...?"
+    },
+    {
+        "level": "10",
+        "title": "End Time -to the death-",
+        "lr2_bmsid": "143343",
+        "md5": "80faa68c6b45064cb27d5c018eabd7e5",
+        "url": "http://nekokan.dyndns.info/~lobsak/genoside/",
+        "url_diff": "http://absolute.pv.land.to/uploader/src/up1348.rar",
+        "artist": "Cres / obj:y",
+        "comment": "stairway to the death"
+    },
+    {
+        "level": "9",
+        "title": "End Time A⇒Side [Deadly End]",
+        "lr2_bmsid": "271818",
+        "md5": "acb066266ebc83d9dae23f1009497fe3",
+        "url": "http://nekokan.dyndns.info/~lobsak/genoside/",
+        "url_diff": "https://ux.getuploader.com/monaka_sabun_2/download/186",
+        "artist": "Cres/*8284* obj:monaka",
+        "comment": "stairway to the other side"
+    },
+    {
+        "level": "3",
+        "title": "Love & Justice [AFOTHER]",
+        "lr2_bmsid": "96146",
+        "md5": "7c774b8922f87de19ab72e96d996726c",
+        "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=227&event=65",
+        "url_diff": "https://web.archive.org/web/20151105190255/http://absolute.pv.land.to/Anotherbms.html",
+        "artist": "フロン / ラズベリル / obj: black train",
+        "comment": "st3~4; Play like delay"
+    },
+    {
+        "level": "9",
+        "title": "Love & Justice [MANIAQ]",
+        "lr2_bmsid": "96149",
+        "md5": "d2f8edb05e9e8dd19b4106ed68c0a668",
+        "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=227&event=65",
+        "url_diff": "https://web.archive.org/web/20151105190255/http://absolute.pv.land.to/Anotherbms.html",
+        "artist": "フロン / ラズベリル / obj: black train",
+        "comment": "Miss...?"
+    },
+    {
+        "level": "2",
+        "title": "疾騒！痛快！正義のアヤパカガール <<JUSTICE the AYAPAKA>>",
+        "lr2_bmsid": "128973",
+        "md5": "1485252111bce0fd19d01705c6d35e7d",
+        "url": "http://yaruki0.sakura.ne.jp/event/ondanyugi4/impression.cgi?no=7",
+        "url_diff": "",
+        "artist": "ZUN(Arr.髭姫) / obj:如月結 VOCAL:しゆ LYRICS：ドラホス BGA：とみー",
+        "comment": "(Another)"
+    },
+    {
+        "level": "8",
+        "title": "疾騒！痛快！正義のアヤパカガール <<JUSTICE the AYAPAKA>>",
+        "lr2_bmsid": "128975",
+        "md5": "f5d9b9f279ca8071b6012adf09b5c293",
+        "url": "http://yaruki0.sakura.ne.jp/event/ondanyugi4/impression.cgi?no=7",
+        "url_diff": "",
+        "artist": "ZUN(Arr.髭姫) / obj:如月結 VOCAL:しゆ LYRICS：ドラホス BGA：とみー",
+        "comment": "(BlackAnother)"
+    },
+    {
+        "level": "3",
+        "title": "◆ B a r o q u e ◆ －Reincarnation－",
+        "lr2_bmsid": "34032",
+        "md5": "c6eb34cad636b0ff143004f77e39f9ed",
+        "url": "http://www.mediafire.com/download/a6a6g72axrnp490/%E2%97%86+B+a+r+o+q+u+e+%E2%97%86.rar",
+        "url_diff": "http://sabunbun.yukihotaru.com/sabunokiba.html",
+        "artist": "tarolabo / obj BUN×BUN",
+        "comment": ""
+    },
+    {
+        "level": "0",
+        "title": "CHASER [Another]",
+        "lr2_bmsid": "712",
+        "md5": "5db25f40c92eeedb385f99b29fef3811",
+        "url": "http://web.archive.org/web/20210728184302/http://shiki2.sakura.ne.jp/",
+        "url_diff": "",
+        "artist": "SHIKI",
+        "comment": ""
+    },
+    {
+        "level": "6",
+        "title": "CHASER [EX]",
+        "lr2_bmsid": "383",
+        "md5": "c23778c9dce653fe104576a4942e7bfb",
+        "url": "http://web.archive.org/web/20210728184302/http://shiki2.sakura.ne.jp/",
+        "url_diff": "http://web.archive.org//http://absolute.pv.land.to/uploader/src/up0187.zip",
+        "artist": "SHIKI",
+        "comment": ""
+    },
+    {
+        "level": "0",
+        "title": "Fractal [7Another]",
+        "lr2_bmsid": "291844",
+        "md5": "81e59fa3a2f294c5ed0bb8750f3729bb",
+        "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=243&event=133",
+        "url_diff": "",
+        "artist": "SHIKI movie:140/fth",
+        "comment": ""
+    },
+    {
+        "level": "4",
+        "title": "Fractal [ZOI]",
+        "lr2_bmsid": "293104",
+        "md5": "f2e0faae32f4db6c89c446f2284bd522",
+        "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=243&event=133",
+        "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=04785",
+        "artist": "SHIKI movie:140/fth / obj:SUZUKAZEΛ",
+        "comment": ""
+    },
+    {
+        "level": "9",
+        "title": "Fractal -Luna-",
+        "lr2_bmsid": "300900",
+        "md5": "e05791ba3fd7eec224897da3faa1352c",
+        "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=243&event=133",
+        "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05468",
+        "artist": "SHIKI movie:140/fth/selene.",
+        "comment": ""
+    },
+    {
+        "level": "8",
+        "title": "Implexrough -Luna-",
+        "lr2_bmsid": "259058",
+        "md5": "591f59636e0056fcdb7edefc52d645bc",
+        "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=365&event=116",
+        "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=1568",
+        "artist": "Silentroom × mommy × Nate / selene.",
+        "comment": "st8~9"
+    },
+    {
+        "level": "2",
+        "title": "どうか私を殺して下さい (latesnow)",
+        "lr2_bmsid": "307492",
+        "md5": "d1b40ccb0357a83e82b3b9fe82352392",
+        "url": "http://rin.s101.xrea.com/",
+        "url_diff": "https://stellabms.xyz/upload/1511",
+        "artist": "LUNEの右手と悠里おねぇちゃんの左脚 / obj.三月ウサギ",
+        "comment": ""
     }
 ]
