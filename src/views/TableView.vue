@@ -1,6 +1,8 @@
 <script setup>
 import DataTable from 'datatables.net-vue3';
 import DataTablesCore from 'datatables.net';
+import 'datatables.net-rowgroup-dt';
+import { ref, onMounted } from 'vue';
 DataTable.use(DataTablesCore);
 
 const columns = [
@@ -16,7 +18,9 @@ const url = (import.meta.env.PROD ? '/lr2-mypage' : '') + '/double_time.json'
 
 <template>
   <div class="table">
-    <DataTable :ajax="{ url: url, 'dataSrc': '' }" :columns="columns" class="display">
+    <DataTable ref="table" :ajax="{ url: url, 'dataSrc': '' }" :options="{rowGroup:{enable:true , dataSrc:(rowdata)=>{
+      return `dt${rowdata.level}`
+    }}}" :columns="columns" class="display">
       <thead>
         <tr>
           <th>Level</th>

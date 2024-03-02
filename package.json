@@ -12,17 +12,18 @@
   },
   "dependencies": {
     "datatables.net-dt": "^1.13.4",
+    "datatables.net-rowgroup-dt": "^1.5.0",
     "datatables.net-vue3": "^2.1.1",
     "vue": "^3.3.2",
     "vue-router": "^4.2.0"
   },
   "devDependencies": {
-    "execa": "latest",
     "@rushstack/eslint-patch": "^1.2.0",
     "@vitejs/plugin-vue": "^4.2.3",
     "@vue/eslint-config-prettier": "^7.1.0",
     "eslint": "^8.39.0",
     "eslint-plugin-vue": "^9.11.0",
+    "execa": "latest",
     "prettier": "^2.8.8",
     "vite": "^4.3.5"
   }
