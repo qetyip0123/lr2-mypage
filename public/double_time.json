@@ -1630,16 +1630,6 @@
         "comment": "beware of the ending"
     },
     {
-        "level": "3",
-        "title": "Rosario -another story- (busy)",
-        "lr2_bmsid": "150",
-        "md5": "cda748c5f9c545bce00eff8673cc12ea",
-        "url": "https://web.archive.org/web/20130508191238/http://homepage3.nifty.com/karihamo/ys_Rosario.zip",
-        "url_diff": "http://absolute.pv.land.to/uploader/src/up0166.rar",
-        "artist": "SB YUNE obj:YUJI",
-        "comment": "beware of the ending"
-    },
-    {
         "level": "5",
         "title": "Rosario -輪廻幻想譚- (SABOTHER)",
         "lr2_bmsid": "185229",
@@ -1908,5 +1898,115 @@
         "url_diff": "https://stellabms.xyz/upload/1511",
         "artist": "LUNEの右手と悠里おねぇちゃんの左脚 / obj.三月ウサギ",
         "comment": ""
+    },
+    {
+        "level": "7",
+        "title": "兎は舞い降りた [HARD]",
+        "lr2_bmsid": "211640",
+        "md5": "eee414d4940507fcff251d2cad606adc",
+        "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=41&event=102",
+        "url_diff": "",
+        "artist": "ZUN bms:乙UИ obj:yuyuko",
+        "comment": ""
+    },
+    {
+        "level": "1",
+        "title": "兎は舞い降りた [NORMAL]",
+        "lr2_bmsid": "211637",
+        "md5": "4a2cca84e1663b382dcea1033fbd0cf8",
+        "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=41&event=102",
+        "url_diff": "",
+        "artist": "ZUN bms:乙UИ obj:yuyuko",
+        "comment": ""
+    },
+    {
+        "level": "2",
+        "title": "Kouma Rave Party Night [SP EXTRA]",
+        "lr2_bmsid": "211308",
+        "md5": "3ed91a6dfe3417ad7d663606f7208f0d",
+        "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=13&event=102",
+        "url_diff": "",
+        "artist": "dj MASTER feat. 高谷紗那",
+        "comment": "BGA ver."
+    },
+    {
+        "level": "7",
+        "title": "Kouma Rave Party Night [SP U.N.KNOWN]",
+        "lr2_bmsid": "211289",
+        "md5": "d3fe395d4c2fcdab86740afaa058f471",
+        "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=13&event=102",
+        "url_diff": "",
+        "artist": "dj MASTER feat. 高谷紗那",
+        "comment": "BGA ver."
+    },
+    {
+        "level": "1",
+        "title": "perfume of reunion [Nemesis]",
+        "lr2_bmsid": "312816",
+        "md5": "29a5d04bb897e7d87e8a5891fcef1f97",
+        "url": "https://bms-mirror.com/pkg/2018/oldskoolvsfuture/%5Bem54%5Dperfume_of_reunion.zip",
+        "url_diff": "https://venue.bmssearch.net/bcel_pre/29",
+        "artist": "parakeet41/2 BGA:HAINA / Obj.Triforce",
+        "comment": ""
+    },
+    {
+        "level": "5",
+        "title": "perfume of reunion [old's cool]",
+        "lr2_bmsid": "312801",
+        "md5": "3630d0ec582727bf9cf4c2fb025ccc85",
+        "url": "https://bms-mirror.com/pkg/2018/oldskoolvsfuture/%5Bem54%5Dperfume_of_reunion.zip",
+        "url_diff": "https://venue.bmssearch.net/bcel_pre/35",
+        "artist": "parakeet41/2 BGA:HAINA / obj.hex",
+        "comment": ""
+    },
+    {
+        "level": "0",
+        "title": "Ocean Fairy -BMS Edit- (ANOTHER - Legacy Ver.)",
+        "lr2_bmsid": "157065",
+        "md5": "b3c42e5b08c7f0c7bae570102412a0a7",
+        "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=7&event=85",
+        "url_diff": "",
+        "artist": "髭姫 BGA：FleetingLovely obj：KTBM",
+        "comment": "st0~1"
+    },
+    {
+        "level": "0",
+        "title": "Ocean Fairy -BMS Edit- (ANOTHER)",
+        "lr2_bmsid": "157054",
+        "md5": "460ae2ddea76cf26357da52203cd9f2a",
+        "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=7&event=85",
+        "url_diff": "",
+        "artist": "髭姫 BGA：FleetingLovely obj：KTBM",
+        "comment": "LN ver."
+    },
+    {
+        "level": "4",
+        "title": "Ocean Fairy -BMS Edit- (BLACKANOTHER)",
+        "lr2_bmsid": "157082",
+        "md5": "32faeae0c5b79a5a2e5c2dab6fdc3a8a",
+        "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=7&event=85",
+        "url_diff": "",
+        "artist": "髭姫 BGA：FleetingLovely obj：如月結",
+        "comment": ""
+    },
+    {
+        "level": "8",
+        "title": "Ocean Fairy -BMS Edit- (ΠΟΣΕΙΔΩΝ)",
+        "lr2_bmsid": "157084",
+        "md5": "c5f745826cd4f4673a36229ef89cbcfc",
+        "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=7&event=85",
+        "url_diff": "",
+        "artist": "髭姫 BGA：FleetingLovely obj：如月結",
+        "comment": "st8 with mashing + high total, otherwise st9"
+    },
+    {
+        "level": "4",
+        "title": "The Elegant Universe [INSANE]",
+        "lr2_bmsid": "157067",
+        "md5": "7102a579bc4f5782242838a616026d0b",
+        "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=6&event=85",
+        "url_diff": "",
+        "artist": "nmk/1B",
+        "comment": "difficulty by LN"
     }
 ]
