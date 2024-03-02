@@ -1540,7 +1540,7 @@
         "comment": "High total meets scratch walls"
     },
     {
-        "level": "8",
+        "level": "9",
         "title": "Ms. Steam [Elementary My Dear]",
         "lr2_bmsid": "324895",
         "md5": "8be8fccdee2da27016699e541ee11cd3",
@@ -1900,6 +1900,36 @@
         "comment": ""
     },
     {
+        "level": "5",
+        "title": "どうか私を殺して下さい",
+        "lr2_bmsid": "1092",
+        "md5": "3fe6019fc689ecd066ce0e1f643e76e4",
+        "url": "http://rin.s101.xrea.com/",
+        "url_diff": "http://web.archive.org/web/20090220065035/http://page.freett.com/lobsak/8111111.lzh",
+        "artist": "LUNEの右手と悠里おねぇちゃんの左脚",
+        "comment": "-EX- (zure + normal judge)"
+    },
+    {
+        "level": "7",
+        "title": "どうか私を殺して下さい [29Another]",
+        "lr2_bmsid": "1777",
+        "md5": "3fe6019fc689ecd066ce0e1f643e76e4",
+        "url": "http://rin.s101.xrea.com/",
+        "url_diff": "http://nick.xxxxxxxx.jp/",
+        "artist": "LUNEの右手と悠里おねぇちゃんの左脚 / 29",
+        "comment": "sneak peek for ★★4"
+    },
+    {
+        "level": "11",
+        "title": "どうか私を殺して下さい [INFERNO]",
+        "lr2_bmsid": "176199",
+        "md5": "51f9ce87e4a377f8009315568af297a2",
+        "url": "http://rin.s101.xrea.com/",
+        "url_diff": "http://akred.web.fc2.com/bmsfile/korosite-INFERNOf.bme",
+        "artist": "LUNEの右手と悠里おねぇちゃんの左脚 /差分 赤い人",
+        "comment": "do me a favor and die"
+    },
+    {
         "level": "7",
         "title": "兎は舞い降りた [HARD]",
         "lr2_bmsid": "211640",
@@ -2008,5 +2038,285 @@
         "url_diff": "",
         "artist": "nmk/1B",
         "comment": "difficulty by LN"
+    },
+    {
+        "level": "1",
+        "title": "Kaleidoscope [SP ANOTHER]",
+        "lr2_bmsid": "287998",
+        "md5": "eac3481c7a80014579da0b2816b279ff",
+        "url": "https://venue.bmssearch.net/mutualfaith3/4",
+        "url_diff": "",
+        "artist": "Lycoris vs. Pied d'Alouette",
+        "comment": ""
+    },
+    {
+        "level": "2",
+        "title": "Kaleidoscope [EZ-ZOI]",
+        "lr2_bmsid": "288056",
+        "md5": "90787451e1c6ecc751528a8ad7037a6f",
+        "url": "https://venue.bmssearch.net/mutualfaith3/4",
+        "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=04450",
+        "artist": "Lycoris vs. Pied d'Alouette",
+        "comment": ""
+    },
+    {
+        "level": "5",
+        "title": "Kaleidoscope [ZOI]",
+        "lr2_bmsid": "288057",
+        "md5": "8b2169b89d1987d4dd91f5fbd3b22e57",
+        "url": "https://venue.bmssearch.net/mutualfaith3/4",
+        "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=04450",
+        "artist": "Lycoris vs. Pied d'Alouette",
+        "comment": ""
+    },
+    {
+        "level": "7",
+        "title": "Kaleidoscope [SP INSANE]",
+        "lr2_bmsid": "288000",
+        "md5": "12465f3ced547f6a6735f94c9f6751b1",
+        "url": "https://venue.bmssearch.net/mutualfaith3/4",
+        "url_diff": "",
+        "artist": "Lycoris vs. Pied d'Alouette",
+        "comment": "ending..."
+    },
+    {
+        "level": "6",
+        "title": "Rainforest [INSANE]",
+        "lr2_bmsid": "322826",
+        "md5": "24dfe4d149e42dc5922108a6622326ce",
+        "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=48&event=141",
+        "url_diff": "",
+        "artist": "白羽 BGI : やむちゃ / Typography : 千廻 / BMS : 白羽",
+        "comment": ""
+    },
+    {
+        "level": "10",
+        "title": "Rainforest [REVIVE]",
+        "lr2_bmsid": "322736",
+        "md5": "7b8253acb8fe6152b48fbf8df3813103",
+        "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=48&event=141",
+        "url_diff": "",
+        "artist": "白羽 BGI : やむちゃ / Typography : 千廻 / BMS : 白羽",
+        "comment": ""
+    },
+    {
+        "level": "4",
+        "title": "LiVEMeTAL [ANOTHER]",
+        "lr2_bmsid": "286680",
+        "md5": "a16b59f164c70696d11d0b86491abd79",
+        "url": "https://dl.dropbox.com/s/4hz7tzvm5vh5xhd/%5Batos%5Dlivemetal.zip",
+        "url_diff": "",
+        "artist": "あとぅす Illust:Micelle/Movie:TM",
+        "comment": ""
+    },
+    {
+        "level": "9",
+        "title": "LiVEMeTAL [HEROIC]",
+        "lr2_bmsid": "300324",
+        "md5": "67f4387cb513c9242b919df282e89fbe",
+        "url": "https://dl.dropbox.com/s/4hz7tzvm5vh5xhd/%5Batos%5Dlivemetal.zip",
+        "url_diff": "https://stellabms.xyz/upload/994",
+        "artist": "あとぅす / obj:fuko Illust:Micelle/Movie:TM",
+        "comment": ""
+    },
+    {
+        "level": "11",
+        "title": "LiVEMeTAL [IRREGULAR]",
+        "lr2_bmsid": "286742",
+        "md5": "75f2b44a3f1b0222b1c848f5cf054ad3",
+        "url": "https://dl.dropbox.com/s/4hz7tzvm5vh5xhd/%5Batos%5Dlivemetal.zip",
+        "url_diff": "",
+        "artist": "あとぅす Illust:Micelle/Movie:TM",
+        "comment": "YABAIWAYO"
+    },
+    {
+        "level": "4",
+        "title": "Space Route to Kepler-186f [Quasar]",
+        "lr2_bmsid": "327256",
+        "md5": "756f5aad016f6211e154f1980e78472e",
+        "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=20&event=142",
+        "url_diff": "https://atharnal.github.io/diff/table.html",
+        "artist": "anco / Movie: 森定祥 Obj: Atharnal",
+        "comment": ""
+    },
+    {
+        "level": "1",
+        "title": "Space Route to Kepler-186f [SP INSANE]",
+        "lr2_bmsid": "325468",
+        "md5": "fd0becb339e201fb5862003e330115f8",
+        "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=20&event=142",
+        "url_diff": "",
+        "artist": "anco / Movie: 森定祥 Obj: Mr.Faine",
+        "comment": ""
+    },
+    {
+        "level": "10",
+        "title": "Space Route to Kepler-186f [SP HZ-EXOPLANET]",
+        "lr2_bmsid": "325436",
+        "md5": "f5a9d91ddb0f9685b80764968a2831bc",
+        "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=20&event=142",
+        "url_diff": "",
+        "artist": "anco / Movie: 森定祥 Obj: Mr.Faine",
+        "comment": "[the many colors] of outer space"
+    },
+    {
+        "level": "0",
+        "title": "Ad astra itur ≡☆ [ANOTHER]",
+        "lr2_bmsid": "325546",
+        "md5": "d6985f0dcd74a5b1ca0b79b69ae6dc65",
+        "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=74&event=142",
+        "url_diff": "",
+        "artist": "Trina Lydia mov: Trina Lydia, Transendium / obj: Trina Lydia, fromost",
+        "comment": ""
+    },
+    {
+        "level": "4",
+        "title": "Ad astra itur ≡☆ [13Another]",
+        "lr2_bmsid": "327505",
+        "md5": "3f6f10e4ada3188792534f7a52adeaaf",
+        "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=74&event=142",
+        "url_diff": "https://stellabms.xyz/upload/3320",
+        "artist": "Trina Lydia mov: Trina Lydia, Transendium / obj: qtp13",
+        "comment": ""
+    },
+    {
+        "level": "5",
+        "title": "Ad astra itur ≡☆ [INSANE]",
+        "lr2_bmsid": "325884",
+        "md5": "33d862bae75c7dfd9004f3777deff093",
+        "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=74&event=142",
+        "url_diff": "",
+        "artist": "Trina Lydia mov: Trina Lydia, Transendium / obj: Trina Lydia, fromost",
+        "comment": ""
+    },
+    {
+        "level": "8",
+        "title": "Ad astra itur ≡☆ [METEORITE]",
+        "lr2_bmsid": "325545",
+        "md5": "edb233e6dfbeb66ded440a013df9028d",
+        "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=74&event=142",
+        "url_diff": "",
+        "artist": "Trina Lydia mov: Trina Lydia, Transendium / obj: Trina Lydia, fromost",
+        "comment": ""
+    },
+    {
+        "level": "8",
+        "title": "Cynic -drrrr-",
+        "lr2_bmsid": "60765",
+        "md5": "108e532b623118c25ddbccc7aa6f4fd3",
+        "url": "http://web.archive.org/web/20060621033302/http://www.commonsense.nu/songs/cynic.zip",
+        "url_diff": "http://web.archive.org/web/20190201213302/http://absolute.pv.land.to/uploader/src/up0884.zip",
+        "artist": "6yen / G obj:WAYA",
+        "comment": "THE Anodrrrr"
+    },
+    {
+        "level": "9",
+        "title": "Cynic (THE hyper)",
+        "lr2_bmsid": "60679",
+        "md5": "5cd49fb3326135e74cd668270d9b88c7",
+        "url": "http://web.archive.org/web/20060621033302/http://www.commonsense.nu/songs/cynic.zip",
+        "url_diff": "http://web.archive.org/web/20190917071620/http://sabosabun.tank.jp/",
+        "artist": "6yen / G / 、/さ",
+        "comment": "THE Another-"
+    },
+    {
+        "level": "12",
+        "title": "Cynic (THE another)",
+        "lr2_bmsid": "1578",
+        "md5": "c67ba013af164f2cdec7c8c98c90d8f5",
+        "url": "http://web.archive.org/web/20060621033302/http://www.commonsense.nu/songs/cynic.zip",
+        "url_diff": "http://onedrive.live.com/?id=CE1DD07774D515B4%21241&cid=CE1DD07774D515B4",
+        "artist": "6yen / G / 、",
+        "comment": "THE WHAT"
+    },
+    {
+        "level": "10",
+        "title": "gradation (MANIAQ)",
+        "lr2_bmsid": "1057",
+        "md5": "5de3fb61ef2aedb0e66c992273e3bc4e",
+        "url": "http://skydrive.live.com/?cid=fc95a680740ca8c9&id=FC95A680740CA8C9%21201&authkey=!AKRI_LJWCFUbDrg",
+        "url_diff": "http://web.archive.org/web/20190201221156/http://absolute.pv.land.to/uploader/src/up0303.zip",
+        "artist": "NEKI←T＋Frost_Shrike",
+        "comment": ""
+    },
+    {
+        "level": "6",
+        "title": "エーデルワイス [HARDEST]",
+        "lr2_bmsid": "191631",
+        "md5": "156a5f42301abfc36b5aadc72176058f",
+        "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=9&event=95",
+        "url_diff": "http://akred.web.fc2.com/bmsfile/Edelweiss-HARDEST.bms",
+        "artist": "黄泉路テヂーモ / 差分 赤い人 BGA:鑓田",
+        "comment": ""
+    },
+    {
+        "level": "4",
+        "title": "純子先輩 [VIP]",
+        "lr2_bmsid": "185297",
+        "md5": "fba46a8a1724cdd83c450defedb11334",
+        "url": "https://drive.google.com/uc?export=download&id=1tWBPu2EBS5S-FNq0y0UKtCBEbJyeQXKC&confirm=t",
+        "url_diff": "https://web.archive.org/web/20190917071620/http://sabosabun.tank.jp/sabun/junkosenpaisabun.zip",
+        "artist": "CRUNCH + A.I. Junko/さ",
+        "comment": ""
+    },
+    {
+        "level": "0",
+        "title": "アリスの空虚で愉快な人形劇",
+        "lr2_bmsid": "211519",
+        "md5": "62d20a2ca21dd96d4f5a6d04a05e57d0",
+        "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=35&event=102",
+        "url_diff": "",
+        "artist": "ろうて",
+        "comment": "(Another)"
+    },
+    {
+        "level": "8",
+        "title": "アリスの空虚で愉快な人形劇",
+        "lr2_bmsid": "211520",
+        "md5": "3281c51b12f4d453b68dbf8106d53061",
+        "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=35&event=102",
+        "url_diff": "",
+        "artist": "ろうて / ちゃっく",
+        "comment": "(BlackAnother); very hard ending"
+    },
+    {
+        "level": "5",
+        "title": "ArcStar [SP INSANE]",
+        "lr2_bmsid": "323705",
+        "md5": "2325fb1fa1539d9fbc8cbf84e56a498d",
+        "url": "https://venue.bmssearch.net/letsbmsedit/11",
+        "url_diff": "https://venue.bmssearch.net/sd_sand/6",
+        "artist": "FliZ bms:R054; obj:いりす",
+        "comment": ""
+    },
+    {
+        "level": "8",
+        "title": "astral.exe [Insane]",
+        "lr2_bmsid": "327356",
+        "md5": "4986291be647cc58ab30a14b1d9a796d",
+        "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=436&event=142",
+        "url_diff": "",
+        "artist": "Synzak & Laxeno57 (Movie: kkmfd) Obj: nbunnyuwu",
+        "comment": ""
+    },
+    {
+        "level": "3",
+        "title": "Pleasure of Being [Cassis & Orange]",
+        "lr2_bmsid": "241648",
+        "md5": "9567325424819b4c9d5c65f89ebdaac0",
+        "url": "http://yuinore.net/2017/02/smc-package/",
+        "url_diff": "",
+        "artist": "Yu^ta",
+        "comment": ""
+    },
+    {
+        "level": "8",
+        "title": "Pleasure of Being [Fuzzy navel]",
+        "lr2_bmsid": "241667",
+        "md5": "129d7ddd0bc9fb71e122495955a72377",
+        "url": "http://yuinore.net/2017/02/smc-package/",
+        "url_diff": "",
+        "artist": "Yu^ta",
+        "comment": ""
     }
 ]
