@@ -5,7 +5,7 @@ import { RouterLink, RouterView } from 'vue-router'
 <template>
   <nav>
     <RouterLink to="/">Double Time</RouterLink>
-    <RouterLink to="/question">???</RouterLink>
+    <RouterLink to="/question">About</RouterLink>
   </nav>
 
   <RouterView />

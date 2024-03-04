@@ -2473,7 +2473,7 @@
         "level": "8",
         "title": "Raspberry Memories [Happy Tarts]",
         "lr2_bmsid": "321841",
-        "md5": "3400cd27d056469a79489e0bf8fbcfde",
+        "md5": "ae0c46acbfbe669136f3cc004c73bf50",
         "url": "https://venue.bmssearch.net/ippaitukuru2019/39",
         "url_diff": "https://stellabms.xyz/upload/2705",
         "artist": "吟世かいな obj: qtp13",
@@ -2498,5 +2498,105 @@
         "url_diff": "https://github.com/TristanDavis97/Sabuns/raw/main/7keys_tristandelayvis.zip",
         "artist": "薄荷堂 龍 / Obj. Tristan97",
         "comment": "Broken delay"
+    },
+    {
+        "level": "5",
+        "title": "ZEUS [Another+]",
+        "lr2_bmsid": "87284",
+        "md5": "4c74a1b115fcb4554ce78b170b888d4b",
+        "url": "http://www.luzeria.net/?p=387",
+        "url_diff": "http://absolute.pv.land.to/uploader/src/up1513.zip",
+        "artist": "ルゼ",
+        "comment": "Renda"
+    },
+    {
+        "level": "5",
+        "title": "ZEUS",
+        "lr2_bmsid": "311638",
+        "md5": "2eb517be942d2955d6319ef99761292d",
+        "url": "http://www.luzeria.net/?p=387",
+        "url_diff": "https://dl.dropbox.com/s/9gji13h1wc7brqc/ZEUS.zip",
+        "artist": "ルゼ",
+        "comment": "[かんたん]"
+    },
+    {
+        "level": "7",
+        "title": "ZEUS",
+        "lr2_bmsid": "311639",
+        "md5": "4fd5b251d89c6e82499dd7595a4a41d7",
+        "url": "http://www.luzeria.net/?p=387",
+        "url_diff": "https://dl.dropbox.com/s/9gji13h1wc7brqc/ZEUS.zip",
+        "artist": "ルゼ",
+        "comment": "[むずかしい]; 鬼-"
+    },
+    {
+        "level": "8",
+        "title": "All is fair in Rage [Toasty Fatality]",
+        "lr2_bmsid": "254792",
+        "md5": "08cd57615b032334aea711bff8392254",
+        "url": "https://drive.google.com/drive/u/0/folders/0B0a6-fXyD9ZESXNqLU9qT29wTVE?resourcekey=0-FbrsO202klEozpNE1YFXHw",
+        "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=01225",
+        "artist": "litmus* / obj.7zs",
+        "comment": ""
+    },
+    {
+        "level": "2",
+        "title": "All is fair in Rage [Innate Emotions]",
+        "lr2_bmsid": "220612",
+        "md5": "fb6efa5d6e8ea86b3ff7e5290e676514",
+        "url": "https://drive.google.com/drive/u/0/folders/0B0a6-fXyD9ZESXNqLU9qT29wTVE?resourcekey=0-FbrsO202klEozpNE1YFXHw",
+        "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=01225",
+        "artist": "litmus* / obj.7zs",
+        "comment": ""
+    },
+    {
+        "level": "2",
+        "title": "Kronos [EX]",
+        "lr2_bmsid": "147948",
+        "md5": "b11eeaaafc6188387c940a2a04c706ff",
+        "url": "http://www.mediafire.com/file/uxv2dcqwcnov2vu/Kronos.rar",
+        "url_diff": "http://siokazebms.web.fc2.com/",
+        "artist": "削除 / うまい棒 / obj.siokaze",
+        "comment": ""
+    },
+    {
+        "level": "9",
+        "title": "Kronos [HARDEST]",
+        "lr2_bmsid": "158155",
+        "md5": "0c51e47d6fdc676311e429e50a090d5a",
+        "url": "http://www.mediafire.com/file/uxv2dcqwcnov2vu/Kronos.rar",
+        "url_diff": "http://akred.web.fc2.com/bmsfile/kronos-HARDEST.bms",
+        "artist": "削除 / うまい棒 / 差分 赤い人",
+        "comment": ""
+    },
+    {
+        "level": "10",
+        "title": "Kronos [Master]",
+        "lr2_bmsid": "178575",
+        "md5": "7f30d02dc3ccc938536d2346fd480e84",
+        "url": "http://www.mediafire.com/file/uxv2dcqwcnov2vu/Kronos.rar",
+        "url_diff": "http://siokazebms.web.fc2.com/",
+        "artist": "削除 / うまい棒 / obj.siokaze",
+        "comment": ""
+    },
+    {
+        "level": "3",
+        "title": "Childie Sharp [HyperWeapon]",
+        "lr2_bmsid": "127302",
+        "md5": "d431f5779ff511480101f4612cebbfd4",
+        "url": "http://colosseo.nekokan.dyndns.info/c02_shuffle/detail.php?n=41",
+        "url_diff": "",
+        "artist": "nmk/かなえゆめ",
+        "comment": "_Rance; 3~4"
+    },
+    {
+        "level": "8",
+        "title": "Childie Sharp [MANIAC(remake)]",
+        "lr2_bmsid": "297558",
+        "md5": "e05b195c3f1898cc7432c1f3969d82ab",
+        "url": "http://colosseo.nekokan.dyndns.info/c02_shuffle/detail.php?n=41",
+        "url_diff": "https://stellabms.xyz/upload/740",
+        "artist": "nmk/かなえゆめ obj.quad",
+        "comment": ""
     }
 ]

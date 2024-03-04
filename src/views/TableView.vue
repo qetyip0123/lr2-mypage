@@ -9,18 +9,44 @@ const columns = [
   { data: 'level', "width": "5%" },
   { data: 'title', "width": "35%", render: (data, type, row, meta) => `<a target="_blank" href="http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&${row.md5 ? ('bmsmd5=' + row.md5) : ('bmsid=' + row.lr2_bmsid)}">${data}</a>` },
   { data: 'artist', "width": "20%", render: (data, type, row, meta) => `<a target="_blank" href="${row.url}">${data}</a>` },
-  { data: 'chart', "width": "5%", render: (data, type, row, meta) => row.url_diff ? `<a target="_blank" href="${row.url_diff}">DL</a>` : `` },
-  { data: 'comment', "width": "35%" }
+  { data: 'chart', "width": "5%", orderable: false, render: (data, type, row, meta) => row.url_diff ? `<a target="_blank" href="${row.url_diff}">DL</a>` : `` },
+  { data: 'comment', "width": "35%", orderable: false }
 ];
 
+let dt;
+const table = ref();
+
 const url = (import.meta.env.PROD ? '/lr2-mypage' : '') + '/double_time.json'
+
+onMounted(() => {
+  dt = table.value.dt;
+  dt.on('order', () => {
+    if (dt.order()[0][0] === 0) {
+      dt.rowGroup().dataSrc((rowdata) => {
+        return `dt${rowdata.level}`
+      })
+    } else if (dt.order()[0][0] === 1) {
+      dt.rowGroup().dataSrc((rowdata) => {
+        return rowdata.title.substring(0, 1);
+      })
+    } else if (dt.order()[0][0] === 2) {
+      dt.rowGroup().dataSrc((rowdata) => {
+        return rowdata.artist.substring(0, 1);
+      })
+    }
+  })
+})
 </script>
 
 <template>
   <div class="table">
-    <DataTable ref="table" :ajax="{ url: url, 'dataSrc': '' }" :options="{rowGroup:{enable:true , dataSrc:(rowdata)=>{
-      return `dt${rowdata.level}`
-    }}}" :columns="columns" class="display">
+    <DataTable ref="table" :ajax="{ url: url, 'dataSrc': '' }" :options="{
+      rowGroup: {
+        enable: true, dataSrc: (rowdata) => {
+          return `dt${rowdata.level}`
+        }
+      }
+    }" :columns="columns" class="display">
       <thead>
         <tr>
           <th>Level</th>
@@ -42,6 +68,7 @@ const url = (import.meta.env.PROD ? '/lr2-mypage' : '') + '/double_time.json'
     </DataTable>
   </div>
 </template>
+
 <style>
 @import 'datatables.net-dt';
 

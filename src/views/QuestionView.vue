@@ -1,5 +1,9 @@
 <template>
   <div class="about">
+    <h2>How (does it work)</h2>
+    <p>Simply play the charts with either Freq+7 or Speed+7 option enabled (in the Effects tab).<br />
+      Do note the ratings are subjective and can be highly inaccurate.
+    </p>
     <h2>What</h2>
     <p>A BMS difficulty table reinterpreting Insane BMS (GENOSIDE / Satellite / Stella / even some Normal) chart
       difficulties at DoubleTime speed (~x1.5)
