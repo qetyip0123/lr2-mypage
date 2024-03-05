@@ -210,7 +210,7 @@
         "comment": ""
     },
     {
-        "level": "7",
+        "level": "5",
         "title": "Lapis [FRIDAY]",
         "lr2_bmsid": "1311",
         "md5": "f378874acfd34e09e2c1be0a1b7fdb9b",
@@ -470,7 +470,7 @@
         "comment": "Klee"
     },
     {
-        "level": "2",
+        "level": "1",
         "title": "Fleeing Sunlight",
         "lr2_bmsid": "314859",
         "md5": "cd6d33af495b5b69d68536187c590406",
@@ -630,7 +630,7 @@
         "comment": "st8~9"
     },
     {
-        "level": "3",
+        "level": "1",
         "title": "ハートマークとエンドロール [Another+]",
         "lr2_bmsid": "234607",
         "md5": "bee8af252f715932adf387d0b0b07f85",
@@ -680,7 +680,7 @@
         "comment": "★★1"
     },
     {
-        "level": "8",
+        "level": "7",
         "title": "Betelgeuse -orion7-",
         "lr2_bmsid": "41319",
         "md5": "bd5d6333cf0fa6c86d1274ccc25a89d8",
@@ -2560,6 +2560,16 @@
         "comment": ""
     },
     {
+        "level": "4",
+        "title": "Kronos (pw-another)",
+        "lr2_bmsid": "144258",
+        "md5": "b5bcc0c40a542644eac2847bf8aa4c74",
+        "url": "http://www.mediafire.com/file/uxv2dcqwcnov2vu/Kronos.rar",
+        "url_diff": "http://bmsnormal2.syuriken.jp/diff/kronos_pw.zip",
+        "artist": "削除 / うまい棒 / obj: pw",
+        "comment": "difficulty spikes"
+    },
+    {
         "level": "9",
         "title": "Kronos [HARDEST]",
         "lr2_bmsid": "158155",
@@ -2597,6 +2607,126 @@
         "url": "http://colosseo.nekokan.dyndns.info/c02_shuffle/detail.php?n=41",
         "url_diff": "https://stellabms.xyz/upload/740",
         "artist": "nmk/かなえゆめ obj.quad",
+        "comment": ""
+    },
+    {
+        "level": "2",
+        "title": "MEPHISTO [ANOTHER]",
+        "lr2_bmsid": "141261",
+        "md5": "8ebda110d62625a82c97b5380b63494f",
+        "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=237&event=83",
+        "url_diff": "",
+        "artist": "LeaF Movie:猫太郎",
+        "comment": ""
+    },
+    {
+        "level": "8",
+        "title": "MEPHISTO [FS]",
+        "lr2_bmsid": "182481",
+        "md5": "8ebda110d62625a82c97b5380b63494f",
+        "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=237&event=83",
+        "url_diff": "http://siokazebms.web.fc2.com/",
+        "artist": "LeaF Movie:猫太郎 obj:Fender vs siokaze",
+        "comment": ""
+    },
+    {
+        "level": "7",
+        "title": "恋愛シンドローム [B78]",
+        "lr2_bmsid": "330134",
+        "md5": "0834dedec7dd67bb724c90a42a115a29",
+        "url": "https://dropbox.bms.ms/u/59509271/BOF2013/renai_syndrome_ogg.zip",
+        "url_diff": "https://darksabun.github.io/event/1998to2024/",
+        "artist": "佐久間まゆ / 星輝子 差分:棟方愛海",
+        "comment": ""
+    },
+    {
+        "level": "1",
+        "title": "恋愛シンドローム [Another]",
+        "lr2_bmsid": "169079",
+        "md5": "d6b52bac70a3adfa4aa12c4fa498ad90",
+        "url": "https://dropbox.bms.ms/u/59509271/BOF2013/renai_syndrome_ogg.zip",
+        "url_diff": "",
+        "artist": "佐久間まゆ / 星輝子",
+        "comment": ""
+    },
+    {
+        "level": "0",
+        "title": "Venus Syndrome -Trance mix- [Insane]",
+        "lr2_bmsid": "224136",
+        "md5": "d1b976322affbea8c99637657f79e0dd",
+        "url": "http://grooverise.sakura.ne.jp/bms_game_coar_pkg/index.html",
+        "url_diff": "",
+        "artist": "Cure p7",
+        "comment": ""
+    },
+    {
+        "level": "3",
+        "title": "Venomous(Scrapped car Remix) [Another7]",
+        "lr2_bmsid": "224121",
+        "md5": "1e3e398c4010bfc79009d3ff6eefb083",
+        "url": "http://grooverise.sakura.ne.jp/bms_game_coar_pkg/index.html",
+        "url_diff": "",
+        "artist": "Remixed by 週刊硅砂+",
+        "comment": "jackhammer practice"
+    },
+    {
+        "level": "2",
+        "title": "Iconoclasm (from「BATEN KAITOS 2」)",
+        "lr2_bmsid": "224106",
+        "md5": "0e468acadf74031b8ff7fc3e1a8de6d2",
+        "url": "http://grooverise.sakura.ne.jp/bms_game_coar_pkg/index.html",
+        "url_diff": "",
+        "artist": "Ogu",
+        "comment": ""
+    },
+    {
+        "level": "4",
+        "title": "CHAOS ANGEL ACT1",
+        "lr2_bmsid": "224099",
+        "md5": "39d585a4a5e2f183baa230f36e5d87da",
+        "url": "http://grooverise.sakura.ne.jp/bms_game_coar_pkg/index.html",
+        "url_diff": "",
+        "artist": "KITUNE",
+        "comment": "hard ending + vibro drill"
+    },
+    {
+        "level": "3",
+        "title": "Cockroach Cooking [SP Another]",
+        "lr2_bmsid": "315304",
+        "md5": "818e447319998b252146d88d6793d982",
+        "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=192&event=140",
+        "url_diff": "",
+        "artist": "Yosk!",
+        "comment": ""
+    },
+    {
+        "level": "8",
+        "title": "Cockroach Cooking [SP 10万回再生]",
+        "lr2_bmsid": "315312",
+        "md5": "51616f7b026c69c08f2b874d073b5f85",
+        "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=192&event=140",
+        "url_diff": "",
+        "artist": "Yosk!",
+        "comment": "100000 views"
+    },
+    {
+        "level": "1",
+        "title": "シミュラ・ラクラ [ANOTHER]",
+        "lr2_bmsid": "314803",
+        "md5": "054ffb545ae05578a30bc061590e3f34",
+        "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=15&event=140",
+        "url_diff": "",
+        "artist": "Micelle NSFW",
+        "comment": ""
+    },
+    {
+        "level": "8",
+        "title": "シミュラ・ラクラ [EIDOLON]",
+        "lr2_bmsid": "314807",
+        "md5": "76536aff15372f26c3484c7d4e17b31a",
+        "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=15&event=140",
+        "url_diff": "",
+        "artist": "Micelle NSFW",
         "comment": ""
     }
 ]
