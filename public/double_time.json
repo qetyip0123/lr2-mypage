@@ -100,7 +100,7 @@
         "comment": "low total, normal judge"
     },
     {
-        "level": "5",
+        "level": "4",
         "title": "Jade Star [Dimlight]",
         "lr2_bmsid": "298934",
         "md5": "765d908b35d56f9b2bb97d0fbd37d1ff",
@@ -290,7 +290,7 @@
         "comment": "surprisingly easier than Gengaozo_GOD"
     },
     {
-        "level": "10",
+        "level": "7",
         "title": "A c i - L - An...um...",
         "lr2_bmsid": "1398",
         "md5": "87f1756867d68fad094b777fc24c1bef",
@@ -1510,6 +1510,16 @@
         "comment": ""
     },
     {
+        "level": "0",
+        "title": "Planisphere [ANOTHER]",
+        "lr2_bmsid": "238294",
+        "md5": "f87d2e65398c60f7eab4b58b36c80b3f",
+        "url": "http://yuinore.net/2016/11/bms-present-day1/",
+        "url_diff": "",
+        "artist": "Yu^ta",
+        "comment": ""
+    },
+    {
         "level": "10",
         "title": "Inherited World [INSANE]",
         "lr2_bmsid": "217459",
@@ -1913,7 +1923,7 @@
         "level": "7",
         "title": "どうか私を殺して下さい [29Another]",
         "lr2_bmsid": "1777",
-        "md5": "3fe6019fc689ecd066ce0e1f643e76e4",
+        "md5": "65052079f634b2b182413930f1069769",
         "url": "http://rin.s101.xrea.com/",
         "url_diff": "http://nick.xxxxxxxx.jp/",
         "artist": "LUNEの右手と悠里おねぇちゃんの左脚 / 29",
@@ -2690,6 +2700,36 @@
         "comment": "hard ending + vibro drill"
     },
     {
+        "level": "0",
+        "title": "The valedictory elegy [EVIL]",
+        "lr2_bmsid": "224110",
+        "md5": "1d5bfa626b50ce97d5131a96047912d5",
+        "url": "http://grooverise.sakura.ne.jp/bms_game_coar_pkg/index.html",
+        "url_diff": "",
+        "artist": "tetorimino obj:ずこっち",
+        "comment": "~st4 difficulty spikes"
+    },
+    {
+        "level": "0",
+        "title": "ダークマンステージ [MANIAC]",
+        "lr2_bmsid": "224137",
+        "md5": "ce1a887884656d4d9487a6f6e3f52beb",
+        "url": "http://grooverise.sakura.ne.jp/bms_game_coar_pkg/index.html",
+        "url_diff": "",
+        "artist": "○△□ / obj.奈那樹",
+        "comment": "st0~1"
+    },
+    {
+        "level": "9",
+        "title": "メグメル (loz Nightcore Remix) [ANOTHER]",
+        "lr2_bmsid": "224109",
+        "md5": "4962b1e6bede7e65e3d52b96936760b1",
+        "url": "http://grooverise.sakura.ne.jp/bms_game_coar_pkg/index.html",
+        "url_diff": "",
+        "artist": "loz feat.歌愛ユキ",
+        "comment": "anmitsu rating"
+    },
+    {
         "level": "3",
         "title": "Cockroach Cooking [SP Another]",
         "lr2_bmsid": "315304",
@@ -2727,6 +2767,286 @@
         "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=15&event=140",
         "url_diff": "",
         "artist": "Micelle NSFW",
+        "comment": ""
+    },
+    {
+        "level": "0",
+        "title": "wa:k around the wor:d [Space Trave:]",
+        "lr2_bmsid": "241650",
+        "md5": "8073286f59cc51233723b48a0f8cac76",
+        "url": "https://yuinore.net/2017/02/smc-package/",
+        "url_diff": "",
+        "artist": "Yu^ta",
+        "comment": ""
+    },
+    {
+        "level": "10",
+        "title": "wa:k around the wor:d [ねこ宇宙]",
+        "lr2_bmsid": "241669",
+        "md5": "dd4922526b597b9c2b2d2e0b5b2aa112",
+        "url": "https://yuinore.net/2017/02/smc-package/",
+        "url_diff": "",
+        "artist": "Yu^ta",
+        "comment": ""
+    },
+    {
+        "level": "1",
+        "title": "Sigmoid [Continuous]",
+        "lr2_bmsid": "241641",
+        "md5": "1e6acefeced79d0dff40a5397dcafd6d",
+        "url": "https://yuinore.net/2017/02/smc-package/",
+        "url_diff": "",
+        "artist": "Yu^ta",
+        "comment": ""
+    },
+    {
+        "level": "11",
+        "title": "Sigmoid [Analytic]",
+        "lr2_bmsid": "241670",
+        "md5": "1de52296e68de07a51a0fecd09684784",
+        "url": "https://yuinore.net/2017/02/smc-package/",
+        "url_diff": "",
+        "artist": "Yu^ta",
+        "comment": ""
+    },
+    {
+        "level": "0",
+        "title": "Party Time! [Another]",
+        "lr2_bmsid": "241629",
+        "md5": "518016bbe438e6f2b9d7e4d76d97694b",
+        "url": "https://yuinore.net/2017/02/smc-package/",
+        "url_diff": "",
+        "artist": "Yu^ta",
+        "comment": ""
+    },
+    {
+        "level": "3",
+        "title": "Cold Hands [ANOTHER+]",
+        "lr2_bmsid": "238826",
+        "md5": "0b2ec20692d63ad928169fb100a7619d",
+        "url": "https://yuinore.net/2017/02/smc-package/",
+        "url_diff": "",
+        "artist": "Yu^ta",
+        "comment": "soflan party"
+    },
+    {
+        "level": "5",
+        "title": "シオカラ節 (Club & FM Remix) [S+30]",
+        "lr2_bmsid": "241640",
+        "md5": "e318552be7647f44014dea14989af536",
+        "url": "http://yuinore.net/2017/02/smc-package/",
+        "url_diff": "",
+        "artist": "Yu^ta",
+        "comment": "speed delay + high total"
+    },
+    {
+        "level": "12",
+        "title": "シオカラ節 (Club & FM Remix) [S+99]",
+        "lr2_bmsid": "241672",
+        "md5": "ac34963a383348ff2451ca3a57baaaf2",
+        "url": "http://yuinore.net/2017/02/smc-package/",
+        "url_diff": "",
+        "artist": "Yu^ta",
+        "comment": "speed"
+    },
+    {
+        "level": "0",
+        "title": "Strawberry Mint Chocolate [ice cream]",
+        "lr2_bmsid": "241646",
+        "md5": "b9c7bc62daea8f9ccd4502328d624486",
+        "url": "http://yuinore.net/2017/02/smc-package/",
+        "url_diff": "",
+        "artist": "Yu^ta feat. みずにんじん",
+        "comment": ""
+    },
+    {
+        "level": "4",
+        "title": "Strawberry Mint Chocolate [Pleasure]",
+        "lr2_bmsid": "241661",
+        "md5": "4bdc680b9c8b5b763caf01abf4f8c1f3",
+        "url": "http://yuinore.net/2017/02/smc-package/",
+        "url_diff": "",
+        "artist": "Yu^ta feat. みずにんじん",
+        "comment": ""
+    },
+    {
+        "level": "3",
+        "title": "GREENS 2012 [Dark Matter]",
+        "lr2_bmsid": "241649",
+        "md5": "f96e91acaea33e00cf3742e14e0b38d3",
+        "url": "http://yuinore.net/2017/02/smc-package/",
+        "url_diff": "",
+        "artist": "Yu^ta",
+        "comment": ""
+    },
+    {
+        "level": "0",
+        "title": "GREENS 2012 [Meta Knight]",
+        "lr2_bmsid": "241642",
+        "md5": "34dd2e9d5a42e3169fe6bebd2b4103de",
+        "url": "http://yuinore.net/2017/02/smc-package/",
+        "url_diff": "",
+        "artist": "Yu^ta",
+        "comment": ""
+    },
+    {
+        "level": "10",
+        "title": "GREENS 2012 [Real Dark Matter]",
+        "lr2_bmsid": "241671",
+        "md5": "15884a34d21ebcdf55d9924f2e640a10",
+        "url": "http://yuinore.net/2017/02/smc-package/",
+        "url_diff": "",
+        "artist": "Yu^ta",
+        "comment": "Real Denim"
+    },
+    {
+        "level": "5",
+        "title": "C.E.N.T.E.R. [人身事故で遅刻]",
+        "lr2_bmsid": "241656",
+        "md5": "8eb883b4c7a9f65162489e95cff2b2d2",
+        "url": "http://yuinore.net/2017/02/smc-package/",
+        "url_diff": "",
+        "artist": "Yu^ta",
+        "comment": ""
+    },
+    {
+        "level": "9",
+        "title": "C.E.N.T.E.R. [人身事故で再遅刻]",
+        "lr2_bmsid": "241668",
+        "md5": "8eb883b4c7a9f65162489e95cff2b2d2",
+        "url": "http://yuinore.net/2017/02/smc-package/",
+        "url_diff": "",
+        "artist": "Yu^ta",
+        "comment": "stop gimmick"
+    },
+    {
+        "level": "1",
+        "title": "Θrbit [Principal]",
+        "lr2_bmsid": "235107",
+        "md5": "c5adcc4c43961aee5c880405eb996d6f",
+        "url": "http://yuinore.net/2017/02/smc-package/",
+        "url_diff": "",
+        "artist": "Yu^ta",
+        "comment": "soflan"
+    },
+    {
+        "level": "11",
+        "title": "Θrbit [Fundamental]",
+        "lr2_bmsid": "234825",
+        "md5": "6123a135d75eabd82acccb77f711c995",
+        "url": "http://yuinore.net/2017/02/smc-package/",
+        "url_diff": "",
+        "artist": "Yu^ta",
+        "comment": "soflan"
+    },
+    {
+        "level": "6",
+        "title": "Ninja Castle [Slayer]",
+        "lr2_bmsid": "241662",
+        "md5": "44d5b901b5bf8c2b097159edfb06ddeb",
+        "url": "http://yuinore.net/2017/02/smc-package/",
+        "url_diff": "",
+        "artist": "Yu^ta",
+        "comment": "soflan"
+    },
+    {
+        "level": "0",
+        "title": "Sunny [Charmante]",
+        "lr2_bmsid": "234599",
+        "md5": "d46e8490a06f725bf67e33af6835c347",
+        "url": "http://yuinore.net/2017/02/smc-package/",
+        "url_diff": "",
+        "artist": "Yu^ta",
+        "comment": ""
+    },
+    {
+        "level": "9",
+        "title": "Sunny [ディレイ&物量]",
+        "lr2_bmsid": "271173",
+        "md5": "25eaf10ef0085443932317c03a65f333",
+        "url": "http://yuinore.net/2017/02/smc-package/",
+        "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=2779",
+        "artist": "Yu^ta obj.quad",
+        "comment": ""
+    },
+    {
+        "level": "0",
+        "title": "CLOUDY PARK [Rain Showers]",
+        "lr2_bmsid": "241647",
+        "md5": "da5eeae250d1d819151a3ed8d87cdda4",
+        "url": "http://yuinore.net/2017/02/smc-package/",
+        "url_diff": "",
+        "artist": "Yu^ta",
+        "comment": ""
+    },
+    {
+        "level": "5",
+        "title": "CLOUDY PARK [Crepuscular Ray]",
+        "lr2_bmsid": "241651",
+        "md5": "85c0986764c694d970873d72d028dfda",
+        "url": "http://yuinore.net/2017/02/smc-package/",
+        "url_diff": "",
+        "artist": "Yu^ta",
+        "comment": "wtf ending"
+    },
+    {
+        "level": "0",
+        "title": "CHAiNSAW [SAFARi PARK (←内輪ネタ)]",
+        "lr2_bmsid": "225852",
+        "md5": "46f27406784b05848170b1d98890a84b",
+        "url": "http://yuinore.net/2017/02/smc-package/",
+        "url_diff": "",
+        "artist": "Yu^ta",
+        "comment": "confuse"
+    },
+    {
+        "level": "6",
+        "title": "CHAiNSAW [Educational Revolution]",
+        "lr2_bmsid": "241664",
+        "md5": "329a56ef8eb54c9f4c87abaf7d3467b8",
+        "url": "http://yuinore.net/2017/02/smc-package/",
+        "url_diff": "",
+        "artist": "Yu^ta",
+        "comment": "confuse"
+    },
+    {
+        "level": "1",
+        "title": "THE EARTH [ANOTHER]",
+        "lr2_bmsid": "238447",
+        "md5": "7c4140dafd8d5c23de885ffe43cc5e1d",
+        "url": "http://yuinore.net/2017/02/smc-package/",
+        "url_diff": "",
+        "artist": "Yu^ta",
+        "comment": ""
+    },
+    {
+        "level": "9",
+        "title": "THE EARTH [ANOTHER+]",
+        "lr2_bmsid": "239278",
+        "md5": "cadeceb9b14b68c0a84e3c4afcc7c153",
+        "url": "http://yuinore.net/2017/02/smc-package/",
+        "url_diff": "",
+        "artist": "Yu^ta",
+        "comment": "column dependency?"
+    },
+    {
+        "level": "2",
+        "title": "雪月風花 ～Silver Moon [SP Another]",
+        "lr2_bmsid": "229822",
+        "md5": "a29a03a04dad9512a975c453ec0a4f41",
+        "url": "http://yaruki0.sakura.ne.jp/event/A1_6th/impression.cgi?no=4",
+        "url_diff": "",
+        "artist": "おみー obj:isasana",
+        "comment": "hard end"
+    },
+    {
+        "level": "3",
+        "title": "Ultimate Weapon [ANOTHER]",
+        "lr2_bmsid": "178526",
+        "md5": "040f4faf754610b14e52184de771ddb1",
+        "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=11&event=91",
+        "url_diff": "",
+        "artist": "TetraElemental",
         "comment": ""
     }
 ]
