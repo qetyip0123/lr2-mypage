@@ -4,7 +4,7 @@ import { RouterLink, RouterView } from 'vue-router'
 
 <template>
   <nav>
-    <RouterLink to="/">Double Time</RouterLink>
+    <RouterLink to="/table">DoubleTime難易度表</RouterLink>
     <RouterLink to="/question">About</RouterLink>
   </nav>
 

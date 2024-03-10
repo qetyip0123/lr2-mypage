@@ -1,12 +1,13 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import TableView from '../views/TableView.vue'
+import HomeView from '../views/HomeView.vue'
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
   routes: [
     {
-      path: '/',
-      name: 'home',
+      path: '/table',
+      name: 'table',
       component: TableView,
       meta: {
         title: "qtp13's Double Time Table",
@@ -17,6 +18,18 @@ const router = createRouter({
           }
         ]
       }
+    },
+    {
+      path: '/',
+      name: 'home',
+      component: HomeView,
+      meta: {
+
+      }
+    },
+    {
+      path: '/index.html',
+      redirect: { path: '/' }
     },
     {
       path: '/question',

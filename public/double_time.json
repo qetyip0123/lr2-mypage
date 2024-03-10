@@ -760,7 +760,7 @@
         "comment": "vibro"
     },
     {
-        "level": "7",
+        "level": "6",
         "title": "Evoltex [Another]",
         "lr2_bmsid": "157240",
         "md5": "f593640e59b50bf0f671deff2279faf2",
@@ -950,7 +950,7 @@
         "comment": ""
     },
     {
-        "level": "7",
+        "level": "8",
         "title": "EXILE -NEMESIS-",
         "lr2_bmsid": "79035",
         "md5": "42b597e0fc9d2ad51909f774275464ae",
@@ -1240,7 +1240,7 @@
         "comment": "anmitsu the denims"
     },
     {
-        "level": "5",
+        "level": "4",
         "title": "白き星姫-Принцесса белая звезда- [декабристов]",
         "lr2_bmsid": "218012",
         "md5": "cbd93fbc5c7272714e90bb46f82ee575",
@@ -1248,6 +1248,16 @@
         "url_diff": "http://absolute.pv.land.to/uploader/src/up5830.zip",
         "artist": "おみー / obj:椎葉紬",
         "comment": "st4~5"
+    },
+    {
+        "level": "1",
+        "title": "白き星姫-Принцесса белая звезда- [Another]",
+        "lr2_bmsid": "217308",
+        "md5": "6152ed43269ead2d8a53584f1d70424e",
+        "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=129&event=104",
+        "url_diff": "",
+        "artist": "おみー",
+        "comment": ""
     },
     {
         "level": "0",
@@ -2510,6 +2520,36 @@
         "comment": "Broken delay"
     },
     {
+        "level": "0",
+        "title": "Vernonia [7K ANOTHER]",
+        "lr2_bmsid": "317020",
+        "md5": "6a7b3208815ffedc8a9b4552a94c9b31",
+        "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=439&event=140",
+        "url_diff": "",
+        "artist": "rareguy [Obj. Tristan97 / Mov. Xenohamu & ShinxPowa]",
+        "comment": ""
+    },
+    {
+        "level": "9",
+        "title": "A.U.M. [Azelf]",
+        "lr2_bmsid": "328328",
+        "md5": "798de3fafadbec0cf62a0562297d1ee3",
+        "url": "https://package.bms.ms/Portable%20Memories%20March%20-BMS%20Edition-.7z",
+        "url_diff": "https://github.com/TristanDavis97/Sabuns/raw/main/_Azelf.zip",
+        "artist": "asahi33 / obj. Tristan97",
+        "comment": ""
+    },
+    {
+        "level": "6",
+        "title": "Oekaki [Hekiga]",
+        "lr2_bmsid": "323914",
+        "md5": "2902c14e9884e204bd1b6034a2924aff",
+        "url": "https://drive.google.com/uc?export=download&id=1ZsyLaNf3eQCOV9bS9VIizfrDAyeUkkoz&export=download&confirm=t",
+        "url_diff": "https://venue.bmssearch.net/sd_black/15",
+        "artist": "chilldive obj: Jack Blackanother",
+        "comment": ""
+    },
+    {
         "level": "5",
         "title": "ZEUS [Another+]",
         "lr2_bmsid": "87284",
@@ -2913,7 +2953,7 @@
         "level": "9",
         "title": "C.E.N.T.E.R. [人身事故で再遅刻]",
         "lr2_bmsid": "241668",
-        "md5": "8eb883b4c7a9f65162489e95cff2b2d2",
+        "md5": "6f8e61d3522152365c9d72f08b2ea564",
         "url": "http://yuinore.net/2017/02/smc-package/",
         "url_diff": "",
         "artist": "Yu^ta",
@@ -3368,5 +3408,295 @@
         "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=02873",
         "artist": "立秋 obj:スノート",
         "comment": "punairaiser"
+    },
+    {
+        "level": "2",
+        "title": "DESIRE DRIVE (LLS HARDCORE REMIX) -34ther-",
+        "lr2_bmsid": "132465",
+        "md5": "acc453c1d994cd9b69d819950c84b081",
+        "url": "https://drive.google.com/uc?export=download&id=1K2LPxifgVlbiazqKMHeMvMq-gJm9scs6&confirm=t",
+        "url_diff": "http://flowermaster.web.fc2.com/",
+        "artist": "taqumi obj:Syam.34 BGA:highluin / Illust:七曲じゃん",
+        "comment": ""
+    },
+    {
+        "level": "1",
+        "title": "DESIRE DRIVE (LLS HARDCORE REMIX) -hinatic another-",
+        "lr2_bmsid": "132460",
+        "md5": "e095ce11f3565bc893a5a1f6bbdf4929",
+        "url": "https://drive.google.com/uc?export=download&id=1K2LPxifgVlbiazqKMHeMvMq-gJm9scs6&confirm=t",
+        "url_diff": "http://flowermaster.web.fc2.com/",
+        "artist": "taqumi /obj:彩雛 BGA:highluin / Illust:七曲じゃん",
+        "comment": "scratch"
+    },
+    {
+        "level": "3",
+        "title": "DESIRE DRIVE (LLS HARDCORE REMIX)",
+        "lr2_bmsid": "132509",
+        "md5": "936706b40da245266d2a8a56c2490a2c",
+        "url": "https://drive.google.com/uc?export=download&id=1K2LPxifgVlbiazqKMHeMvMq-gJm9scs6&confirm=t",
+        "url_diff": "http://flowermaster.web.fc2.com/",
+        "artist": "taqumi BGA:highluin / Illust:七曲じゃん / Obj:ストロー",
+        "comment": "DESIRE Emperor (high total)"
+    },
+    {
+        "level": "10",
+        "title": "DESIRE DRIVE (LLS HARDCORE REMIX) -SABOTHER-",
+        "lr2_bmsid": "132569",
+        "md5": "28b39bc2707965342988c0ff4123d048",
+        "url": "https://drive.google.com/uc?export=download&id=1K2LPxifgVlbiazqKMHeMvMq-gJm9scs6&confirm=t",
+        "url_diff": "http://sabosabun.tank.jp/",
+        "artist": "taqumi BGA:highluin / Illust:七曲じゃん / Obj:ストロー",
+        "comment": ""
+    },
+    {
+        "level": "5",
+        "title": "DESIRE DRIVE (LLS HARDCORE REMIX) [ROMANOTHER]",
+        "lr2_bmsid": "132540",
+        "md5": "503b776532a545706214c1b3ac3daa35",
+        "url": "https://drive.google.com/uc?export=download&id=1K2LPxifgVlbiazqKMHeMvMq-gJm9scs6&confirm=t",
+        "url_diff": "http://flowermaster.web.fc2.com/",
+        "artist": "taqumi BGA:highluin / Illust:七曲じゃん / obj:roman",
+        "comment": "allkey?"
+    },
+    {
+        "level": "9",
+        "title": "DESIRE DRIVE (LLS HARDCORE REMIX)",
+        "lr2_bmsid": "158959",
+        "md5": "503b776532a545706214c1b3ac3daa35",
+        "url": "https://drive.google.com/uc?export=download&id=1K2LPxifgVlbiazqKMHeMvMq-gJm9scs6&confirm=t",
+        "url_diff": "http://moriosabun.digi2.jp/",
+        "artist": "taqumi / obj morio BGA:highluin / Illust:七曲じゃん",
+        "comment": "only middle section"
+    },
+    {
+        "level": "9",
+        "title": "DESIRE DRIVE (LLS HARDCORE REMIX) -Akither-",
+        "lr2_bmsid": "132622",
+        "md5": "7e900a6a06fa8ffee5eef444fcba6037",
+        "url": "https://drive.google.com/uc?export=download&id=1K2LPxifgVlbiazqKMHeMvMq-gJm9scs6&confirm=t",
+        "url_diff": "http://flowermaster.web.fc2.com/",
+        "artist": "taqumi/obj:MiiA BGA:highluin / Illust:七曲じゃん",
+        "comment": "only middle section"
+    },
+    {
+        "level": "2",
+        "title": "DESIRE DRIVE (LLS HARDCORE REMIX) -ヤンシャオグイ-",
+        "lr2_bmsid": "132622",
+        "md5": "8681e0e401658a7ae071568c3b17dc93",
+        "url": "https://drive.google.com/uc?export=download&id=1K2LPxifgVlbiazqKMHeMvMq-gJm9scs6&confirm=t",
+        "url_diff": "",
+        "artist": "taqumi /obj NOLI. BGA:highluin / Illust:七曲じゃん",
+        "comment": ""
+    },
+    {
+        "level": "1",
+        "title": "DESIRE DRIVE (LLS HARDCORE REMIX) [HARD]",
+        "lr2_bmsid": "132550",
+        "md5": "f80514732c757d5612ec8a4cb94c9d46",
+        "url": "https://drive.google.com/uc?export=download&id=1K2LPxifgVlbiazqKMHeMvMq-gJm9scs6&confirm=t",
+        "url_diff": "http://flowermaster.web.fc2.com/kikaku/sabunsakusei.html",
+        "artist": "taqumi /差分 赤い人 BGA:highluin / Illust:七曲じゃん",
+        "comment": ""
+    },
+    {
+        "level": "5",
+        "title": "DESIRE DRIVE (LLS HARDCORE REMIX) [SEIRYU ANOTHER]",
+        "lr2_bmsid": "132434",
+        "md5": "e0d284d13b043cff5d691dab0a7b7315",
+        "url": "https://drive.google.com/uc?export=download&id=1K2LPxifgVlbiazqKMHeMvMq-gJm9scs6&confirm=t",
+        "url_diff": "http://kusaiseiryu.web.fc2.com/doblestairs.html",
+        "artist": "taqumi obj:ξ青龍ξ BGA:highluin / Illust:七曲じゃん",
+        "comment": ""
+    },
+    {
+        "level": "2",
+        "title": "DESIRE DRIVE (LLS HARDCORE REMIX) (ANOTHER+)",
+        "lr2_bmsid": "132608",
+        "md5": "f80514732c757d5612ec8a4cb94c9d46",
+        "url": "https://drive.google.com/uc?export=download&id=1K2LPxifgVlbiazqKMHeMvMq-gJm9scs6&confirm=t",
+        "url_diff": "http://flowermaster.web.fc2.com/kikaku/sabunsakusei.html",
+        "artist": "taqumi/obj:18 BGA:highluin / Illust:七曲じゃん",
+        "comment": ""
+    },
+    {
+        "level": "1",
+        "title": "DESIRE DRIVE (LLS HARDCORE REMIX) -hellsize-",
+        "lr2_bmsid": "132543",
+        "md5": "41f0ec922658372de404b530c9270a28",
+        "url": "https://drive.google.com/uc?export=download&id=1K2LPxifgVlbiazqKMHeMvMq-gJm9scs6&confirm=t",
+        "url_diff": "http://flowermaster.web.fc2.com/kikaku/sabunsakusei.html",
+        "artist": "taqumi BGA:highluin / Illust:七曲じゃん /obj:月門",
+        "comment": ""
+    },
+    {
+        "level": "9",
+        "title": "DESIRE DRIVE (LLS HARDCORE REMIX) [SEIRYU EX]",
+        "lr2_bmsid": "132435",
+        "md5": "450212213cde704991f83f73f54bc9ce",
+        "url": "https://drive.google.com/uc?export=download&id=1K2LPxifgVlbiazqKMHeMvMq-gJm9scs6&confirm=t",
+        "url_diff": "http://kusaiseiryu.web.fc2.com/doblestairs.html",
+        "artist": "taqumi obj:ξ青龍ξ BGA:highluin / Illust:七曲じゃん",
+        "comment": ""
+    },
+    {
+        "level": "3",
+        "title": "DESIRE DRIVE (LLS HARDCORE REMIX)",
+        "lr2_bmsid": "132518",
+        "md5": "4bcb5ebd90cbca25cb258cf4b8f14967",
+        "url": "https://drive.google.com/uc?export=download&id=1K2LPxifgVlbiazqKMHeMvMq-gJm9scs6&confirm=t",
+        "url_diff": "http://flowermaster.web.fc2.com/kikaku/sabunsakusei.html",
+        "artist": "taqumi / obj.いとこん BGA:highluin / Illust:七曲じゃん",
+        "comment": ""
+    },
+    {
+        "level": "9",
+        "title": "DESIRE DRIVE (LLS HARDCORE REMIX) [SEIRYU INSANE]",
+        "lr2_bmsid": "132436",
+        "md5": "7e63369e82592dd0b57ea14d9882329f",
+        "url": "https://drive.google.com/uc?export=download&id=1K2LPxifgVlbiazqKMHeMvMq-gJm9scs6&confirm=t",
+        "url_diff": "http://kusaiseiryu.web.fc2.com/doblestairs.html",
+        "artist": "taqumi obj:ξ青龍ξ BGA:highluin / Illust:七曲じゃん",
+        "comment": ""
+    },
+    {
+        "level": "6",
+        "title": "DESIRE DRIVE (LLS HARDCORE REMIX) -タオ胎動-",
+        "lr2_bmsid": "129683",
+        "md5": "020a9f91b705873a9a7829c8a96ece05",
+        "url": "https://drive.google.com/uc?export=download&id=1K2LPxifgVlbiazqKMHeMvMq-gJm9scs6&confirm=t",
+        "url_diff": "",
+        "artist": "taqumi /obj NOLI. BGA:highluin / Illust:七曲じゃん",
+        "comment": ""
+    },
+    {
+        "level": "8",
+        "title": "DESIRE DRIVE (LLS HARDCORE REMIX) [yumether]",
+        "lr2_bmsid": "132634",
+        "md5": "2952725bd31bcbac1fc394cfa3cd7c1d",
+        "url": "https://drive.google.com/uc?export=download&id=1K2LPxifgVlbiazqKMHeMvMq-gJm9scs6&confirm=t",
+        "url_diff": "http://flowermaster.web.fc2.com/kikaku/sabunsakusei.html",
+        "artist": "taqumi BGA:highluin / Illust:七曲じゃん / obj:夢瑠",
+        "comment": "267BPM 同時"
+    },
+    {
+        "level": "7",
+        "title": "DESIRE DRIVE (LLS HARDCORE REMIX) [Entreaty]",
+        "lr2_bmsid": "132492",
+        "md5": "29dd4150f5d3c281317c786728922229",
+        "url": "https://drive.google.com/uc?export=download&id=1K2LPxifgVlbiazqKMHeMvMq-gJm9scs6&confirm=t",
+        "url_diff": "http://flowermaster.web.fc2.com/kikaku/sabunsakusei.html",
+        "artist": "taqumi BGA:highluin / Illust:七曲じゃん / obj:42",
+        "comment": "267BPM 同時, lighter experience"
+    },
+    {
+        "level": "10",
+        "title": "DESIRE DRIVE (LLS HARDCORE REMIX) -TAO胎動-",
+        "lr2_bmsid": "129684",
+        "md5": "5ce24e0403439a30dcf1e36b6af02b82",
+        "url": "https://drive.google.com/uc?export=download&id=1K2LPxifgVlbiazqKMHeMvMq-gJm9scs6&confirm=t",
+        "url_diff": "",
+        "artist": "taqumi /obj NOLI. BGA:highluin / Illust:七曲じゃん",
+        "comment": ""
+    },
+    {
+        "level": "0",
+        "title": "Mondlicht [SP ANOTHER]",
+        "lr2_bmsid": "296215",
+        "md5": "b914da45e4dbf5599b7edee4d3c7e8a9",
+        "url": "https://venue.bmssearch.net/bmsshuin3/72",
+        "url_diff": "",
+        "artist": "Nycticebus",
+        "comment": ""
+    },
+    {
+        "level": "7",
+        "title": "gazer (Kucchi Remix) [MANIAQ]",
+        "lr2_bmsid": "316478",
+        "md5": "3f3dae69ab52fe1abb511367192e5f5b",
+        "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=292&event=140",
+        "url_diff": "",
+        "artist": "scytheleg Remixed by くっちー obj.BAECON",
+        "comment": ""
+    },
+    {
+        "level": "9",
+        "title": "gazer [MANIAQ]",
+        "lr2_bmsid": "179065",
+        "md5": "38616b85332037cc12924f2ae2840262",
+        "url": "http://scytheleg.sakura.ne.jp/tempyou/release/tempyou/",
+        "url_diff": "http://siokazebms.web.fc2.com/",
+        "artist": "scytheleg / obj.siokaze",
+        "comment": ""
+    },
+    {
+        "level": "8",
+        "title": "PEACE BREAKER [HARDEST]",
+        "lr2_bmsid": "122939",
+        "md5": "1ebf61990256b79628c9dee6a926ad39",
+        "url": "https://web.archive.org/web/20120710000514/http://monochrome-world.sakura.ne.jp/peace_breaker.zip",
+        "url_diff": "http://akred.web.fc2.com/bmsfile/_pb_B.onipote.HARDEST.bme",
+        "artist": "Omnipotenx /差分 赤い人",
+        "comment": "st9 ending"
+    },
+    {
+        "level": "4",
+        "title": "PEACE BREAKER [ANOTHER]",
+        "lr2_bmsid": "105462",
+        "md5": "0c65f3ac5bbd647977a64d51ef90d2ac",
+        "url": "https://web.archive.org/web/20120710000514/http://monochrome-world.sakura.ne.jp/peace_breaker.zip",
+        "url_diff": "",
+        "artist": "Omnipotenx",
+        "comment": "hard end"
+    },
+    {
+        "level": "1",
+        "title": "Problem Bonker [SP ANOTHER]",
+        "lr2_bmsid": "327404",
+        "md5": "30110f5a1c72a79e7933f923b8eae9b2",
+        "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=469&event=142",
+        "url_diff": "",
+        "artist": "陸八魔アル obj.陸八魔アル & 傭兵バイトA",
+        "comment": "unwelcome school"
+    },
+    {
+        "level": "5",
+        "title": "Problem Bonker [SP INSANE]",
+        "lr2_bmsid": "327391",
+        "md5": "9261f204b2b38f72642c3db8f14a5b06",
+        "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=469&event=142",
+        "url_diff": "",
+        "artist": "陸八魔アル obj.陸八魔アル & 傭兵バイトA",
+        "comment": "unwelcome stairs"
+    },
+    {
+        "level": "1",
+        "title": "Crimson Liar(\"Sadistic girl\" Mix)",
+        "lr2_bmsid": "236145",
+        "md5": "5d88fbcb52b3f2eeeea7331a895c71f3",
+        "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=458&event=110",
+        "url_diff": "",
+        "artist": "Satsuki Akatsuka x Sakura Shinohara",
+        "comment": "(Another); fast drills"
+    },
+    {
+        "level": "6",
+        "title": "Crimson Liar(\"Sadistic girl\" Mix)",
+        "lr2_bmsid": "235930",
+        "md5": "6cb0e9c198d3f6c8cfd152ad6857d082",
+        "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=458&event=110",
+        "url_diff": "",
+        "artist": "Satsuki Akatsuka x Sakura Shinohara",
+        "comment": "(BlackAnother); very hard ending"
+    },
+    {
+        "level": "8",
+        "title": "Grisaille -Labyrinth-",
+        "lr2_bmsid": "220679",
+        "md5": "e044300f3f9b8fecf5d1c58038d32da9",
+        "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=52&event=104",
+        "url_diff": "http://absolute.pv.land.to/bof/src/up0950.zip",
+        "artist": "Nego_tiator (movie : Fiz) obj:vy",
+        "comment": "st8~9; very hard ending"
     }
 ]
