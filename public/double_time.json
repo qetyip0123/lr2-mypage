@@ -921,16 +921,6 @@
     },
     {
         "level": "7",
-        "title": "AutumnBreeze for Expert",
-        "lr2_bmsid": "131873",
-        "md5": "755c4087937b7223c31cd17cedfce788",
-        "url": "http://www5f.biglobe.ne.jp/~careless/",
-        "url_diff": "http://nekokan.dyndns.info/~lobsak/bms/repair_pack.zip",
-        "artist": "nmk feat.一花 Illust:りーふぱい/BGA:わっふゑ",
-        "comment": ""
-    },
-    {
-        "level": "7",
         "title": "Awaking Beat-From the next generation- [W]",
         "lr2_bmsid": "280059",
         "md5": "fe2fbfefcdf57b56bb6aaa89d6ee11cc",
@@ -1480,7 +1470,7 @@
         "comment": ""
     },
     {
-        "level": "8",
+        "level": "7",
         "title": "幸なる旋律-the solitary melody- -福音-",
         "lr2_bmsid": "79090",
         "md5": "440e9ecc35dae241a12310b3c478eba5",
