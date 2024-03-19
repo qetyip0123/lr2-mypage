@@ -3230,7 +3230,7 @@
         "comment": "kind of troll but kind of really fun (\"zun\"pet jacks)"
     },
     {
-        "level": "2",
+        "level": "1",
         "title": "春の湊に -EASY?-",
         "lr2_bmsid": "132497",
         "md5": "66e5d66dcd0a1d166caab688797bf05d",
@@ -3540,7 +3540,7 @@
         "comment": ""
     },
     {
-        "level": "9",
+        "level": "10",
         "title": "DESIRE DRIVE (LLS HARDCORE REMIX) [SEIRYU INSANE]",
         "lr2_bmsid": "132436",
         "md5": "7e63369e82592dd0b57ea14d9882329f",
@@ -3838,5 +3838,115 @@
         "url_diff": "",
         "artist": "Snowyplane",
         "comment": ""
+    },
+    {
+        "level": "2",
+        "title": "only my minimal (ANOTHER PLUS)",
+        "lr2_bmsid": "160751",
+        "md5": "f35b5d56a81c26bdf1bcd69c4cc99b9e",
+        "url": "http://abo.nobody.jp/index_bms.html",
+        "url_diff": "",
+        "artist": "ABO",
+        "comment": "Fast drills + anchors, hard ending"
+    },
+    {
+        "level": "1",
+        "title": "夏の日の2013 (ANOTHER PLUS)",
+        "lr2_bmsid": "162771",
+        "md5": "fce76d37a0deb4dbd34f1ea6aca54733",
+        "url": "http://abo.nobody.jp/index_bms.html",
+        "url_diff": "",
+        "artist": "ABO",
+        "comment": "Scratching"
+    },
+    {
+        "level": "0",
+        "title": "QMA FINAL -seq. special- (ANOTHER)",
+        "lr2_bmsid": "94704",
+        "md5": "ef1eac78940571baef1a3f2daf3a75ba",
+        "url": "http://abo.nobody.jp/index_bms.html",
+        "url_diff": "",
+        "artist": "ABO",
+        "comment": ""
+    },
+    {
+        "level": "4",
+        "title": "QMA FINAL -seq. special- (BLACK ANOTHER)",
+        "lr2_bmsid": "94705",
+        "md5": "9c7cc21400cd119595c4bdcf05d2cabd",
+        "url": "http://abo.nobody.jp/index_bms.html",
+        "url_diff": "",
+        "artist": "ABO",
+        "comment": ""
+    },
+    {
+        "level": "12",
+        "title": "QMA FINAL -seq. special- (FINAL SEQUENCE)",
+        "lr2_bmsid": "94706",
+        "md5": "389ddd7cd149693975955a4247302475",
+        "url": "http://abo.nobody.jp/index_bms.html",
+        "url_diff": "",
+        "artist": "ABO",
+        "comment": "impossibly fast jacks"
+    },
+    {
+        "level": "1",
+        "title": "LoveSong探して (THIRD-MIX) (ANOTHER PLUS)",
+        "lr2_bmsid": "151122",
+        "md5": "1d5e149778b989ec56ea3236ca5b14c0",
+        "url": "http://abo.nobody.jp/index_bms.html",
+        "url_diff": "",
+        "artist": "ABO",
+        "comment": ""
+    },
+    {
+        "level": "10",
+        "title": "a go! go! (RV.297) (ANOTHER)",
+        "lr2_bmsid": "160754",
+        "md5": "ee4bd5b3e205716d27dce4cd26d97f75",
+        "url": "http://abo.nobody.jp/index_bms.html",
+        "url_diff": "",
+        "artist": "ABO",
+        "comment": "constant scratch walls"
+    },
+    {
+        "level": "0",
+        "title": "quick master (2013 ABO reform version) (ANOTHER PLUS FIX)",
+        "lr2_bmsid": "331058",
+        "md5": "28c1e3608f452fd832e779b18804990c",
+        "url": "http://abo.nobody.jp/index_bms.html",
+        "url_diff": "",
+        "artist": "ABO",
+        "comment": "ANOTHER PLUS with less scratches"
+    },
+    {
+        "level": "2",
+        "title": "quick master (2013 ABO reform version) (ANOTHER PLUS)",
+        "lr2_bmsid": "160759",
+        "md5": "ec9c7f26637df9a005d222f1ae4ebe5e",
+        "url": "http://abo.nobody.jp/index_bms.html",
+        "url_diff": "",
+        "artist": "ABO",
+        "comment": ""
+    },
+    {
+        "level": "2",
+        "title": "コンボイのnazo (HARDCORE MIX) (ANOTHER PLUS)",
+        "lr2_bmsid": "160793",
+        "md5": "35b3bd34215529d2295338167b940623",
+        "url": "http://abo.nobody.jp/index_bms.html",
+        "url_diff": "",
+        "artist": "ABO",
+        "comment": "best played with S-RAN"
+    },
+    {
+        "level": "5",
+        "title": "コンボイのnazo (HARDCORE MIX) (BLACK ANOTHER)",
+        "lr2_bmsid": "160793",
+        "md5": "51729bdc740bcaa9309ceb0ebd6dbd9f",
+        "url": "http://abo.nobody.jp/index_bms.html",
+        "url_diff": "",
+        "artist": "ABO",
+        "comment": "get a good random to handle the 17 jacks"
     }
 ]
