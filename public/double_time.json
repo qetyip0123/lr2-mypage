@@ -4238,5 +4238,215 @@
         "url_diff": "https://stellabms.xyz/upload/3778",
         "artist": "哀愁マニア obj: qtp13",
         "comment": "secret technique"
+    },
+    {
+        "level": "2",
+        "title": "Hifumi Daisuki - ahaha remix [PEROPER]",
+        "lr2_bmsid": "329260",
+        "md5": "c7721ee73112d9b6dd2772f6de27630a",
+        "url": "https://venue.bmssearch.net/bmstukuru2023/73",
+        "url_diff": "https://www.dropbox.com/scl/fi/drn19vxq7fyzvmbhuaahi/Hifumi-Daisuki.zip?rlkey=4p1nczuwi7j4f7jl9m91gfosj&dl=1",
+        "artist": "桐藤ナギサ obj:ぺろすぎ",
+        "comment": ""
+    },
+    {
+        "level": "8",
+        "title": "Hifumi Daisuki - ahaha remix [PEROTHER]",
+        "lr2_bmsid": "329261",
+        "md5": "378d0afcc0c5e6b59f23ec2e5cc6e302",
+        "url": "https://venue.bmssearch.net/bmstukuru2023/73",
+        "url_diff": "https://www.dropbox.com/scl/fi/drn19vxq7fyzvmbhuaahi/Hifumi-Daisuki.zip?rlkey=4p1nczuwi7j4f7jl9m91gfosj&dl=1",
+        "artist": "桐藤ナギサ obj:ぺろすぎ",
+        "comment": ""
+    },
+    {
+        "level": "1",
+        "title": "Hifumi Daisuki - ahaha remix [Insane]",
+        "lr2_bmsid": "320843",
+        "md5": "4ea47959c9ca707c88c588ebee068df9",
+        "url": "https://venue.bmssearch.net/bmstukuru2023/73",
+        "url_diff": "",
+        "artist": "桐藤ナギサ",
+        "comment": "hard to hc"
+    },
+    {
+        "level": "3",
+        "title": "Echolalia [Recall]",
+        "lr2_bmsid": "310262",
+        "md5": "0a2d8c539f05528ffaedc5c490401062",
+        "url": "https://venue.bmssearch.net/bmstukuru2022/68",
+        "url_diff": "https://stellabms.xyz/upload/1653",
+        "artist": "oratoruk (BGI : チキンピカタ) / extra",
+        "comment": "confusing"
+    },
+    {
+        "level": "2",
+        "title": "重機動メカ ビッグ・マック [ANOTHER]",
+        "lr2_bmsid": "308773",
+        "md5": "8831dd75738499f567021a1283c30076",
+        "url": "https://venue.bmssearch.net/bmstukuru2022/8",
+        "url_diff": "",
+        "artist": "ronald",
+        "comment": "ruuu~~"
+    },
+    {
+        "level": "6",
+        "title": "重機動メカ ビッグ・マック [ランランルー]",
+        "lr2_bmsid": "308661",
+        "md5": "8a69d3b911c138a2adad6ef45270948c",
+        "url": "https://venue.bmssearch.net/bmstukuru2022/8",
+        "url_diff": "",
+        "artist": "ronald",
+        "comment": "ran~ran~ruuu~~"
+    },
+    {
+        "level": "9",
+        "title": "重機動メカ ビッグ・マック [ホバーランランルー]",
+        "lr2_bmsid": "308715",
+        "md5": "5557fba5375652d6c1c485937e7769dd",
+        "url": "https://venue.bmssearch.net/bmstukuru2022/8",
+        "url_diff": "",
+        "artist": "ronald",
+        "comment": "ran~ran~ruuu~~ (high total; st10 midsection)"
+    },
+    {
+        "level": "0",
+        "title": "Amant Frivole [7K MAXIMUM]",
+        "lr2_bmsid": "309045",
+        "md5": "be0dc8e73087a0c296c4907238b2c42f",
+        "url": "https://venue.bmssearch.net/bmstukuru2022/61",
+        "url_diff": "",
+        "artist": "Linne X SCTL Illustration by raw_PNG",
+        "comment": "no sound for LR2 users... unless you convert all keysounds to ogg"
+    },
+    {
+        "level": "1",
+        "title": "Achernar [INSANE]",
+        "lr2_bmsid": "309142",
+        "md5": "d161d15a2c84acd869d88cf55243e897",
+        "url": "https://venue.bmssearch.net/bmstukuru2022/49",
+        "url_diff": "",
+        "artist": "Block",
+        "comment": "~st4 opening"
+    },
+    {
+        "level": "0",
+        "title": "Crazy Watermelon [ANOTHER]",
+        "lr2_bmsid": "309118",
+        "md5": "d161d15a2c84acd869d88cf55243e897",
+        "url": "https://drive.google.com/uc?export=download&id=1cYi45CfTsHbaUAi-QL4DlmU-RFN63EMn&confirm=t",
+        "url_diff": "",
+        "artist": "かむちゃうらる",
+        "comment": ""
+    },
+    {
+        "level": "10",
+        "title": "Crazy Watermelon [Nemesis]",
+        "lr2_bmsid": "313550",
+        "md5": "d161d15a2c84acd869d88cf55243e897",
+        "url": "https://drive.google.com/uc?export=download&id=1cYi45CfTsHbaUAi-QL4DlmU-RFN63EMn&confirm=t",
+        "url_diff": "https://venue.bmssearch.net/bcel_final/8",
+        "artist": "かむちゃうらる Obj.Triforce",
+        "comment": ""
+    },
+    {
+        "level": "1",
+        "title": "Agilion [ANOTHER]",
+        "lr2_bmsid": "308618",
+        "md5": "8a9d72554eada1de2172091e35c135fb",
+        "url": "https://venue.bmssearch.net/bmstukuru2022/3",
+        "url_diff": "",
+        "artist": "LeaF",
+        "comment": "weird patterns"
+    },
+    {
+        "level": "2",
+        "title": "SYNCHRO BUSTER [ANOTHER]",
+        "lr2_bmsid": "308075",
+        "md5": "e74ae9db02f63da1f4116220a273b65d",
+        "url": "https://venue.bmssearch.net/bmstukuru2022/41",
+        "url_diff": "",
+        "artist": "あとぅす feat.橘花音 BGI:さのり",
+        "comment": ""
+    },
+    {
+        "level": "9",
+        "title": "SYNCHRO BUSTER [CRITICAL]",
+        "lr2_bmsid": "308906",
+        "md5": "e74ae9db02f63da1f4116220a273b65d",
+        "url": "https://venue.bmssearch.net/bmstukuru2022/41",
+        "url_diff": "",
+        "artist": "あとぅす feat.橘花音 BGI:さのり",
+        "comment": ""
+    },
+    {
+        "level": "11",
+        "title": "SYNCHRO BUSTER [Scarlet]",
+        "lr2_bmsid": "318357",
+        "md5": "d3d3d08067a47805d093c6fc48762e1c",
+        "url": "https://venue.bmssearch.net/bmstukuru2022/41",
+        "url_diff": "https://stellabms.xyz/upload/2227",
+        "artist": "あとぅす feat.橘花音 / obj.fuko BGI:さのり",
+        "comment": "secret technique"
+    },
+    {
+        "level": "1",
+        "title": "杪冬の願い [ANOTHER]",
+        "lr2_bmsid": "308778",
+        "md5": "4477569e9d0bee33ad929ec1cf0de878",
+        "url": "https://venue.bmssearch.net/bmstukuru2022/33",
+        "url_diff": "",
+        "artist": "あとぅす feat.橘花音 BGI:りーふぱいザウルス",
+        "comment": "symmetric anmitsu"
+    },
+    {
+        "level": "9",
+        "title": "杪冬の願い [Oath]",
+        "lr2_bmsid": "308901",
+        "md5": "0eefd69932f6749002a71be3fc09fef6",
+        "url": "https://venue.bmssearch.net/bmstukuru2022/33",
+        "url_diff": "https://drive.google.com/uc?export=download&id=15EqJFkcO3cp8f8ygBmEWLGCYLBWAgXEW&confirm=t",
+        "artist": "あとぅす feat.橘花音 BGI:りーふぱいザウルス obj.ぶんぺ～",
+        "comment": "old sl9"
+    },
+    {
+        "level": "4",
+        "title": "virtuoso di tastiera [HYPER]",
+        "lr2_bmsid": "308839",
+        "md5": "c8ccf4ddee18a7339315564e8828f663",
+        "url": "https://venue.bmssearch.net/bmstukuru2022/38",
+        "url_diff": "",
+        "artist": "Falsch Liszt",
+        "comment": "ending drill"
+    },
+    {
+        "level": "12",
+        "title": "virtuoso di tastiera [ANOTHER]",
+        "lr2_bmsid": "308837",
+        "md5": "30a024053338bf9bc5f9b195bfc741df",
+        "url": "https://venue.bmssearch.net/bmstukuru2022/38",
+        "url_diff": "",
+        "artist": "Falsch Liszt",
+        "comment": ""
+    },
+    {
+        "level": "8",
+        "title": "サウンドコラージュ・ダイスキズム [ANOTHER]",
+        "lr2_bmsid": "308827",
+        "md5": "611579be6465be93c153561359646505",
+        "url": "https://venue.bmssearch.net/bmstukuru2022/36",
+        "url_diff": "",
+        "artist": "Vo:初音ミク (CYLTIE)",
+        "comment": "scratch heavy"
+    },
+    {
+        "level": "4",
+        "title": "Romantic Children [SP ANOTHER2]",
+        "lr2_bmsid": "212069",
+        "md5": "f51c0d0df34f3bb9894336e031d150dd",
+        "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=73&event=102",
+        "url_diff": "",
+        "artist": "ZUN / BMS:average BGA:のりろー",
+        "comment": ""
     }
 ]
