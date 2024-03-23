@@ -3380,7 +3380,7 @@
         "comment": "171BPM delay"
     },
     {
-        "level": "8",
+        "level": "9",
         "title": "Hydragonium [for some reason]",
         "lr2_bmsid": "328909",
         "md5": "f0918264dc8614cefc9f6bfbc4098c39",
@@ -3620,14 +3620,14 @@
         "comment": ""
     },
     {
-        "level": "8",
+        "level": "9",
         "title": "PEACE BREAKER [HARDEST]",
         "lr2_bmsid": "122939",
         "md5": "1ebf61990256b79628c9dee6a926ad39",
         "url": "https://web.archive.org/web/20120710000514/http://monochrome-world.sakura.ne.jp/peace_breaker.zip",
         "url_diff": "http://akred.web.fc2.com/bmsfile/_pb_B.onipote.HARDEST.bme",
         "artist": "Omnipotenx /差分 赤い人",
-        "comment": "st9 ending"
+        "comment": "very hard ending"
     },
     {
         "level": "4",
@@ -4448,5 +4448,85 @@
         "url_diff": "",
         "artist": "ZUN / BMS:average BGA:のりろー",
         "comment": ""
+    },
+    {
+        "level": "7",
+        "title": "Freja [yumether]",
+        "lr2_bmsid": "132647",
+        "md5": "080c24d8abe265284cb30effe548ff50",
+        "url": "http://flowermaster.web.fc2.com/riderbms/index.html",
+        "url_diff": "http://flowermaster.web.fc2.com/",
+        "artist": "rider / obj:夢瑠",
+        "comment": "第六回差分企画"
+    },
+    {
+        "level": "4",
+        "title": "consider numbers 3 [yumether]",
+        "lr2_bmsid": "66415",
+        "md5": "f8b717c17c8275cbe3718be2cb975d13",
+        "url": "http://www.yamajet.com/music/list.html",
+        "url_diff": "http://yumerusabun.web.fc2.com/nue.html",
+        "artist": "fether (Remixed by Yamajet) /obj:夢瑠",
+        "comment": "hard to hc"
+    },
+    {
+        "level": "2",
+        "title": "Head BONK ache [SP ANOTHER]",
+        "lr2_bmsid": "303358",
+        "md5": "4ce3d407b67d1edf3106d40731beac8a",
+        "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=2&event=137",
+        "url_diff": "",
+        "artist": "saaa ft. MC iwata Bros. / BGA : 空読無 白眼",
+        "comment": ""
+    },
+    {
+        "level": "10",
+        "title": "Head BONK ache [MIGRAINE]",
+        "lr2_bmsid": "303306",
+        "md5": "9d969d1d1ce3e1f62508a6eb7b132f78",
+        "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=2&event=137",
+        "url_diff": "",
+        "artist": "saaa ft. MC iwata Bros. / BGA : 空読無 白眼",
+        "comment": ""
+    },
+    {
+        "level": "6",
+        "title": "WHIRLWIND [Wind Rush]",
+        "lr2_bmsid": "301802",
+        "md5": "f474ba68a8b00bf6c18815540da6593c",
+        "url": "http://k-bms.com/party_pabat/party2017.jsp?board_num=17&num=43&order=reg&odtype=a",
+        "url_diff": "https://stellabms.xyz/upload/1135",
+        "artist": "Linne X SCTL Visualized by Keiyuu & RED-FOX / obj tyrcs",
+        "comment": "minijacks"
+    },
+    {
+        "level": "5",
+        "title": "WHIRLWIND [Collaborate]",
+        "lr2_bmsid": "324197",
+        "md5": "36d3d246c46d7c6ba2fa2cdb436c9454",
+        "url": "http://k-bms.com/party_pabat/party2017.jsp?board_num=17&num=43&order=reg&odtype=a",
+        "url_diff": "https://venue.bmssearch.net/sd_sand/14",
+        "artist": "Linne X SCTL Visualized by Keiyuu & RED-FOX / obj : Past Vs Present",
+        "comment": "same difficulty as wind rush...?"
+    },
+    {
+        "level": "1",
+        "title": "WHIRLWIND [SHD Mix]",
+        "lr2_bmsid": "242377",
+        "md5": "47d7cbc80df0b2f078b67f69bc9c0f7b",
+        "url": "http://k-bms.com/party_pabat/party2017.jsp?board_num=17&num=43&order=reg&odtype=a",
+        "url_diff": "",
+        "artist": "Linne X SCTL Visualized by Keiyuu & RED-FOX / obj. HUES",
+        "comment": ""
+    },
+    {
+        "level": "10",
+        "title": "ロスト：ユートピアと真理と純粋の極彩世界 [DISTOPIA_Fix]",
+        "lr2_bmsid": "310972",
+        "md5": "af0a9066c9fce98fc26611ec7237be00",
+        "url": "https://k-bms.com/party_pabat/party2017.jsp?board_num=17&num=70&order=reg&odtype=a",
+        "url_diff": "https://trfce.github.io/sabun/SPSB_Progressive_Fantasia2_10_triforce_fix.zip",
+        "artist": "Sound piercer & Sobrem Obj.Triforce",
+        "comment": "slap random might be required..."
     }
 ]
