@@ -150,7 +150,7 @@
         "comment": "normal judge"
     },
     {
-        "level": "1",
+        "level": "0",
         "title": "Evangelize (Radio Edit) [PLANET]",
         "lr2_bmsid": "42103",
         "md5": "ba976b164c8d9e397f54191860b3622a",
@@ -1290,7 +1290,7 @@
         "comment": "Gaming"
     },
     {
-        "level": "1",
+        "level": "2",
         "title": "SunnyShinyRing -Another-",
         "lr2_bmsid": "13",
         "md5": "621ad2a006a4d39a57749c5f8dcc11b6",
@@ -1615,7 +1615,7 @@
         "lr2_bmsid": "1315",
         "md5": "1da468b7747759763183cdc798bc2b2a",
         "url": "http://skydrive.live.com/?cid=fc95a680740ca8c9&id=FC95A680740CA8C9%21111",
-        "url_diff": "http://www.geocities.jp/azerty1s/",
+        "url_diff": "https://web.archive.org/web/20170809055839/http://www.geocities.jp/azerty1s/pageone2.html",
         "artist": "Transin /A-zert",
         "comment": ""
     },
@@ -4528,5 +4528,335 @@
         "url_diff": "https://trfce.github.io/sabun/SPSB_Progressive_Fantasia2_10_triforce_fix.zip",
         "artist": "Sound piercer & Sobrem Obj.Triforce",
         "comment": "slap random might be required..."
+    },
+    {
+        "level": "1",
+        "title": "Full of Tears -full-",
+        "lr2_bmsid": "3196",
+        "md5": "8818c4c2bda9e6f685fb85b78f84c7c4",
+        "url": "http://www1.axfc.net/u/3632328.zip",
+        "url_diff": "https://web.archive.org/web/20170809055839/http://www.geocities.jp/azerty1s/pageone2.html",
+        "artist": "Sentire /A-zert",
+        "comment": "ending"
+    },
+    {
+        "level": "1",
+        "title": "x-Aria -虎之another-",
+        "lr2_bmsid": "443",
+        "md5": "7d3202d40015e007c19ae0c8101e3895",
+        "url": "http://web.archive.org/web/20060305103446/http://bof.nothing.sh:8080/file/catnap_ridis_x_aria_hq.rar",
+        "url_diff": "http://web.archive.org/http://absolute.pv.land.to/",
+        "artist": "ridis / obj:black train",
+        "comment": "troll intro, slow jam in the middle"
+    },
+    {
+        "level": "4",
+        "title": "x-Aria -afother-",
+        "lr2_bmsid": "1656",
+        "md5": "1d90de062e1fe4c5216c290d1592e062",
+        "url": "http://web.archive.org/web/20060305103446/http://bof.nothing.sh:8080/file/catnap_ridis_x_aria_hq.rar",
+        "url_diff": "http://web.archive.org/http://absolute.pv.land.to/",
+        "artist": "ridis / obj:black train",
+        "comment": "slow jam in the middle"
+    },
+    {
+        "level": "4",
+        "title": "x-Aria -afother-",
+        "lr2_bmsid": "1656",
+        "md5": "1d90de062e1fe4c5216c290d1592e062",
+        "url": "http://web.archive.org/web/20060305103446/http://bof.nothing.sh:8080/file/catnap_ridis_x_aria_hq.rar",
+        "url_diff": "http://web.archive.org/http://absolute.pv.land.to/",
+        "artist": "ridis / obj:black train",
+        "comment": "slow jam in the middle"
+    },
+    {
+        "level": "2",
+        "title": "煉獄-Purgatorium- [HYPER]",
+        "lr2_bmsid": "112155",
+        "md5": "d77e97b6e6ab2aec290dc3c03f286b8c",
+        "url": "https://web.archive.org/web/20131019200614/http://bof2011bfg.web.fc2.com/nowcanyouclear.html",
+        "url_diff": "http://black-funeral.kill.jp/Purgatorium.zip",
+        "artist": "incinerate",
+        "comment": "can you hard clear?"
+    },
+    {
+        "level": "3",
+        "title": "l'amour d'amour --- 虎のANOTHER",
+        "lr2_bmsid": "1721",
+        "md5": "e2f79e94416c06323a59ef6440e273f7",
+        "url": "https://onedrive.live.com/?id=FC95A680740CA8C9%21111&cid=FC95A680740CA8C9",
+        "url_diff": "http://web.archive.org/http://absolute.pv.land.to/",
+        "artist": "orangentle / obj: black train",
+        "comment": "random dependancy"
+    },
+    {
+        "level": "4",
+        "title": "l'amour d'amour --- AFOTHER",
+        "lr2_bmsid": "447",
+        "md5": "fcb412d342cd7c1c55536d8bb0e68e4e",
+        "url": "https://onedrive.live.com/?id=FC95A680740CA8C9%21111&cid=FC95A680740CA8C9",
+        "url_diff": "http://web.archive.org/http://absolute.pv.land.to/",
+        "artist": "orangentle / obj: black train",
+        "comment": "random dependancy; not much difference in difficulty compared to torano"
+    },
+    {
+        "level": "4",
+        "title": "ETERNiZE [ANOTHER]",
+        "lr2_bmsid": "294618",
+        "md5": "3171fd7f2dddaa2b0947723338580655",
+        "url": "https://venue.bmssearch.net/bmstukuru2020/11",
+        "url_diff": "",
+        "artist": "Pleiades (あとぅす vs. Lian)",
+        "comment": "jacking"
+    },
+    {
+        "level": "7",
+        "title": "ETERNiZE [INSANE]",
+        "lr2_bmsid": "294579",
+        "md5": "99d193847df4af6a01987b7357c6af68",
+        "url": "https://venue.bmssearch.net/bmstukuru2020/11",
+        "url_diff": "",
+        "artist": "Pleiades (あとぅす vs. Lian)",
+        "comment": "RENDAiZE"
+    },
+    {
+        "level": "0",
+        "title": "Marmot [ANOTHER]",
+        "lr2_bmsid": "294619",
+        "md5": "428ccdfc6ebb9c9d6ef6a0521cfb8dd4",
+        "url": "https://venue.bmssearch.net/bmstukuru2020/12",
+        "url_diff": "",
+        "artist": "Lian",
+        "comment": ""
+    },
+    {
+        "level": "4",
+        "title": "Marmot [INSANE]",
+        "lr2_bmsid": "294613",
+        "md5": "b11c5327a7a8300a9058e557b6da1039",
+        "url": "https://venue.bmssearch.net/bmstukuru2020/12",
+        "url_diff": "",
+        "artist": "Lian",
+        "comment": "reading comprehension?"
+    },
+    {
+        "level": "10",
+        "title": "Marmot [HATE]",
+        "lr2_bmsid": "294608",
+        "md5": "b11c5327a7a8300a9058e557b6da1039",
+        "url": "https://venue.bmssearch.net/bmstukuru2020/12",
+        "url_diff": "",
+        "artist": "Lian",
+        "comment": "reading comprehension"
+    },
+    {
+        "level": "0",
+        "title": "現実をカットアップしてみた [現実逃避]",
+        "lr2_bmsid": "194599",
+        "md5": "dc2c1489c43a83738900e2fcbea4f39a",
+        "url": "http://famousbms.web.fc2.com/",
+        "url_diff": "",
+        "artist": "Yu^ta",
+        "comment": "180bpm chordstream + bursts"
+    },
+    {
+        "level": "5",
+        "title": "現実をカットアップしてみた [Append]",
+        "lr2_bmsid": "194596",
+        "md5": "649703c98ea45f64609db6adb263413a",
+        "url": "http://famousbms.web.fc2.com/",
+        "url_diff": "",
+        "artist": "Yu^ta / obj:Azel",
+        "comment": "messy burst intro; jackstreaming"
+    },
+    {
+        "level": "5",
+        "title": "現実をカットアップしてみた [Append]",
+        "lr2_bmsid": "194596",
+        "md5": "649703c98ea45f64609db6adb263413a",
+        "url": "http://famousbms.web.fc2.com/",
+        "url_diff": "",
+        "artist": "Yu^ta / obj:Azel",
+        "comment": "messy burst intro; jackstreaming"
+    },
+    {
+        "level": "11",
+        "title": "現実をカットアップしてみた [Final]",
+        "lr2_bmsid": "194594",
+        "md5": "ebb09ec26373b370f98ab6fa7e784fbc",
+        "url": "http://famousbms.web.fc2.com/",
+        "url_diff": "",
+        "artist": "Yu^ta / obj:Azel",
+        "comment": "Kyrka"
+    },
+    {
+        "level": "10",
+        "title": "現実をカットアップしてみた [Realism]",
+        "lr2_bmsid": "195481",
+        "md5": "51e0a29d5c7fc9cdf5e5e8eee1ad1124",
+        "url": "http://famousbms.web.fc2.com/",
+        "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up4700.zip",
+        "artist": "Yu^ta / obj:みっと",
+        "comment": "gazer+"
+    },
+    {
+        "level": "2",
+        "title": "First Creation [ANOTHER]",
+        "lr2_bmsid": "217427",
+        "md5": "03ac01b17fd717e0495ebae03e1031df",
+        "url": "https://dl.dropbox.com/s/fjccjz390i2vfbp/First%20Creation.rar",
+        "url_diff": "",
+        "artist": "るるりえーる",
+        "comment": "The Heaven and Earth"
+    },
+    {
+        "level": "5",
+        "title": "炎の内藤 [Extra Stage]",
+        "lr2_bmsid": "331173",
+        "md5": "ab41c25166ff462123777106ab5d1364",
+        "url": "http://abo.nobody.jp/index_bms.html",
+        "url_diff": "https://stellabms.xyz/upload/3794",
+        "artist": "ABOxxx respect ２個 obj: qtp13",
+        "comment": "Night of Fire"
+    },
+    {
+        "level": "7",
+        "title": "Amusing Colorful Pudding. [HARDEST]",
+        "lr2_bmsid": "198922",
+        "md5": "f19f3a79fe68e9e53b742b88529c0d98",
+        "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=147&event=96",
+        "url_diff": "http://akred.web.fc2.com/bmsfile/acp-HARDEST.bme",
+        "artist": "yukitani / DKN /差分 赤い人",
+        "comment": "only ending...? (goes as hard as st9)"
+    },
+    {
+        "level": "0",
+        "title": "contact force sense (remix)",
+        "lr2_bmsid": "196921",
+        "md5": "2fe430505ce12d5230b7c9452a081616",
+        "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=72&event=96",
+        "url_diff": "",
+        "artist": "TO-MAX remixed by LU",
+        "comment": "delay...?"
+    },
+    {
+        "level": "8",
+        "title": "contact force sense (remix) [F]",
+        "lr2_bmsid": "196921",
+        "md5": "68139aaf71929060ae146eb10d9fffbf",
+        "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=72&event=96",
+        "url_diff": "http://fenderbms.web.fc2.com/",
+        "artist": "TO-MAX remixed by LU obj:Fender",
+        "comment": "delay"
+    },
+    {
+        "level": "1",
+        "title": "Fuzzy-Navel [SP AGASTIA]",
+        "lr2_bmsid": "303327",
+        "md5": "d4cae082a6c32c6b66a3cdff5024a322",
+        "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=13&event=137",
+        "url_diff": "",
+        "artist": "Music:わかどり | Movie:もがみ obj:saaa",
+        "comment": ""
+    },
+    {
+        "level": "6",
+        "title": "Fuzzy-Navel [Nemesis]",
+        "lr2_bmsid": "312836",
+        "md5": "43ae0b9401b3b2214322b520b662f62a",
+        "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=13&event=137",
+        "url_diff": "https://venue.bmssearch.net/bcel_pre/32",
+        "artist": "Music:わかどり | Movie:もがみ Obj.Triforce",
+        "comment": "st7+ ending"
+    },
+    {
+        "level": "2",
+        "title": "Aim4TheStars",
+        "lr2_bmsid": "303490",
+        "md5": "714cd81db9d01c7fc02bc23e797762ed",
+        "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=186&event=137",
+        "url_diff": "",
+        "artist": "NGTMT",
+        "comment": "(Another); 2~3"
+    },
+    {
+        "level": "2",
+        "title": "Unleash The Shouts -Hope-",
+        "lr2_bmsid": "312542",
+        "md5": "4927784f183953f4aa54bd7f3ac48a54",
+        "url": "https://dl.dropbox.com/s/10qq3bb4a5qg4oh/anubasu-anubasu_feat_kei_iwata_-_Unleash_The_Shout_OGG.rar",
+        "url_diff": "https://venue.bmssearch.net/bcel_pre/53",
+        "artist": "anubasu-anubasu feat.kei_iwata BGA by Khronetic / obj:七海",
+        "comment": ""
+    },
+    {
+        "level": "4",
+        "title": "Unleash The Shouts [Uncouth]",
+        "lr2_bmsid": "312825",
+        "md5": "30ff3a5cf9b6602ce0e388084e86022f",
+        "url": "https://dl.dropbox.com/s/10qq3bb4a5qg4oh/anubasu-anubasu_feat_kei_iwata_-_Unleash_The_Shout_OGG.rar",
+        "url_diff": "https://venue.bmssearch.net/bcel_pre/5",
+        "artist": "anubasu-anubasu feat.kei_iwata BGA by Khronetic / obj:th",
+        "comment": ""
+    },
+    {
+        "level": "8",
+        "title": "la noche [Twilight]",
+        "lr2_bmsid": "321941",
+        "md5": "ccfdcc36587a671794168c76a8307cdf",
+        "url": "http://web.archive.org/web/20040427231512/http://hyperextension.web.infoseek.co.jp/sabun2/dairi/la_noche.rar",
+        "url_diff": "https://stellabms.xyz/upload/2727",
+        "artist": "NAGI / obj:83929",
+        "comment": ""
+    },
+    {
+        "level": "0",
+        "title": "約束 -HappyHyperStarmiX- (虎の穴)",
+        "lr2_bmsid": "22",
+        "md5": "4c229d58ee1a5f27531dbf1dfb20dbff",
+        "url": "http://cool-create.cc/bms/btm_yaku.html",
+        "url_diff": "http://web.archive.org/http://absolute.pv.land.to/",
+        "artist": "beatMARIO / obj: black train",
+        "comment": ""
+    },
+    {
+        "level": "4",
+        "title": "約束 -HappyHyperStarmiX- (AFOTHER)",
+        "lr2_bmsid": "1744",
+        "md5": "bab0827b5e0c419e9260051447310ce7",
+        "url": "http://cool-create.cc/bms/btm_yaku.html",
+        "url_diff": "http://web.archive.org/http://absolute.pv.land.to/",
+        "artist": "beatMARIO / obj: black train",
+        "comment": ""
+    },
+    {
+        "level": "11",
+        "title": "約束 -HappyHyperStarmiX- (MANIAQ)",
+        "lr2_bmsid": "524",
+        "md5": "170f6aa0d03bc4f71af077765ada7a79",
+        "url": "http://cool-create.cc/bms/btm_yaku.html",
+        "url_diff": "http://web.archive.org/http://absolute.pv.land.to/",
+        "artist": "beatMARIO / obj: black train",
+        "comment": ""
+    },
+    {
+        "level": "4",
+        "title": "少女の檻 \"Last Night, Last Dancing.\"",
+        "lr2_bmsid": "1407",
+        "md5": "86ab3e02a8a3fb5c1c88cf5180098889",
+        "url": "http://cool-create.cc/bms/btm_ori.html",
+        "url_diff": "https://web.archive.org/web/20181009000320/http://www.geocities.jp/azerty1s/pageone2.html",
+        "artist": "beatMARIO /A-zert",
+        "comment": "(7Line Maniac)"
+    },
+    {
+        "level": "9",
+        "title": "少女の檻 \"Last Night, Last Dancing.\"",
+        "lr2_bmsid": "641",
+        "md5": "179ca83e83a13dceabb6fbcd093aa33c",
+        "url": "http://cool-create.cc/bms/btm_ori.html",
+        "url_diff": "https://web.archive.org/web/20181009000320/http://www.geocities.jp/azerty1s/pageone2.html",
+        "artist": "beatMARIO /A-zert",
+        "comment": "(LastDance); low total"
     }
 ]
