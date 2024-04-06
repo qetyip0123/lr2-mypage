@@ -20,6 +20,29 @@ const url = (import.meta.env.PROD ? '/lr2-mypage' : '') + '/double_time.json'
 
 onMounted(() => {
   dt = table.value.dt;
+  dt.on('init.dt', () => {
+    let levelColumn = dt.column(0);
+    // Create select element
+    let select = document.createElement('select');
+    select.add(new Option(''));
+    levelColumn.footer().replaceChildren(select);
+
+    // Apply listener for user change in value
+    select.addEventListener('change', function () {
+      levelColumn
+        .search(select.value ? `^${select.value}$` : '', { regex: !!select.value })
+        .draw();
+    });
+
+    // Add list of options
+    levelColumn
+      .data()
+      .unique()
+      .sort((a, b) => a - b)
+      .each(function (d, j) {
+        select.add(new Option(d));
+      });
+  })
   dt.on('order', () => {
     if (dt.order()[0][0] === 0) {
       dt.rowGroup().dataSrc((rowdata) => {
@@ -27,11 +50,11 @@ onMounted(() => {
       })
     } else if (dt.order()[0][0] === 1) {
       dt.rowGroup().dataSrc((rowdata) => {
-        return rowdata.title.substring(0, 1);
+        return /^[\x20-\x7F]*$/.test(rowdata.title.substring(0, 1)) ? rowdata.title.substring(0, 1) : 'Others'
       })
     } else if (dt.order()[0][0] === 2) {
       dt.rowGroup().dataSrc((rowdata) => {
-        return rowdata.artist.substring(0, 1);
+        return /^[\x20-\x7F]*$/.test(rowdata.artist.substring(0, 1)) ? rowdata.artist.substring(0, 1) : 'Others'
       })
     }
   })
